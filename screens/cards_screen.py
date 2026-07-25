@@ -3,13 +3,13 @@ from dnd_api import get_monster_details
 from models.monster import Monster
 from ui_constants import (
     SPACING_XS, SPACING_SM, SPACING_LG, SPACING_XL,
-    BUTTON_HEIGHT_MD, BUTTON_WIDTH_MD,
+    BUTTON_HEIGHT_MD, BUTTON_HEIGHT_LG, BUTTON_WIDTH_MD, BUTTON_WIDTH_LG,
     TEXT_SIZE_MD, TEXT_SIZE_LG, TEXT_SIZE_XL,
 )
 from translations import t, get_lang, set_lang
 
 
-def cards_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_back, rebuild):
+def cards_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_back, rebuild, on_fight=None):
     """Render the two selected monsters as stat cards.
 
     Args:
@@ -18,6 +18,7 @@ def cards_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_bac
         monster2_index: Index of the second monster
         on_back: Callback function to go back to monster selection
         rebuild: Callback to rebuild the current screen (for language toggle)
+        on_fight: Callback function to proceed to battle screen
     """
 
     def toggle_language(e):
@@ -166,6 +167,18 @@ def cards_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_bac
                     vertical_alignment=ft.CrossAxisAlignment.START,
                     spacing=SPACING_LG,
                     scroll=ft.ScrollMode.AUTO,
+                ),
+                ft.Container(height=SPACING_XL),
+                # Fight Button
+                ft.ElevatedButton(
+                    t(page, "fight_button"),
+                    width=BUTTON_WIDTH_LG,
+                    height=BUTTON_HEIGHT_LG,
+                    on_click=lambda e: on_fight(monster1_index, monster2_index) if on_fight else None,
+                    style=ft.ButtonStyle(
+                        bgcolor=ft.Colors.RED_700,
+                        color=ft.Colors.WHITE,
+                    ),
                 ),
             ],
             horizontal_alignment=ft.CrossAxisAlignment.CENTER,
