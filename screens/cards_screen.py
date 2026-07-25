@@ -6,9 +6,10 @@ from ui_constants import (
     BUTTON_HEIGHT_MD, BUTTON_WIDTH_MD,
     TEXT_SIZE_MD, TEXT_SIZE_LG, TEXT_SIZE_XL,
 )
+from translations import t, get_lang, set_lang
 
 
-def cards_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_back):
+def cards_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_back, rebuild):
     """Render the two selected monsters as stat cards.
 
     Args:
@@ -16,7 +17,15 @@ def cards_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_bac
         monster1_index: Index of the first monster
         monster2_index: Index of the second monster
         on_back: Callback function to go back to monster selection
+        rebuild: Callback to rebuild the current screen (for language toggle)
     """
+
+    def toggle_language(e):
+        """Switch between Japanese and English and rebuild the screen."""
+        current = get_lang(page)
+        set_lang(page, "en" if current == "ja" else "ja")
+        rebuild()
+
     # Fetch monster details
     monster1 = get_monster_details(monster1_index)
     monster2 = get_monster_details(monster2_index)
@@ -28,11 +37,11 @@ def cards_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_bac
                 ft.Container(height=SPACING_XL),
                 ft.Icon(ft.Icons.ERROR_OUTLINE, size=80, color=ft.Colors.RED_400),
                 ft.Container(height=SPACING_LG),
-                ft.Text("Failed to load monster details", size=TEXT_SIZE_XL, color=ft.Colors.RED_400),
-                ft.Text("Please check your internet connection", size=TEXT_SIZE_LG, color=ft.Colors.GREY_400),
+                ft.Text(t(page, "failed_to_load_details"), size=TEXT_SIZE_XL, color=ft.Colors.RED_400),
+                ft.Text(t(page, "check_connection"), size=TEXT_SIZE_LG, color=ft.Colors.GREY_400),
                 ft.Container(height=SPACING_XL),
                 ft.ElevatedButton(
-                    "← Back",
+                    t(page, "back"),
                     on_click=on_back,
                     width=BUTTON_WIDTH_MD,
                     height=BUTTON_HEIGHT_MD,
@@ -68,19 +77,19 @@ def cards_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_bac
                         content=ft.Column(
                             [
                                 ft.Text(
-                                    f"HP: {monster.hp}",
+                                    f"{t(page, 'hp')}: {monster.hp}",
                                     size=TEXT_SIZE_MD,
                                     color=ft.Colors.GREEN_300,
                                     weight=ft.FontWeight.BOLD,
                                 ),
                                 ft.Text(
-                                    f"Armor Class (AC): {monster.ac}",
+                                    f"{t(page, 'armor_class')}: {monster.ac}",
                                     size=TEXT_SIZE_MD,
                                     color=ft.Colors.BLUE_300,
                                     weight=ft.FontWeight.BOLD,
                                 ),
                                 ft.Text(
-                                    f"Strength (STR): {monster.strength}",
+                                    f"{t(page, 'strength')}: {monster.strength}",
                                     size=TEXT_SIZE_MD,
                                     color=ft.Colors.ORANGE_300,
                                     weight=ft.FontWeight.BOLD,
@@ -108,20 +117,30 @@ def cards_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_bac
         content=ft.Column(
             [
                 ft.Container(height=SPACING_SM),
-                # Header: back button + title
+                # Header: back button + title + language toggle
                 ft.Row(
                     [
                         ft.IconButton(
                             icon=ft.Icons.ARROW_BACK,
                             icon_color=ft.Colors.WHITE,
                             on_click=on_back,
-                            tooltip="Back to Monster Selection",
+                            tooltip=t(page, "back_to_selection"),
                         ),
                         ft.Text(
-                            "Monster Cards",
+                            t(page, "monster_cards"),
                             size=28,
                             weight=ft.FontWeight.BOLD,
                             color=ft.Colors.WHITE,
+                        ),
+                        ft.Container(expand=True),
+                        ft.ElevatedButton(
+                            t(page, "language_label"),
+                            icon=ft.Icons.TRANSLATE,
+                            on_click=toggle_language,
+                            style=ft.ButtonStyle(
+                                bgcolor=ft.Colors.GREY_800,
+                                color=ft.Colors.WHITE,
+                            ),
                         ),
                     ],
                     alignment=ft.MainAxisAlignment.START,
