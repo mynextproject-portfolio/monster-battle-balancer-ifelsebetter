@@ -1,4 +1,4 @@
-from typing import Dict, Any
+from typing import Dict, Any, Optional
 
 
 class Monster:
@@ -29,6 +29,9 @@ class Monster:
         # Validate and extract required fields (fail fast)
         self._validate_and_extract_required_fields()
 
+        # Parse attack data (optional — not all monsters attack)
+        self._extract_attack()
+
     def _validate_and_extract_required_fields(self) -> None:
         """Validate and extract required fields from API data.
 
@@ -54,6 +57,57 @@ class Monster:
             raise ValueError(f"Monster '{self.name}' missing required 'strength' data")
         self._strength = self._data["strength"]
 
+    def _extract_attack(self) -> None:
+        """Extract the first real attack's to-hit bonus and damage dice.
+
+        Filters the actions list down to entries that have an attack_bonus
+        (skipping Multiattack, special abilities, and other non-attack actions).
+        Picks the first real attack found.
+        """
+        self._attack_bonus: Optional[int] = None
+        self._damage_dice: Optional[str] = None
+
+        actions = self._data.get("actions", [])
+        for action in actions:
+            # A real attack has an attack_bonus key with a numeric value
+            if "attack_bonus" not in action or action["attack_bonus"] is None:
+                continue
+
+            self._attack_bonus = action["attack_bonus"]
+
+            # Extract damage_dice from the damage list
+            damage_list = action.get("damage", [])
+            if damage_list:
+                self._damage_dice = self._extract_damage_dice(damage_list[0])
+
+            break  # Use the first real attack
+
+    @staticmethod
+    def _extract_damage_dice(damage_entry: Dict[str, Any]) -> Optional[str]:
+        """Extract damage_dice from a damage entry.
+
+        Handles two API formats:
+        - Simple: {"damage_dice": "1d6+2", "damage_type": {...}}
+        - Versatile (choose): {"choose": 1, "from": {"options": [{"damage_dice": "1d8+3"}, ...]}}
+
+        Args:
+            damage_entry: A single entry from the action's damage list
+
+        Returns:
+            The damage dice string (e.g. '1d6+2') or None
+        """
+        # Simple format: damage_dice directly on the entry
+        if "damage_dice" in damage_entry:
+            return damage_entry["damage_dice"]
+
+        # Versatile/choose format: pick the first option
+        from_data = damage_entry.get("from", {})
+        options = from_data.get("options", [])
+        if options and "damage_dice" in options[0]:
+            return options[0]["damage_dice"]
+
+        return None
+
     # Properties - lightweight accessors returning the validated values
 
     @property
@@ -71,8 +125,19 @@ class Monster:
         """Return the monster's Strength score."""
         return self._strength
 
+    @property
+    def attack_bonus(self) -> Optional[int]:
+        """Return the monster's first attack's to-hit bonus, or None."""
+        return self._attack_bonus
+
+    @property
+    def damage_dice(self) -> Optional[str]:
+        """Return the monster's first attack's damage dice (e.g. '1d6+2'), or None."""
+        return self._damage_dice
+
     def __str__(self) -> str:
         return f"{self.name}"
 
     def __repr__(self) -> str:
         return f"Monster(name='{self.name}', hp={self.hp}, ac={self.ac})"
+
