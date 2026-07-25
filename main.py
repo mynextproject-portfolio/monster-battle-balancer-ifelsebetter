@@ -3,6 +3,7 @@ import flet as ft
 from screens.home_screen import home_screen
 from screens.monster_selection_screen import monster_selection_screen
 from screens.cards_screen import cards_screen
+from translations import set_lang
 
 
 def main(page: ft.Page):
@@ -19,24 +20,27 @@ def main(page: ft.Page):
     page.window.height = 900  # Desktop height
     page.window.resizable = True
     page.window.maximizable = True
+
+    # Set default language to Japanese (as agreed with Haruki Sato)
+    set_lang(page, "ja")
     
     # Navigation functions
     def navigate_to_home(e=None):
         """Navigate to the home screen."""
         page.clean()
-        page.add(home_screen(page, navigate_to_monster_selection))
+        page.add(home_screen(page, navigate_to_monster_selection, navigate_to_home))
         page.update()
     
     def navigate_to_monster_selection(e=None):
         """Navigate to the monster selection screen."""
         page.clean()
-        page.add(monster_selection_screen(page, navigate_to_home, navigate_to_cards))
+        page.add(monster_selection_screen(page, navigate_to_home, navigate_to_cards, navigate_to_monster_selection))
         page.update()
 
     def navigate_to_cards(monster1_index: str, monster2_index: str):
         """Navigate to the cards screen with selected monsters."""
         page.clean()
-        page.add(cards_screen(page, monster1_index, monster2_index, navigate_to_monster_selection))
+        page.add(cards_screen(page, monster1_index, monster2_index, navigate_to_monster_selection, lambda: navigate_to_cards(monster1_index, monster2_index)))
         page.update()
     
     # Start with home screen
