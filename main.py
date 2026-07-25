@@ -3,6 +3,7 @@ import flet as ft
 from screens.home_screen import home_screen
 from screens.monster_selection_screen import monster_selection_screen
 from screens.cards_screen import cards_screen
+from screens.battle_screen import battle_screen
 from translations import set_lang
 
 
@@ -40,7 +41,26 @@ def main(page: ft.Page):
     def navigate_to_cards(monster1_index: str, monster2_index: str):
         """Navigate to the cards screen with selected monsters."""
         page.clean()
-        page.add(cards_screen(page, monster1_index, monster2_index, navigate_to_monster_selection, lambda: navigate_to_cards(monster1_index, monster2_index)))
+        page.add(cards_screen(
+            page,
+            monster1_index,
+            monster2_index,
+            navigate_to_monster_selection,
+            lambda: navigate_to_cards(monster1_index, monster2_index),
+            on_fight=navigate_to_battle,
+        ))
+        page.update()
+
+    def navigate_to_battle(monster1_index: str, monster2_index: str):
+        """Navigate to the battle screen with selected monsters."""
+        page.clean()
+        page.add(battle_screen(
+            page,
+            monster1_index,
+            monster2_index,
+            on_back=lambda e=None: navigate_to_cards(monster1_index, monster2_index),
+            rebuild=lambda: navigate_to_battle(monster1_index, monster2_index),
+        ))
         page.update()
     
     # Start with home screen

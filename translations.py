@@ -29,6 +29,13 @@ TRANSLATIONS = {
         "armor_class": "アーマークラス (AC)",
         "strength": "筋力 (STR)",
 
+        # Battle screen & action
+        "fight_button": "⚔️ バトル開始！",
+        "battle_screen_title": "バトル結果",
+        "winner_label": "🏆 勝者:",
+        "back_to_cards": "カード画面に戻る",
+        "rematch_button": "🔄 再戦",
+
         # Error messages
         "failed_to_load_monsters": "モンスターの読み込みに失敗しました",
         "check_connection": "インターネット接続を確認してください",
@@ -62,6 +69,13 @@ TRANSLATIONS = {
         "hp": "HP",
         "armor_class": "Armor Class (AC)",
         "strength": "Strength (STR)",
+
+        # Battle screen & action
+        "fight_button": "⚔️ Fight!",
+        "battle_screen_title": "Battle Result",
+        "winner_label": "🏆 Winner:",
+        "back_to_cards": "Back to Cards",
+        "rematch_button": "🔄 Rematch",
 
         # Error messages
         "failed_to_load_monsters": "Failed to load monsters",
