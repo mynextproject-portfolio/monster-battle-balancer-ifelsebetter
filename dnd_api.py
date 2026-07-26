@@ -47,3 +47,75 @@ def get_monster_details(monster_index: str) -> Optional[Monster]:
         print(f"Error fetching monster details for {monster_index}: {e}")
         return None
 
+
+def fetch_all_monsters(cache_file: str = "storage/monsters_cache.json") -> List[Monster]:
+    """Fetch details for all available monsters, using local disk cache if available.
+
+    Args:
+        cache_file: Path to local JSON file used to cache raw monster data dicts.
+
+    Returns:
+        List of successfully parsed Monster objects.
+    """
+    import json
+    from concurrent.futures import ThreadPoolExecutor
+
+    # Try loading from cache
+    if os.path.exists(cache_file):
+        try:
+            with open(cache_file, "r", encoding="utf-8") as f:
+                cached_data = json.load(f)
+            monsters = []
+            for item in cached_data:
+                try:
+                    monsters.append(Monster(item))
+                except ValueError:
+                    pass
+            if monsters:
+                return monsters
+        except Exception as e:
+            print(f"Error reading cache file {cache_file}: {e}")
+
+    # Fetch list from API
+    monster_list = get_monsters()
+
+    def fetch_single(item):
+        index = item.get("index")
+        if not index:
+            return None
+        try:
+            response = requests.get(f"{BASE_URL}/monsters/{index}", timeout=10)
+            response.raise_for_status()
+            mdata = response.json()
+            if "image" in mdata and mdata["image"]:
+                mdata["full_image_url"] = f"{IMAGE_BASE_URL}{mdata['image']}"
+            else:
+                mdata["full_image_url"] = None
+            return mdata
+        except Exception:
+            return None
+
+    # Fetch in parallel with 20 worker threads
+    with ThreadPoolExecutor(max_workers=20) as executor:
+        results = list(executor.map(fetch_single, monster_list))
+
+    raw_monsters = [r for r in results if r is not None]
+    monsters = []
+    for mdata in raw_monsters:
+        try:
+            monsters.append(Monster(mdata))
+        except ValueError:
+            pass
+
+    # Save cache
+    try:
+        os.makedirs(os.path.dirname(cache_file), exist_ok=True)
+        with open(cache_file, "w", encoding="utf-8") as f:
+            json.dump(raw_monsters, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        print(f"Failed to write cache file {cache_file}: {e}")
+
+    return monsters
+
+
+

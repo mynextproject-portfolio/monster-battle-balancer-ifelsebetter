@@ -43,15 +43,19 @@ MAX_ROUNDS = 100
 
 
 def parse_damage_dice(damage_dice: str) -> Tuple[int, int, int]:
-    """Parse a damage string like '1d6+2' into (num_dice, die_size, bonus).
+    """Parse a damage string like '1d6+2' or fixed integer '1' into (num_dice, die_size, bonus).
 
-    Supports formats: '1d6+2', '2d8', '1d10-1', '1d6'
+    Supports formats: '1d6+2', '2d8', '1d10-1', '1d6', '1'
     Returns (num_dice, die_size, bonus).
 
     Raises:
         ValueError: If the string doesn't match the expected pattern.
     """
-    match = re.match(r"^(\d+)d(\d+)([+-]\d+)?$", damage_dice.strip())
+    cleaned = damage_dice.strip()
+    if cleaned.isdigit():
+        return 0, 0, int(cleaned)
+
+    match = re.match(r"^(\d+)d(\d+)([+-]\d+)?$", cleaned)
     if not match:
         raise ValueError(f"Cannot parse damage dice: '{damage_dice}'")
 
@@ -62,13 +66,19 @@ def parse_damage_dice(damage_dice: str) -> Tuple[int, int, int]:
 
 
 def roll_damage(damage_dice: str, rng: random.Random) -> int:
-    """Roll damage from a dice string (e.g. '1d6+2') using the given RNG.
+    """Roll damage from a dice string (e.g. '1d6+2' or '1') using the given RNG.
 
     Returns at least 1 damage on any successful hit (floor of 1).
     """
-    num_dice, die_size, bonus = parse_damage_dice(damage_dice)
-    total = sum(rng.randint(1, die_size) for _ in range(num_dice)) + bonus
-    return max(1, total)  # Minimum 1 damage on a hit
+    try:
+        num_dice, die_size, bonus = parse_damage_dice(damage_dice)
+        if num_dice == 0:
+            return max(1, bonus)
+        total = sum(rng.randint(1, die_size) for _ in range(num_dice)) + bonus
+        return max(1, total)  # Minimum 1 damage on a hit
+    except Exception:
+        return 1
+
 
 
 def simulate_battle(
@@ -190,3 +200,81 @@ def run_battle(
         monster2_win_pct=m2_pct,
         is_fun=is_fun_matchup(m1_pct, m2_pct),
     )
+
+
+def _evaluate_pair_task(args):
+    m1, m2, num_simulations, fast_screen_sims = args
+    if fast_screen_sims > 0:
+        s1_pct, s2_pct = run_monte_carlo(m1, m2, num_simulations=fast_screen_sims)
+        if min(s1_pct, s2_pct) < 10.0:
+            return None
+
+    result = run_battle(m1, m2, num_simulations=num_simulations)
+    if result.is_fun:
+        return {
+            "monster1": m1.name,
+            "monster2": m2.name,
+            "monster1_win_pct": result.monster1_win_pct,
+            "monster2_win_pct": result.monster2_win_pct,
+        }
+    return None
+
+
+def find_all_fun_matchups(
+    monsters: list[Monster],
+    num_simulations: int = 5000,
+    fast_screen_sims: int = 200,
+    max_workers: Optional[int] = None,
+) -> list[dict]:
+    """Scan all unique pairs of monsters and return all fun matchups.
+
+    Reuses existing battle simulation, Monte Carlo, and classification logic.
+    Uses a two-phase adaptive strategy and multi-core parallelization for efficiency.
+
+    Args:
+        monsters: List of Monster objects to evaluate.
+        num_simulations: Full Monte Carlo simulation count for potential fun fights.
+        fast_screen_sims: Initial screening simulation count (0 to disable).
+        max_workers: Number of parallel worker processes (defaults to CPU count).
+
+    Returns:
+        List of dicts representing fun matchups.
+    """
+    from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
+
+    # Pre-filter combatants (must have attack capability)
+    combatants = [
+        m for m in monsters
+        if m.attack_bonus is not None and m.damage_dice is not None
+    ]
+
+    pairs_tasks = []
+    n = len(combatants)
+    for i in range(n):
+        m1 = combatants[i]
+        for j in range(i + 1, n):
+            m2 = combatants[j]
+            pairs_tasks.append((m1, m2, num_simulations, fast_screen_sims))
+
+    if not pairs_tasks:
+        return []
+
+    fun_matchups = []
+    # Try ProcessPoolExecutor for multi-core scaling, fallback to ThreadPoolExecutor
+    try:
+        executor_cls = ProcessPoolExecutor
+        with executor_cls(max_workers=max_workers) as executor:
+            results = executor.map(_evaluate_pair_task, pairs_tasks, chunksize=100)
+            for r in results:
+                if r is not None:
+                    fun_matchups.append(r)
+    except Exception:
+        with ThreadPoolExecutor(max_workers=max_workers or 16) as executor:
+            results = executor.map(_evaluate_pair_task, pairs_tasks)
+            for r in results:
+                if r is not None:
+                    fun_matchups.append(r)
+
+    return fun_matchups
+
+
