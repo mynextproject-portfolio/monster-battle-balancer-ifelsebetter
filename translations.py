@@ -36,6 +36,8 @@ TRANSLATIONS = {
         "back_to_cards": "カード画面に戻る",
         "rematch_button": "🔄 再戦",
         "win_chance_label": "勝率",
+        "matchup_fun": "🔥 好勝負！",
+        "matchup_boring": "💤 一方的な試合",
 
         # Error messages
         "failed_to_load_monsters": "モンスターの読み込みに失敗しました",
@@ -78,6 +80,8 @@ TRANSLATIONS = {
         "back_to_cards": "Back to Cards",
         "rematch_button": "🔄 Rematch",
         "win_chance_label": "Win Chance",
+        "matchup_fun": "🔥 Fun Fight!",
+        "matchup_boring": "💤 Stomp",
 
         # Error messages
         "failed_to_load_monsters": "Failed to load monsters",
