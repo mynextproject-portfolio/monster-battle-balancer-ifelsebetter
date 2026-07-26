@@ -4,7 +4,7 @@ Tests for battle simulator module.
 
 import pytest
 from models.monster import Monster
-from battle import simulate_battle, parse_damage_dice, roll_damage, MAX_ROUNDS, run_monte_carlo, run_battle, BattleResult
+from battle import simulate_battle, parse_damage_dice, roll_damage, MAX_ROUNDS, run_monte_carlo, run_battle, BattleResult, is_fun_matchup, FUN_THRESHOLD_PCT
 
 
 class TestDamageParsing:
@@ -149,3 +149,47 @@ class TestRunBattle:
     def test_result_percentages_sum_to_100(self, goblin, orc):
         result = run_battle(goblin, orc, num_simulations=100)
         assert abs((result.monster1_win_pct + result.monster2_win_pct) - 100.0) < 0.01
+
+
+class TestIsFunMatchup:
+    def test_balanced_fight_is_fun(self):
+        """A 60/40 matchup is a real contest."""
+        assert is_fun_matchup(60.0, 40.0) is True
+
+    def test_even_fight_is_fun(self):
+        """A 50/50 matchup is the most fun."""
+        assert is_fun_matchup(50.0, 50.0) is True
+
+    def test_borderline_fight_is_fun(self):
+        """Exactly at the 20% threshold — still fun."""
+        assert is_fun_matchup(80.0, 20.0) is True
+        assert is_fun_matchup(20.0, 80.0) is True
+
+    def test_stomp_is_boring(self):
+        """A 95/5 matchup is a stomp — boring."""
+        assert is_fun_matchup(95.0, 5.0) is False
+
+    def test_just_below_threshold_is_boring(self):
+        """Just under 20% for the underdog — boring."""
+        assert is_fun_matchup(80.1, 19.9) is False
+
+    def test_run_battle_includes_is_fun(self):
+        """run_battle populates the is_fun field."""
+        strong = Monster({
+            "name": "Strong",
+            "hit_points": 50,
+            "armor_class": [{"value": 18}],
+            "strength": 20,
+            "actions": [{"name": "Sword", "attack_bonus": 8, "damage": [{"damage_dice": "2d10+5"}]}]
+        })
+        weak = Monster({
+            "name": "Weak",
+            "hit_points": 5,
+            "armor_class": [{"value": 10}],
+            "strength": 6,
+            "actions": [{"name": "Slap", "attack_bonus": 1, "damage": [{"damage_dice": "1d4"}]}]
+        })
+        result = run_battle(strong, weak, num_simulations=100)
+        assert isinstance(result.is_fun, bool)
+        # Strong vs Weak should be a stomp
+        assert result.is_fun is False

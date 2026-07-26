@@ -54,6 +54,8 @@ def battle_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_ba
     winner = result.winner
     m1_pct = result.monster1_win_pct
     m2_pct = result.monster2_win_pct
+    verdict_key = "matchup_fun" if result.is_fun else "matchup_boring"
+    verdict_color = ft.Colors.GREEN_400 if result.is_fun else ft.Colors.GREY_500
 
     return ft.Container(
         content=ft.Column(
@@ -190,6 +192,23 @@ def battle_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_ba
                     border=ft.border.all(2, ft.Colors.GREY_600),
                     border_radius=15,
                     bgcolor=ft.Colors.GREY_800,
+                ),
+                ft.Container(height=SPACING_LG),
+
+                # Fun / Boring Verdict
+                ft.Container(
+                    content=ft.Text(
+                        t(page, verdict_key),
+                        size=TEXT_SIZE_LG,
+                        color=verdict_color,
+                        weight=ft.FontWeight.BOLD,
+                        text_align=ft.TextAlign.CENTER,
+                    ),
+                    padding=SPACING_SM,
+                    border=ft.border.all(2, verdict_color),
+                    border_radius=10,
+                    bgcolor=ft.Colors.GREY_900,
+                    alignment=ft.alignment.center,
                 ),
                 ft.Container(height=SPACING_XL),
 

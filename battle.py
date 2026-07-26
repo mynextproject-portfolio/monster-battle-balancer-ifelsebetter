@@ -18,6 +18,11 @@ from typing import Optional, Tuple
 from models.monster import Monster
 
 
+# Minimum win% for the underdog to qualify as a "fun" (real contest) matchup.
+# Agreed with Haruki Sato: both sides need at least ~1-in-5 chance.
+FUN_THRESHOLD_PCT = 20.0
+
+
 @dataclass
 class BattleResult:
     """Immutable container for a complete battle outcome.
@@ -26,10 +31,12 @@ class BattleResult:
         winner: The Monster that won the single fight.
         monster1_win_pct: Monster 1's win chance from Monte Carlo simulation.
         monster2_win_pct: Monster 2's win chance from Monte Carlo simulation.
+        is_fun: True if both monsters clear the fun threshold (real contest).
     """
     winner: Monster
     monster1_win_pct: float
     monster2_win_pct: float
+    is_fun: bool
 
 # Hard cap on rounds so a fight always terminates.
 MAX_ROUNDS = 100
@@ -139,6 +146,26 @@ def run_monte_carlo(
     return m1_pct, 100 - m1_pct
 
 
+def is_fun_matchup(
+    monster1_win_pct: float, monster2_win_pct: float,
+    threshold: float = FUN_THRESHOLD_PCT,
+) -> bool:
+    """Classify a matchup as fun (real contest) or boring (stomp).
+
+    A matchup is fun when BOTH monsters have at least `threshold`% chance
+    of winning — i.e. neither side's win rate drops below 20%.
+
+    Args:
+        monster1_win_pct: Monster 1's win percentage (0-100).
+        monster2_win_pct: Monster 2's win percentage (0-100).
+        threshold: Minimum win% for the underdog (default 20).
+
+    Returns:
+        True if the matchup is a real contest, False if it is a stomp.
+    """
+    return min(monster1_win_pct, monster2_win_pct) >= threshold
+
+
 def run_battle(
     monster1: Monster, monster2: Monster, num_simulations: int = 5000
 ) -> BattleResult:
@@ -153,7 +180,7 @@ def run_battle(
         num_simulations: Number of Monte Carlo simulations.
 
     Returns:
-        A BattleResult with winner and win percentages.
+        A BattleResult with winner, win percentages, and fun/boring verdict.
     """
     winner = simulate_battle(monster1, monster2)
     m1_pct, m2_pct = run_monte_carlo(monster1, monster2, num_simulations)
@@ -161,4 +188,5 @@ def run_battle(
         winner=winner,
         monster1_win_pct=m1_pct,
         monster2_win_pct=m2_pct,
+        is_fun=is_fun_matchup(m1_pct, m2_pct),
     )
