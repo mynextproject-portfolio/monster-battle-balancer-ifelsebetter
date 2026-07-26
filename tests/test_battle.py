@@ -4,7 +4,11 @@ Tests for battle simulator module.
 
 import pytest
 from models.monster import Monster
-from battle import simulate_battle, parse_damage_dice, roll_damage, MAX_ROUNDS, run_monte_carlo, run_battle, BattleResult, is_fun_matchup, FUN_THRESHOLD_PCT
+from battle import (
+    simulate_battle, parse_damage_dice, roll_damage, MAX_ROUNDS,
+    run_monte_carlo, run_battle, BattleResult, is_fun_matchup,
+    FUN_THRESHOLD_PCT, find_all_fun_matchups
+)
 
 
 class TestDamageParsing:
@@ -12,6 +16,7 @@ class TestDamageParsing:
         assert parse_damage_dice("1d6+2") == (1, 6, 2)
         assert parse_damage_dice("2d8") == (2, 8, 0)
         assert parse_damage_dice("1d10-1") == (1, 10, -1)
+        assert parse_damage_dice("1") == (0, 0, 1)
 
     def test_parse_damage_dice_invalid(self):
         with pytest.raises(ValueError):
@@ -193,3 +198,38 @@ class TestIsFunMatchup:
         assert isinstance(result.is_fun, bool)
         # Strong vs Weak should be a stomp
         assert result.is_fun is False
+
+
+class TestFindAllFunMatchups:
+    def test_find_all_fun_matchups(self):
+        """Test finding fun matchups across a small set of monsters."""
+        m1 = Monster({
+            "name": "Goblin",
+            "hit_points": 7,
+            "armor_class": [{"value": 15}],
+            "strength": 8,
+            "actions": [{"name": "Scimitar", "attack_bonus": 4, "damage": [{"damage_dice": "1d6+2"}]}]
+        })
+        m2 = Monster({
+            "name": "Skeleton",
+            "hit_points": 13,
+            "armor_class": [{"value": 13}],
+            "strength": 10,
+            "actions": [{"name": "Shortsword", "attack_bonus": 4, "damage": [{"damage_dice": "1d6+2"}]}]
+        })
+        stomp_target = Monster({
+            "name": "Dragon",
+            "hit_points": 200,
+            "armor_class": [{"value": 20}],
+            "strength": 25,
+            "actions": [{"name": "Bite", "attack_bonus": 10, "damage": [{"damage_dice": "2d10+6"}]}]
+        })
+
+        monsters = [m1, m2, stomp_target]
+        fun_list = find_all_fun_matchups(monsters, num_simulations=100, fast_screen_sims=50)
+
+        # Goblin vs Skeleton should be fun, while Dragon vs either should be a stomp
+        assert len(fun_list) == 1
+        assert fun_list[0]["monster1"] in ("Goblin", "Skeleton")
+        assert fun_list[0]["monster2"] in ("Goblin", "Skeleton")
+
