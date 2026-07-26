@@ -35,6 +35,7 @@ TRANSLATIONS = {
         "winner_label": "🏆 勝者:",
         "back_to_cards": "カード画面に戻る",
         "rematch_button": "🔄 再戦",
+        "win_chance_label": "勝率",
 
         # Error messages
         "failed_to_load_monsters": "モンスターの読み込みに失敗しました",
@@ -76,6 +77,7 @@ TRANSLATIONS = {
         "winner_label": "🏆 Winner:",
         "back_to_cards": "Back to Cards",
         "rematch_button": "🔄 Rematch",
+        "win_chance_label": "Win Chance",
 
         # Error messages
         "failed_to_load_monsters": "Failed to load monsters",
