@@ -1,0 +1,4702 @@
+monster1,monster2,monster1_win_pct,monster2_win_pct
+Bat,Hawk,50.0%,50.0%
+Bat,Quipper,50.0%,50.0%
+Bat,Weasel,50.0%,50.0%
+Bugbear,Green Dragon Wyrmling,50.0%,50.0%
+Giant Constrictor Snake,Gibbering Mouther,50.0%,50.0%
+Giant Sea Horse,Wolf,50.0%,50.0%
+Giant Shark,Gorgon,50.0%,50.0%
+Lamia,Wyvern,50.0%,50.0%
+Pony,Sahuagin,50.0%,50.0%
+Ape,Spy,49.9%,50.1%
+Bearded Devil,Bugbear,49.9%,50.1%
+Berserker,Gibbering Mouther,50.1%,49.9%
+Black Bear,Giant Poisonous Snake,49.9%,50.1%
+Black Pudding,Bronze Dragon Wyrmling,49.9%,50.1%
+Blue Dragon Wyrmling,Giant Constrictor Snake,50.1%,49.9%
+Constrictor Snake,Wolf,49.9%,50.1%
+Giant Scorpion,Green Dragon Wyrmling,50.1%,49.9%
+Giant Wasp,Wolf,49.9%,50.1%
+Giant Weasel,Wolf,49.9%,50.1%
+Gray Ooze,Skeleton,49.9%,50.1%
+Grimlock,Magma Mephit,50.1%,49.9%
+Panther,Wolf,49.9%,50.1%
+Adult Brass Dragon,Stone Golem,50.2%,49.8%
+Adult Bronze Dragon,Fire Giant,49.8%,50.2%
+Basilisk,Giant Elk,49.8%,50.2%
+Copper Dragon Wyrmling,Phase Spider,50.2%,49.8%
+Deep Gnome (Svirfneblin),Hippogriff,49.8%,50.2%
+Giant Goat,Rust Monster,49.8%,50.2%
+Giant Weasel,Panther,50.2%,49.8%
+Gray Ooze,Sahuagin,50.2%,49.8%
+Hill Giant,Young Brass Dragon,50.2%,49.8%
+Medusa,Vampire Spawn,50.2%,49.8%
+Ogre,Unicorn,50.2%,49.8%
+Pseudodragon,Quasit,50.2%,49.8%
+Azer,Swarm of Quippers,49.7%,50.3%
+Brown Bear,Ettercap,49.7%,50.3%
+Bugbear,Dire Wolf,50.3%,49.7%
+Chain Devil,Green Hag,49.7%,50.3%
+Cloaker,Nightmare,49.7%,50.3%
+Crocodile,Orc,49.7%,50.3%
+Gibbering Mouther,"Weretiger, Human Form",50.3%,49.7%
+Gladiator,Water Elemental,49.7%,50.3%
+Goblin,Noble,49.7%,50.3%
+Green Dragon Wyrmling,Hell Hound,50.3%,49.7%
+Half-Red Dragon Veteran,Unicorn,49.7%,50.3%
+Ice Mephit,Zombie,49.7%,50.3%
+Owlbear,Spirit Naga,50.3%,49.7%
+Swarm of Ravens,"Wererat, Human Form",49.7%,50.3%
+Black Pudding,Green Dragon Wyrmling,50.4%,49.6%
+Bulette,Ice Devil,49.6%,50.4%
+Gibbering Mouther,Unicorn,49.6%,50.4%
+Grimlock,Panther,49.6%,50.4%
+Hunter Shark,Veteran,50.4%,49.6%
+Troll,Winter Wolf,49.6%,50.4%
+Brown Bear,Ochre Jelly,50.5%,49.5%
+Camel,Cultist,50.5%,49.5%
+Copper Dragon Wyrmling,Giant Toad,49.5%,50.5%
+Darkmantle,Orc,50.5%,49.5%
+Elk,Priest,49.5%,50.5%
+Ettin,Lamia,49.5%,50.5%
+Ettin,Oni,50.5%,49.5%
+Flying Sword,Spy,49.5%,50.5%
+Flying Sword,"Wererat, Hybrid Form",50.5%,49.5%
+Flying Sword,"Wererat, Rat Form",50.5%,49.5%
+Giant Bat,Reef Shark,49.5%,50.5%
+Giant Toad,Warhorse Skeleton,49.5%,50.5%
+Imp,Zombie,50.5%,49.5%
+Lizardfolk,Reef Shark,49.5%,50.5%
+Minotaur,Otyugh,49.5%,50.5%
+Mummy,Saber-Toothed Tiger,50.5%,49.5%
+Axe Beak,Giant Vulture,49.4%,50.6%
+Bandit,Giant Wolf Spider,50.6%,49.4%
+Blink Dog,Cult Fanatic,49.4%,50.6%
+Cult Fanatic,Swarm of Rats,49.4%,50.6%
+Drow,Hobgoblin,50.6%,49.4%
+Gelatinous Cube,Sea Hag,50.6%,49.4%
+Giant Ape,Marilith,49.4%,50.6%
+Giant Owl,Orc,49.4%,50.6%
+Goblin,Grimlock,50.6%,49.4%
+Grick,"Werewolf, Human Form",49.4%,50.6%
+Mule,Steam Mephit,49.4%,50.6%
+Noble,Panther,50.6%,49.4%
+Rakshasa,Wraith,50.6%,49.4%
+Shadow,Swarm of Ravens,49.4%,50.6%
+Animated Armor,Tiger,49.3%,50.7%
+Chuul,Minotaur,50.7%,49.3%
+Duergar,Phase Spider,50.7%,49.3%
+Giant Owl,"Wererat, Hybrid Form",49.3%,50.7%
+Giant Owl,"Wererat, Rat Form",49.3%,50.7%
+Gynosphinx,Young Green Dragon,49.3%,50.7%
+Hippogriff,"Wererat, Human Form",49.3%,50.7%
+Magma Mephit,Magmin,50.7%,49.3%
+Ochre Jelly,Swarm of Poisonous Snakes,49.3%,50.7%
+Bandit,Goblin,50.8%,49.2%
+Bone Devil,Young Brass Dragon,49.2%,50.8%
+Ghoul,"Wererat, Human Form",49.2%,50.8%
+Giant Elk,Hunter Shark,49.2%,50.8%
+Green Dragon Wyrmling,Mimic,50.8%,49.2%
+Knight,Ogre Zombie,50.8%,49.2%
+Magmin,Riding Horse,49.2%,50.8%
+Ogre,"Weretiger, Human Form",50.8%,49.2%
+Spirit Naga,Unicorn,49.2%,50.8%
+Adult Copper Dragon,Behir,49.1%,50.9%
+Adult Gold Dragon,Roc,49.1%,50.9%
+Adult Red Dragon,Roc,49.1%,50.9%
+Assassin,"Wereboar, Boar Form",50.9%,49.1%
+Assassin,"Wereboar, Hybrid Form",50.9%,49.1%
+Black Pudding,Dire Wolf,50.9%,49.1%
+Bulette,Glabrezu,50.9%,49.1%
+Clay Golem,Triceratops,49.1%,50.9%
+Darkmantle,Rust Monster,49.1%,50.9%
+Giant Constrictor Snake,Owlbear,50.9%,49.1%
+Giant Shark,Young Bronze Dragon,49.1%,50.9%
+Harpy,Lion,50.9%,49.1%
+Harpy,Satyr,50.9%,49.1%
+Hezrou,Triceratops,49.1%,50.9%
+Ice Devil,Young Blue Dragon,49.1%,50.9%
+Oni,Wyvern,50.9%,49.1%
+Satyr,Specter,49.1%,50.9%
+Chuul,Wraith,49.0%,51.0%
+Clay Golem,Earth Elemental,51.0%,49.0%
+Cockatrice,Riding Horse,49.0%,51.0%
+Copper Dragon Wyrmling,Giant Spider,51.0%,49.0%
+Erinyes,Hill Giant,51.0%,49.0%
+Giant Owl,Hippogriff,51.0%,49.0%
+Giant Weasel,Magmin,49.0%,51.0%
+Gladiator,"Vampire, Bat Form",49.0%,51.0%
+Ice Mephit,Magma Mephit,51.0%,49.0%
+Ogre,Spirit Naga,51.0%,49.0%
+Orc,"Wererat, Human Form",51.0%,49.0%
+Sahuagin,Skeleton,51.0%,49.0%
+Assassin,Giant Constrictor Snake,51.1%,48.9%
+Bandit Captain,Succubus/Incubus,51.1%,48.9%
+Berserker,Silver Dragon Wyrmling,51.1%,48.9%
+Black Dragon Wyrmling,Will-o'-Wisp,48.9%,51.1%
+Blue Dragon Wyrmling,Silver Dragon Wyrmling,48.9%,51.1%
+Commoner,Giant Fire Beetle,48.9%,51.1%
+Deep Gnome (Svirfneblin),Ghoul,48.9%,51.1%
+Deva,Gladiator,51.1%,48.9%
+Ghast,Giant Scorpion,48.9%,51.1%
+Giant Weasel,Ice Mephit,48.9%,51.1%
+Glabrezu,Young Blue Dragon,48.9%,51.1%
+Reef Shark,"Wererat, Hybrid Form",51.1%,48.9%
+Reef Shark,"Wererat, Rat Form",51.1%,48.9%
+Warhorse Skeleton,White Dragon Wyrmling,51.1%,48.9%
+Ape,"Wererat, Hybrid Form",48.8%,51.2%
+Ape,"Wererat, Rat Form",48.8%,51.2%
+Blue Dragon Wyrmling,"Wereboar, Boar Form",51.2%,48.8%
+Blue Dragon Wyrmling,"Wereboar, Hybrid Form",51.2%,48.8%
+Bone Devil,Giant Crocodile,51.2%,48.8%
+Brass Dragon Wyrmling,Satyr,48.8%,51.2%
+Bronze Dragon Wyrmling,Merrow,48.8%,51.2%
+Deep Gnome (Svirfneblin),Giant Goat,51.2%,48.8%
+Erinyes,Giant Crocodile,51.2%,48.8%
+Ghast,Giant Hyena,48.8%,51.2%
+Giant Boar,Polar Bear,51.2%,48.8%
+Giant Lizard,Reef Shark,48.8%,51.2%
+Gibbering Mouther,Medusa,48.8%,51.2%
+Half-Red Dragon Veteran,Knight,48.8%,51.2%
+Silver Dragon Wyrmling,Vampire Spawn,48.8%,51.2%
+Air Elemental,Killer Whale,51.3%,48.7%
+Balor,Kraken,48.7%,51.3%
+Berserker,"Wereboar, Boar Form",48.7%,51.3%
+Berserker,"Wereboar, Hybrid Form",48.7%,51.3%
+Couatl,Gladiator,51.3%,48.7%
+Crocodile,Thug,48.7%,51.3%
+Deep Gnome (Svirfneblin),Spy,48.7%,51.3%
+Giant Centipede,Lemure,48.7%,51.3%
+Giant Poisonous Snake,Swarm of Bats,51.3%,48.7%
+Giant Sea Horse,Skeleton,51.3%,48.7%
+Giant Vulture,Reef Shark,51.3%,48.7%
+Harpy,Warhorse,51.3%,48.7%
+Hawk,Lizard,48.7%,51.3%
+Mimic,Polar Bear,51.3%,48.7%
+Assassin,Medusa,48.6%,51.4%
+Bugbear,Giant Hyena,48.6%,51.4%
+Constrictor Snake,Druid,51.4%,48.6%
+Elephant,Water Elemental,51.4%,48.6%
+Fire Giant,Purple Worm,48.6%,51.4%
+Gelatinous Cube,Manticore,51.4%,48.6%
+Giant Boar,Merrow,51.4%,48.6%
+Giant Fire Beetle,Goat,51.4%,48.6%
+Giant Lizard,Giant Owl,51.4%,48.6%
+Giant Shark,Treant,51.4%,48.6%
+Guardian Naga,"Werebear, Bear Form",48.6%,51.4%
+Guardian Naga,"Werebear, Hybrid Form",48.6%,51.4%
+Hunter Shark,Pegasus,48.6%,51.4%
+Hyena,Stirge,51.4%,48.6%
+Mummy Lord,Young Copper Dragon,48.6%,51.4%
+Orc,Warhorse,48.6%,51.4%
+Priest,Scout,48.6%,51.4%
+Bugbear,Mimic,48.5%,51.5%
+Eagle,Kobold,48.5%,51.5%
+Giant Ape,Young Blue Dragon,51.5%,48.5%
+Giant Eagle,Specter,51.5%,48.5%
+Gold Dragon Wyrmling,Nightmare,51.5%,48.5%
+Grick,Wight,51.5%,48.5%
+Lich,Triceratops,51.5%,48.5%
+Pegasus,"Wereboar, Boar Form",51.5%,48.5%
+Pegasus,"Wereboar, Hybrid Form",51.5%,48.5%
+Awakened Shrub,Eagle,51.6%,48.4%
+Awakened Tree,"Weretiger, Hybrid Form",51.6%,48.4%
+Awakened Tree,"Weretiger, Tiger Form",51.6%,48.4%
+Bandit,Dretch,51.6%,48.4%
+Basilisk,Succubus/Incubus,48.4%,51.6%
+Black Bear,Scout,51.6%,48.4%
+Black Dragon Wyrmling,Bugbear,51.6%,48.4%
+Blue Dragon Wyrmling,Pegasus,51.6%,48.4%
+Chimera,Otyugh,51.6%,48.4%
+Clay Golem,Hezrou,51.6%,48.4%
+Clay Golem,Lich,48.4%,51.6%
+Crocodile,Draft Horse,51.6%,48.4%
+Elk,Giant Poisonous Snake,48.4%,51.6%
+Giant Badger,Giant Wolf Spider,51.6%,48.4%
+Giant Goat,Thug,51.6%,48.4%
+Gray Ooze,Magmin,51.6%,48.4%
+Hell Hound,Mimic,51.6%,48.4%
+Ice Mephit,Panther,48.4%,51.6%
+Shadow,Thug,48.4%,51.6%
+Acolyte,Giant Centipede,51.7%,48.3%
+Azer,Giant Boar,48.3%,51.7%
+Blink Dog,Hobgoblin,48.3%,51.7%
+Centaur,Giant Octopus,51.7%,48.3%
+Deep Gnome (Svirfneblin),Orc,48.3%,51.7%
+Dretch,Goblin,51.7%,48.3%
+Elephant,Gladiator,51.7%,48.3%
+Ettercap,Tiger,48.3%,51.7%
+Flying Snake,Giant Fire Beetle,51.7%,48.3%
+Glabrezu,Mammoth,51.7%,48.3%
+Magmin,Priest,48.3%,51.7%
+Merfolk,Pseudodragon,48.3%,51.7%
+Axe Beak,Shadow,48.2%,51.8%
+Azer,Giant Scorpion,48.2%,51.8%
+Bronze Dragon Wyrmling,Giant Hyena,51.8%,48.2%
+Chuul,Oni,51.8%,48.2%
+Cultist,Violet Fungus,48.2%,51.8%
+Flying Sword,Hippogriff,48.2%,51.8%
+Giant Boar,Mimic,51.8%,48.2%
+Gibbering Mouther,Vampire Spawn,51.8%,48.2%
+Ice Devil,Mammoth,48.2%,51.8%
+Oni,Rakshasa,48.2%,51.8%
+Orc,Specter,48.2%,51.8%
+"Werebear, Human Form",Wyvern,51.8%,48.2%
+"Wereboar, Human Form","Wereboar, Hybrid Form",48.2%,51.8%
+Bandit Captain,Gelatinous Cube,51.9%,48.1%
+Drider,"Wereboar, Human Form",48.1%,51.9%
+Elephant,Xorn,51.9%,48.1%
+Giant Crocodile,Hydra,48.1%,51.9%
+Giant Frog,Giant Sea Horse,51.9%,48.1%
+Giant Octopus,Mummy,48.1%,51.9%
+Giant Poisonous Snake,Swarm of Rats,48.1%,51.9%
+Guard,Magmin,51.9%,48.1%
+Ice Mephit,Magmin,48.1%,51.9%
+Magma Mephit,Sahuagin,48.1%,51.9%
+Magmin,Scout,48.1%,51.9%
+Oni,Wraith,48.1%,51.9%
+Salamander,"Werebear, Human Form",48.1%,51.9%
+Swarm of Bats,Swarm of Rats,51.9%,48.1%
+Swarm of Poisonous Snakes,Will-o'-Wisp,51.9%,48.1%
+"Vampire, Bat Form",Water Elemental,51.9%,48.1%
+"Vampire, Vampire Form","Werebear, Bear Form",48.1%,51.9%
+"Vampire, Vampire Form","Werebear, Hybrid Form",48.1%,51.9%
+Warhorse Skeleton,Will-o'-Wisp,48.1%,51.9%
+Basilisk,Griffon,52.0%,48.0%
+Bone Devil,Hill Giant,52.0%,48.0%
+Commoner,Deer,48.0%,52.0%
+Flying Sword,Ghoul,52.0%,48.0%
+Flying Sword,Giant Goat,52.0%,48.0%
+Giant Frog,Skeleton,48.0%,52.0%
+Giant Owl,Thug,48.0%,52.0%
+Giant Spider,Grick,48.0%,52.0%
+Giant Toad,Worg,48.0%,52.0%
+Killer Whale,"Vampire, Vampire Form",48.0%,52.0%
+Night Hag,Shambling Mound,52.0%,48.0%
+Nightmare,"Weretiger, Hybrid Form",52.0%,48.0%
+Nightmare,"Weretiger, Tiger Form",52.0%,48.0%
+Satyr,Warhorse,52.0%,48.0%
+Wight,Worg,52.0%,48.0%
+Barbed Devil,Nightmare,47.9%,52.1%
+Black Pudding,Giant Scorpion,52.1%,47.9%
+Boar,Goblin,47.9%,52.1%
+Camel,Mule,47.9%,52.1%
+Deep Gnome (Svirfneblin),Reef Shark,52.1%,47.9%
+Drow,Giant Poisonous Snake,52.1%,47.9%
+Druid,Wolf,47.9%,52.1%
+Giant Crab,Skeleton,47.9%,52.1%
+Giant Crocodile,Young Brass Dragon,52.1%,47.9%
+Giant Lizard,Lizardfolk,52.1%,47.9%
+Giant Shark,Roper,47.9%,52.1%
+Giant Vulture,Spy,47.9%,52.1%
+Gibbering Mouther,Veteran,47.9%,52.1%
+Gorgon,Treant,52.1%,47.9%
+Noble,Zombie,47.9%,52.1%
+Riding Horse,Shadow,47.9%,52.1%
+Triceratops,Young Black Dragon,52.1%,47.9%
+Ancient Green Dragon,Dragon Turtle,52.2%,47.8%
+Crocodile,Ghoul,47.8%,52.2%
+Crocodile,Hippogriff,52.2%,47.8%
+Deer,Eagle,52.2%,47.8%
+Earth Elemental,Triceratops,52.2%,47.8%
+Earth Elemental,Young White Dragon,52.2%,47.8%
+Flying Sword,Orc,47.8%,52.2%
+Giant Eagle,Lion,52.2%,47.8%
+Giant Hyena,Giant Octopus,52.2%,47.8%
+Guard,Sahuagin,52.2%,47.8%
+Imp,Sahuagin,47.8%,52.2%
+Oni,"Werebear, Human Form",52.2%,47.8%
+Bearded Devil,Ghast,52.3%,47.7%
+Blue Dragon Wyrmling,Drider,52.3%,47.7%
+Dire Wolf,Giant Octopus,47.7%,52.3%
+Dire Wolf,Polar Bear,52.3%,47.7%
+Giant Boar,Hell Hound,52.3%,47.7%
+Giant Owl,Spy,52.3%,47.7%
+Giant Toad,"Werewolf, Human Form",47.7%,52.3%
+Griffon,Saber-Toothed Tiger,47.7%,52.3%
+Hell Hound,Merrow,52.3%,47.7%
+Plesiosaurus,Red Dragon Wyrmling,52.3%,47.7%
+Pony,Riding Horse,52.3%,47.7%
+Bearded Devil,Giant Scorpion,47.6%,52.4%
+Bugbear,Hell Hound,47.6%,52.4%
+Draft Horse,"Wererat, Human Form",52.4%,47.6%
+Ghast,Mimic,47.6%,52.4%
+Giant Constrictor Snake,Ogre,47.6%,52.4%
+Giant Toad,Grick,52.4%,47.6%
+Grick,Ochre Jelly,52.4%,47.6%
+Grimlock,Wolf,47.6%,52.4%
+Lamia,Oni,47.6%,52.4%
+Rhinoceros,Vampire Spawn,47.6%,52.4%
+Shambling Mound,Shield Guardian,47.6%,52.4%
+Adult Black Dragon,Cloud Giant,52.5%,47.5%
+Ancient Gold Dragon,Ancient Red Dragon,52.5%,47.5%
+Ape,Giant Goat,52.5%,47.5%
+Couatl,Deva,47.5%,52.5%
+Crocodile,Swarm of Ravens,47.5%,52.5%
+Dryad,Tribal Warrior,52.5%,47.5%
+Duergar,Giant Toad,47.5%,52.5%
+Fire Giant,Planetar,47.5%,52.5%
+Giant Bat,Shadow,52.5%,47.5%
+Giant Crocodile,Mummy Lord,52.5%,47.5%
+Giant Frog,Magmin,52.5%,47.5%
+Giant Lizard,Shadow,52.5%,47.5%
+Imp,Skeleton,47.5%,52.5%
+Lizardfolk,Shadow,52.5%,47.5%
+Pony,Wolf,52.5%,47.5%
+Reef Shark,Swarm of Ravens,47.5%,52.5%
+Rhinoceros,"Wereboar, Boar Form",47.5%,52.5%
+Rhinoceros,"Wereboar, Hybrid Form",47.5%,52.5%
+Spy,Swarm of Ravens,47.5%,52.5%
+Blood Hawk,Quasit,47.4%,52.6%
+Blue Dragon Wyrmling,Ghost,52.6%,47.4%
+Brass Dragon Wyrmling,Harpy,52.6%,47.4%
+Constrictor Snake,Skeleton,52.6%,47.4%
+Couatl,Elephant,52.6%,47.4%
+Crocodile,Rust Monster,47.4%,52.6%
+Giant Rat,Quasit,47.4%,52.6%
+Giant Rat (Diseased),Quasit,47.4%,52.6%
+Giant Spider,Giant Toad,47.4%,52.6%
+Giant Toad,Wight,47.4%,52.6%
+Giant Wasp,Skeleton,52.6%,47.4%
+Gnoll,Lizardfolk,52.6%,47.4%
+Mule,Violet Fungus,47.4%,52.6%
+Panther,Skeleton,52.6%,47.4%
+Aboleth,Triceratops,47.3%,52.7%
+Aboleth,Young White Dragon,47.3%,52.7%
+Bugbear,Giant Boar,52.7%,47.3%
+Cloaker,"Weretiger, Hybrid Form",47.3%,52.7%
+Cloaker,"Weretiger, Tiger Form",47.3%,52.7%
+Dire Wolf,Hell Hound,52.7%,47.3%
+Drider,Hunter Shark,52.7%,47.3%
+Druid,Dust Mephit,52.7%,47.3%
+Frost Giant,Horned Devil,52.7%,47.3%
+Ghast,Merrow,47.3%,52.7%
+Giant Lizard,Gnoll,52.7%,47.3%
+Giant Sea Horse,Magmin,52.7%,47.3%
+Giant Weasel,Guard,52.7%,47.3%
+Goat,Hyena,52.7%,47.3%
+Nightmare,Plesiosaurus,47.3%,52.7%
+Rat,Raven,52.7%,47.3%
+Rat,Spider,52.7%,47.3%
+Reef Shark,Rust Monster,47.3%,52.7%
+Ankheg,Giant Octopus,52.8%,47.2%
+Awakened Tree,Nightmare,52.8%,47.2%
+Bandit Captain,Giant Elk,47.2%,52.8%
+Darkmantle,Hippogriff,52.8%,47.2%
+Duergar,Giant Spider,52.8%,47.2%
+Giant Eagle,Warhorse,52.8%,47.2%
+Giant Elk,Manticore,52.8%,47.2%
+Giant Goat,Hippogriff,52.8%,47.2%
+Giant Wolf Spider,Noble,47.2%,52.8%
+Guard,Panther,52.8%,47.2%
+Hobgoblin,Swarm of Bats,52.8%,47.2%
+Magma Mephit,Panther,52.8%,47.2%
+Noble,Sahuagin,47.2%,52.8%
+Riding Horse,Swarm of Bats,52.8%,47.2%
+Roper,Treant,52.8%,47.2%
+Ankheg,Doppelganger,47.1%,52.9%
+Balor,Storm Giant,52.9%,47.1%
+Black Bear,Drow,52.9%,47.1%
+Draft Horse,Giant Eagle,52.9%,47.1%
+Earth Elemental,Young Black Dragon,47.1%,52.9%
+Giant Spider,Warhorse Skeleton,47.1%,52.9%
+Gray Ooze,Wolf,47.1%,52.9%
+Guard,Wolf,47.1%,52.9%
+Gynosphinx,Lich,52.9%,47.1%
+Veteran,"Wereboar, Boar Form",47.1%,52.9%
+Veteran,"Wereboar, Hybrid Form",47.1%,52.9%
+Air Elemental,"Vampire, Bat Form",53.0%,47.0%
+Awakened Shrub,Hyena,47.0%,53.0%
+Azer,Green Dragon Wyrmling,47.0%,53.0%
+Bearded Devil,Swarm of Quippers,47.0%,53.0%
+Blood Hawk,Cultist,53.0%,47.0%
+Chuul,Rakshasa,47.0%,53.0%
+Copper Dragon Wyrmling,Duergar,53.0%,47.0%
+Erinyes,Young Brass Dragon,47.0%,53.0%
+Gibbering Mouther,Owlbear,53.0%,47.0%
+Goblin,Imp,47.0%,53.0%
+Hill Giant,Mummy Lord,53.0%,47.0%
+Lich,Young Green Dragon,47.0%,53.0%
+Mummy,Succubus/Incubus,53.0%,47.0%
+Owlbear,"Weretiger, Human Form",53.0%,47.0%
+Spy,Thug,47.0%,53.0%
+Adult Blue Dragon,Planetar,46.9%,53.1%
+Axe Beak,Giant Owl,46.9%,53.1%
+Azer,Bronze Dragon Wyrmling,46.9%,53.1%
+Bearded Devil,Will-o'-Wisp,53.1%,46.9%
+Centaur,Doppelganger,53.1%,46.9%
+Chuul,Wyvern,53.1%,46.9%
+Copper Dragon Wyrmling,Grick,46.9%,53.1%
+Death Dog,Specter,53.1%,46.9%
+Ettin,Salamander,53.1%,46.9%
+Giant Badger,Giant Weasel,46.9%,53.1%
+Giant Wolf Spider,Pony,46.9%,53.1%
+Gnoll,Reef Shark,46.9%,53.1%
+Gnoll,Shadow,53.1%,46.9%
+Gorgon,Stone Giant,46.9%,53.1%
+Gorgon,Young Bronze Dragon,53.1%,46.9%
+Knight,Winter Wolf,46.9%,53.1%
+Lamia,Minotaur,46.9%,53.1%
+Adult White Dragon,Cloud Giant,46.8%,53.2%
+Commoner,Vulture,46.8%,53.2%
+Cult Fanatic,Giant Lizard,46.8%,53.2%
+Deep Gnome (Svirfneblin),Rust Monster,46.8%,53.2%
+Half-Red Dragon Veteran,Spirit Naga,46.8%,53.2%
+Merfolk,Mule,46.8%,53.2%
+Salamander,Wyvern,46.8%,53.2%
+Ape,Darkmantle,53.2%,46.8%
+Bugbear,Will-o'-Wisp,53.2%,46.8%
+Constrictor Snake,Elk,53.2%,46.8%
+Giant Frog,Sahuagin,53.2%,46.8%
+Orc,Swarm of Beetles,53.2%,46.8%
+Orc,Swarm of Centipedes,53.2%,46.8%
+Orc,Swarm of Insects,53.2%,46.8%
+Orc,Swarm of Spiders,53.2%,46.8%
+Orc,Swarm of Wasps,53.2%,46.8%
+Barbed Devil,"Weretiger, Hybrid Form",46.7%,53.3%
+Barbed Devil,"Weretiger, Tiger Form",46.7%,53.3%
+Blink Dog,Swarm of Bats,46.7%,53.3%
+Ghast,Will-o'-Wisp,46.7%,53.3%
+Hunter Shark,"Wereboar, Human Form",46.7%,53.3%
+Adult Blue Dragon,Purple Worm,53.3%,46.7%
+Black Pudding,Polar Bear,53.3%,46.7%
+Bugbear,Giant Scorpion,53.3%,46.7%
+Bugbear,Swarm of Quippers,53.3%,46.7%
+Dryad,Giant Badger,53.3%,46.7%
+Giant Goat,Swarm of Ravens,53.3%,46.7%
+Giant Spider,Phase Spider,53.3%,46.7%
+Imp,Panther,53.3%,46.7%
+Awakened Shrub,Stirge,46.6%,53.4%
+Giant Bat,Spy,46.6%,53.4%
+Giant Vulture,Orc,46.6%,53.4%
+Lizardfolk,Spy,46.6%,53.4%
+Sahuagin,Wolf,46.6%,53.4%
+Shield Guardian,Young Brass Dragon,46.6%,53.4%
+Boar,Giant Badger,53.4%,46.6%
+Cultist,Steam Mephit,53.4%,46.6%
+Druid,Skeleton,53.4%,46.6%
+Ghost,Medusa,53.4%,46.6%
+Giant Bat,Giant Owl,53.4%,46.6%
+Giant Boar,Giant Hyena,53.4%,46.6%
+Giant Scorpion,Swarm of Quippers,53.4%,46.6%
+Mage,Satyr,53.4%,46.6%
+Ape,Hippogriff,46.5%,53.5%
+Assassin,Pegasus,53.5%,46.5%
+Berserker,Vampire Spawn,46.5%,53.5%
+Boar,Dretch,46.5%,53.5%
+Boar,Dryad,53.5%,46.5%
+Boar,Tribal Warrior,53.5%,46.5%
+Crocodile,"Wererat, Hybrid Form",53.5%,46.5%
+Crocodile,"Wererat, Rat Form",53.5%,46.5%
+Dire Wolf,Mimic,53.5%,46.5%
+Flying Sword,Rust Monster,46.5%,53.5%
+Gargoyle,"Werewolf, Hybrid Form",53.5%,46.5%
+Gargoyle,"Werewolf, Wolf Form",53.5%,46.5%
+Ghost,Owlbear,53.5%,46.5%
+Gibbering Mouther,Ogre Zombie,46.5%,53.5%
+Hell Hound,Polar Bear,46.5%,53.5%
+Knight,Spirit Naga,53.5%,46.5%
+Rat,Weasel,46.5%,53.5%
+Scout,Swarm of Bats,46.5%,53.5%
+Vrock,"Werebear, Human Form",46.5%,53.5%
+Young Black Dragon,Young Green Dragon,46.5%,53.5%
+Azer,Black Pudding,46.4%,53.6%
+Black Bear,Blink Dog,46.4%,53.6%
+Gold Dragon Wyrmling,"Weretiger, Hybrid Form",46.4%,53.6%
+Gold Dragon Wyrmling,"Weretiger, Tiger Form",46.4%,53.6%
+Phase Spider,Warhorse Skeleton,46.4%,53.6%
+Steam Mephit,Violet Fungus,46.4%,53.6%
+Aboleth,Earth Elemental,53.6%,46.4%
+Blood Hawk,Mule,53.6%,46.4%
+Deep Gnome (Svirfneblin),Flying Sword,53.6%,46.4%
+Ghost,Vampire Spawn,53.6%,46.4%
+Giant Rat,Mule,53.6%,46.4%
+Giant Rat (Diseased),Mule,53.6%,46.4%
+Imp,Magma Mephit,53.6%,46.4%
+Pegasus,Vampire Spawn,53.6%,46.4%
+Skeleton,Wolf,53.6%,46.4%
+Axe Beak,Deep Gnome (Svirfneblin),46.3%,53.7%
+Chimera,Elephant,46.3%,53.7%
+Cockatrice,Priest,46.3%,53.7%
+Darkmantle,Ghoul,46.3%,53.7%
+Giant Frog,Wolf,46.3%,53.7%
+Giant Wolf Spider,Grimlock,46.3%,53.7%
+Gladiator,Killer Whale,46.3%,53.7%
+Thug,"Wererat, Human Form",46.3%,53.7%
+Axe Beak,Giant Lizard,53.7%,46.3%
+Black Pudding,Giant Boar,53.7%,46.3%
+Ghoul,Rust Monster,53.7%,46.3%
+Giant Badger,Goblin,53.7%,46.3%
+Grimlock,Magmin,53.7%,46.3%
+Merrow,Polar Bear,53.7%,46.3%
+Axe Beak,Giant Bat,46.2%,53.8%
+Axe Beak,Gnoll,46.2%,53.8%
+Axe Beak,Lizardfolk,46.2%,53.8%
+Berserker,Ogre,46.2%,53.8%
+Black Dragon Wyrmling,Giant Scorpion,46.2%,53.8%
+Brass Dragon Wyrmling,Giant Eagle,46.2%,53.8%
+Bronze Dragon Wyrmling,Centaur,46.2%,53.8%
+Bronze Dragon Wyrmling,Giant Octopus,46.2%,53.8%
+Commoner,Goat,46.2%,53.8%
+Dryad,Goblin,46.2%,53.8%
+Elephant,Killer Whale,46.2%,53.8%
+Hunter Shark,Silver Dragon Wyrmling,46.2%,53.8%
+Swarm of Poisonous Snakes,"Werewolf, Hybrid Form",46.2%,53.8%
+Swarm of Poisonous Snakes,"Werewolf, Wolf Form",46.2%,53.8%
+Assassin,Ghost,53.8%,46.2%
+Bandit Captain,Griffon,53.8%,46.2%
+Berserker,Blue Dragon Wyrmling,53.8%,46.2%
+Boar,Violet Fungus,53.8%,46.2%
+Bronze Dragon Wyrmling,Mimic,53.8%,46.2%
+Fire Elemental,Minotaur Skeleton,53.8%,46.2%
+Giant Wolf Spider,Goblin,53.8%,46.2%
+Gold Dragon Wyrmling,Troll,53.8%,46.2%
+Green Dragon Wyrmling,Swarm of Quippers,53.8%,46.2%
+Grimlock,Ice Mephit,53.8%,46.2%
+Acolyte,Mastiff,46.1%,53.9%
+Brass Dragon Wyrmling,Specter,46.1%,53.9%
+Elk,Scout,46.1%,53.9%
+Magma Mephit,Skeleton,46.1%,53.9%
+Mummy,Sea Hag,46.1%,53.9%
+Phase Spider,Worg,46.1%,53.9%
+Animated Armor,White Dragon Wyrmling,53.9%,46.1%
+Chain Devil,Wraith,53.9%,46.1%
+Drider,Veteran,53.9%,46.1%
+Pony,Skeleton,53.9%,46.1%
+Priest,Riding Horse,53.9%,46.1%
+Behir,Cloud Giant,46.0%,54.0%
+Black Bear,Priest,54.0%,46.0%
+Black Pudding,Merrow,46.0%,54.0%
+Brown Bear,"Werewolf, Human Form",54.0%,46.0%
+Bulette,Stone Giant,54.0%,46.0%
+Cockatrice,Wolf,54.0%,46.0%
+Couatl,Killer Whale,46.0%,54.0%
+Cultist,Goblin,46.0%,54.0%
+Deer,Stirge,46.0%,54.0%
+Elephant,"Vampire, Bat Form",54.0%,46.0%
+Giant Bat,Giant Goat,46.0%,54.0%
+Giant Constrictor Snake,Medusa,54.0%,46.0%
+Giant Constrictor Snake,"Wereboar, Boar Form",54.0%,46.0%
+Giant Constrictor Snake,"Wereboar, Hybrid Form",54.0%,46.0%
+Giant Weasel,Magma Mephit,46.0%,54.0%
+Guard,Skeleton,46.0%,54.0%
+Horned Devil,Young Silver Dragon,46.0%,54.0%
+Ochre Jelly,Tiger,54.0%,46.0%
+Roper,Young Bronze Dragon,54.0%,46.0%
+Rust Monster,Swarm of Ravens,54.0%,46.0%
+Stone Giant,Young Blue Dragon,46.0%,54.0%
+Aboleth,Hezrou,54.1%,45.9%
+Adult Brass Dragon,Tyrannosaurus Rex,54.1%,45.9%
+Brass Dragon Wyrmling,Warhorse,45.9%,54.1%
+Bronze Dragon Wyrmling,Hell Hound,54.1%,45.9%
+Chimera,Green Hag,54.1%,45.9%
+Death Dog,Duergar,45.9%,54.1%
+Deva,Elephant,54.1%,45.9%
+Deva,Water Elemental,45.9%,54.1%
+Dust Mephit,Riding Horse,45.9%,54.1%
+Ettin,"Werebear, Human Form",45.9%,54.1%
+Ghast,Giant Boar,54.1%,45.9%
+Ghast,Swarm of Quippers,54.1%,45.9%
+Griffon,Sea Hag,45.9%,54.1%
+Mage,Warhorse,45.9%,54.1%
+Owlbear,Unicorn,45.9%,54.1%
+Quasit,Violet Fungus,54.1%,45.9%
+Reef Shark,Thug,45.9%,54.1%
+Roper,Stone Giant,45.9%,54.1%
+"Werewolf, Hybrid Form","Werewolf, Wolf Form",54.1%,45.9%
+Doppelganger,Mummy,45.8%,54.2%
+Giant Vulture,Hippogriff,45.8%,54.2%
+Grick,Tiger,45.8%,54.2%
+Griffon,Manticore,45.8%,54.2%
+Ice Devil,Marilith,45.8%,54.2%
+Medusa,Ogre,45.8%,54.2%
+Silver Dragon Wyrmling,"Wereboar, Boar Form",54.2%,45.8%
+Silver Dragon Wyrmling,"Wereboar, Hybrid Form",54.2%,45.8%
+Adult Bronze Dragon,Purple Worm,45.7%,54.3%
+Basilisk,Saber-Toothed Tiger,45.7%,54.3%
+Boar,Giant Wolf Spider,45.7%,54.3%
+Commoner,Eagle,45.7%,54.3%
+Deep Gnome (Svirfneblin),"Wererat, Hybrid Form",45.7%,54.3%
+Deep Gnome (Svirfneblin),"Wererat, Rat Form",45.7%,54.3%
+Drow,Swarm of Bats,45.7%,54.3%
+Giant Owl,Swarm of Ravens,45.7%,54.3%
+Goblin,Guard,45.7%,54.3%
+Hippogriff,Swarm of Beetles,45.7%,54.3%
+Hippogriff,Swarm of Centipedes,45.7%,54.3%
+Hippogriff,Swarm of Insects,45.7%,54.3%
+Hippogriff,Swarm of Spiders,45.7%,54.3%
+Hippogriff,Swarm of Wasps,45.7%,54.3%
+Archmage,Doppelganger,54.3%,45.7%
+Barbed Devil,Cloaker,54.3%,45.7%
+Berserker,Giant Constrictor Snake,54.3%,45.7%
+Darkmantle,Draft Horse,54.3%,45.7%
+Deer,Goat,54.3%,45.7%
+Dire Wolf,Merrow,54.3%,45.7%
+Killer Whale,Xorn,54.3%,45.7%
+Mage,Swarm of Beetles,54.3%,45.7%
+Mage,Swarm of Centipedes,54.3%,45.7%
+Mage,Swarm of Insects,54.3%,45.7%
+Mage,Swarm of Spiders,54.3%,45.7%
+Mage,Swarm of Wasps,54.3%,45.7%
+Ankheg,Archmage,45.6%,54.4%
+Earth Elemental,Gynosphinx,45.6%,54.4%
+Ghost,"Weretiger, Human Form",45.6%,54.4%
+Giant Crab,Wolf,45.6%,54.4%
+Hydra,Young Copper Dragon,45.6%,54.4%
+Assassin,Gibbering Mouther,54.4%,45.6%
+Brass Dragon Wyrmling,"Wererat, Human Form",54.4%,45.6%
+Constrictor Snake,Dust Mephit,54.4%,45.6%
+Dire Wolf,Giant Hyena,54.4%,45.6%
+Druid,Elk,54.4%,45.6%
+Flesh Golem,Minotaur Skeleton,54.4%,45.6%
+Glabrezu,Ice Devil,54.4%,45.6%
+Gray Ooze,Guard,54.4%,45.6%
+Grick,Worg,54.4%,45.6%
+Magma Mephit,Zombie,54.4%,45.6%
+Medusa,Silver Dragon Wyrmling,54.4%,45.6%
+Minotaur,Wraith,54.4%,45.6%
+Tiger,White Dragon Wyrmling,54.4%,45.6%
+Animated Armor,Swarm of Poisonous Snakes,45.5%,54.5%
+Animated Armor,"Werewolf, Hybrid Form",45.5%,54.5%
+Animated Armor,"Werewolf, Wolf Form",45.5%,54.5%
+Assassin,Vampire Spawn,45.5%,54.5%
+Azer,Dire Wolf,45.5%,54.5%
+Black Dragon Wyrmling,Giant Boar,45.5%,54.5%
+Black Dragon Wyrmling,Swarm of Quippers,45.5%,54.5%
+Cultist,Tribal Warrior,45.5%,54.5%
+Ettercap,Swarm of Poisonous Snakes,45.5%,54.5%
+Noble,Skeleton,45.5%,54.5%
+Tiger,"Werewolf, Hybrid Form",45.5%,54.5%
+Tiger,"Werewolf, Wolf Form",45.5%,54.5%
+Unicorn,Winter Wolf,45.5%,54.5%
+Archmage,Giant Octopus,54.5%,45.5%
+Gelatinous Cube,Hunter Shark,54.5%,45.5%
+Ghost,Gibbering Mouther,54.5%,45.5%
+Giant Crab,Magmin,54.5%,45.5%
+Imp,Magmin,54.5%,45.5%
+Adult Black Dragon,Adult Green Dragon,45.4%,54.6%
+Adult Gold Dragon,Adult Red Dragon,54.6%,45.4%
+Assassin,Berserker,54.6%,45.4%
+Bandit Captain,Sea Hag,45.4%,54.6%
+Bulette,Mammoth,54.6%,45.4%
+Ghoul,Harpy,45.4%,54.6%
+Gold Dragon Wyrmling,Winter Wolf,54.6%,45.4%
+Griffon,Succubus/Incubus,54.6%,45.4%
+Hill Giant,Hydra,45.4%,54.6%
+Manticore,Sea Hag,54.6%,45.4%
+Medusa,"Wereboar, Boar Form",54.6%,45.4%
+Medusa,"Wereboar, Hybrid Form",54.6%,45.4%
+Warhorse,Warhorse Skeleton,45.4%,54.6%
+Blue Dragon Wyrmling,Ogre,45.3%,54.7%
+Draft Horse,Satyr,45.3%,54.7%
+Draft Horse,Swarm of Beetles,45.3%,54.7%
+Draft Horse,Swarm of Centipedes,45.3%,54.7%
+Draft Horse,Swarm of Insects,45.3%,54.7%
+Draft Horse,Swarm of Spiders,45.3%,54.7%
+Draft Horse,Swarm of Wasps,45.3%,54.7%
+Draft Horse,Warhorse,45.3%,54.7%
+Frost Giant,Young Silver Dragon,45.3%,54.7%
+Ghast,Hell Hound,45.3%,54.7%
+Ghoul,Swarm of Beetles,45.3%,54.7%
+Ghoul,Swarm of Centipedes,45.3%,54.7%
+Ghoul,Swarm of Insects,45.3%,54.7%
+Ghoul,Swarm of Spiders,45.3%,54.7%
+Ghoul,Swarm of Wasps,45.3%,54.7%
+Giant Boar,Giant Octopus,45.3%,54.7%
+Grimlock,Zombie,45.3%,54.7%
+Bone Devil,Erinyes,54.7%,45.3%
+Flying Sword,Reef Shark,54.7%,45.3%
+Harpy,Swarm of Beetles,54.7%,45.3%
+Harpy,Swarm of Centipedes,54.7%,45.3%
+Harpy,Swarm of Insects,54.7%,45.3%
+Harpy,Swarm of Spiders,54.7%,45.3%
+Harpy,Swarm of Wasps,54.7%,45.3%
+Lamia,Salamander,54.7%,45.3%
+Ape,Orc,45.2%,54.8%
+Brown Bear,White Dragon Wyrmling,45.2%,54.8%
+Ettercap,White Dragon Wyrmling,45.2%,54.8%
+Ettin,Wyvern,45.2%,54.8%
+Ghoul,Warhorse,45.2%,54.8%
+Mage,Specter,45.2%,54.8%
+Pseudodragon,Steam Mephit,45.2%,54.8%
+Black Pudding,Swarm of Quippers,54.8%,45.2%
+Blue Dragon Wyrmling,Rhinoceros,54.8%,45.2%
+Cultist,Quasit,54.8%,45.2%
+Erinyes,Shield Guardian,54.8%,45.2%
+Ettin,Vrock,54.8%,45.2%
+Giant Boar,Green Dragon Wyrmling,54.8%,45.2%
+Camel,Quasit,45.1%,54.9%
+Giant Bat,Hippogriff,45.1%,54.9%
+Ochre Jelly,White Dragon Wyrmling,45.1%,54.9%
+Salamander,Wraith,45.1%,54.9%
+Swarm of Ravens,Swarm of Spiders,45.1%,54.9%
+Swarm of Ravens,Swarm of Wasps,45.1%,54.9%
+Vrock,Wyvern,45.1%,54.9%
+Darkmantle,Spy,54.9%,45.1%
+Ghoul,Orc,54.9%,45.1%
+Giant Scorpion,Will-o'-Wisp,54.9%,45.1%
+Harpy,Mage,54.9%,45.1%
+Animated Armor,Ghast,45.0%,55.0%
+Black Pudding,Hell Hound,45.0%,55.0%
+Blue Dragon Wyrmling,Medusa,45.0%,55.0%
+Bone Devil,Mummy Lord,45.0%,55.0%
+Deep Gnome (Svirfneblin),Swarm of Ravens,45.0%,55.0%
+Dretch,Giant Weasel,45.0%,55.0%
+Harpy,Specter,45.0%,55.0%
+Mule,Quasit,45.0%,55.0%
+Adult Silver Dragon,Iron Golem,55.0%,45.0%
+Bronze Dragon Wyrmling,Dire Wolf,55.0%,45.0%
+Bulette,Giant Ape,55.0%,45.0%
+Bulette,Roper,55.0%,45.0%
+Drow,Scout,55.0%,45.0%
+Giant Frog,Giant Wasp,55.0%,45.0%
+Giant Frog,Panther,55.0%,45.0%
+Air Elemental,Water Elemental,55.1%,44.9%
+Animated Armor,Gargoyle,44.9%,55.1%
+Ankheg,Basilisk,44.9%,55.1%
+Ape,Crocodile,55.1%,44.9%
+Azer,Bugbear,55.1%,44.9%
+Azer,Will-o'-Wisp,55.1%,44.9%
+Cockatrice,Drow,44.9%,55.1%
+Duergar,Grick,44.9%,55.1%
+Giant Bat,Orc,44.9%,55.1%
+Giant Crab,Giant Sea Horse,55.1%,44.9%
+Giant Scorpion,Mimic,44.9%,55.1%
+Green Dragon Wyrmling,Merrow,44.9%,55.1%
+Hunter Shark,Rhinoceros,55.1%,44.9%
+Lizardfolk,Orc,44.9%,55.1%
+Rhinoceros,Silver Dragon Wyrmling,55.1%,44.9%
+Veteran,"Wereboar, Human Form",55.1%,44.9%
+Aboleth,Young Black Dragon,44.8%,55.2%
+Brown Bear,Tiger,44.8%,55.2%
+Dretch,Grimlock,44.8%,55.2%
+Gargoyle,Ghast,44.8%,55.2%
+Blood Hawk,Camel,55.2%,44.8%
+Constrictor Snake,Sahuagin,55.2%,44.8%
+Dretch,Giant Wolf Spider,55.2%,44.8%
+Druid,Magmin,55.2%,44.8%
+Giant Wasp,Sahuagin,55.2%,44.8%
+Knight,Unicorn,55.2%,44.8%
+Panther,Sahuagin,55.2%,44.8%
+Reef Shark,Spy,55.2%,44.8%
+"Werewolf, Human Form",Wight,55.2%,44.8%
+Young Gold Dragon,Young Red Dragon,55.2%,44.8%
+Bronze Dragon Wyrmling,Polar Bear,44.7%,55.3%
+Doppelganger,Succubus/Incubus,44.7%,55.3%
+Flying Sword,Swarm of Ravens,44.7%,55.3%
+Hyena,Mastiff,44.7%,55.3%
+Invisible Stalker,Vrock,44.7%,55.3%
+Night Hag,Young Brass Dragon,44.7%,55.3%
+Ape,Deep Gnome (Svirfneblin),55.3%,44.7%
+Ape,Flying Sword,55.3%,44.7%
+Axe Beak,Swarm of Rats,55.3%,44.7%
+Brass Dragon Wyrmling,Swarm of Beetles,55.3%,44.7%
+Brass Dragon Wyrmling,Swarm of Centipedes,55.3%,44.7%
+Brass Dragon Wyrmling,Swarm of Insects,55.3%,44.7%
+Brass Dragon Wyrmling,Swarm of Spiders,55.3%,44.7%
+Brass Dragon Wyrmling,Swarm of Wasps,55.3%,44.7%
+Crocodile,Spy,55.3%,44.7%
+Rust Monster,Thug,55.3%,44.7%
+Dryad,Giant Wolf Spider,44.6%,55.4%
+Adult White Dragon,Androsphinx,55.4%,44.6%
+Basilisk,Mummy,55.4%,44.6%
+Bearded Devil,Black Dragon Wyrmling,55.4%,44.6%
+Black Pudding,Ghast,55.4%,44.6%
+Ghost,Ogre,55.4%,44.6%
+Goat,Stirge,55.4%,44.6%
+Gorgon,Roper,55.4%,44.6%
+Grick,Warhorse Skeleton,55.4%,44.6%
+Shadow,"Wererat, Hybrid Form",55.4%,44.6%
+Shadow,"Wererat, Rat Form",55.4%,44.6%
+Couatl,Water Elemental,44.5%,55.5%
+Cultist,Dryad,44.5%,55.5%
+Giant Octopus,Griffon,44.5%,55.5%
+Giant Spider,Worg,44.5%,55.5%
+Giant Vulture,"Wererat, Hybrid Form",44.5%,55.5%
+Giant Vulture,"Wererat, Rat Form",44.5%,55.5%
+Giant Weasel,Skeleton,44.5%,55.5%
+Grick,White Dragon Wyrmling,44.5%,55.5%
+Manticore,Rhinoceros,44.5%,55.5%
+"Werewolf, Hybrid Form",Will-o'-Wisp,44.5%,55.5%
+"Werewolf, Wolf Form",Will-o'-Wisp,44.5%,55.5%
+Ape,Giant Owl,55.5%,44.5%
+Assassin,Silver Dragon Wyrmling,55.5%,44.5%
+Druid,Sahuagin,55.5%,44.5%
+Guard,Imp,55.5%,44.5%
+Guard,Zombie,55.5%,44.5%
+Hill Giant,Shield Guardian,55.5%,44.5%
+Killer Whale,"Werebear, Bear Form",55.5%,44.5%
+Killer Whale,"Werebear, Hybrid Form",55.5%,44.5%
+"Werewolf, Human Form",Worg,55.5%,44.5%
+Bandit Captain,Manticore,44.4%,55.6%
+Chain Devil,Otyugh,44.4%,55.6%
+Hezrou,Young White Dragon,44.4%,55.6%
+Phase Spider,Wight,44.4%,55.6%
+Sea Hag,Veteran,44.4%,55.6%
+Ape,Reef Shark,55.6%,44.4%
+Crocodile,Flying Sword,55.6%,44.4%
+Ghost,Silver Dragon Wyrmling,55.6%,44.4%
+Giant Constrictor Snake,Vampire Spawn,55.6%,44.4%
+Giant Crab,Sahuagin,55.6%,44.4%
+Giant Eagle,Satyr,55.6%,44.4%
+Gray Ooze,Panther,55.6%,44.4%
+Imp,Wolf,55.6%,44.4%
+Adult Brass Dragon,Adult Copper Dragon,44.3%,55.7%
+Animated Armor,Warhorse Skeleton,55.7%,44.3%
+Black Dragon Wyrmling,Green Dragon Wyrmling,44.3%,55.7%
+Bulette,Young Blue Dragon,44.3%,55.7%
+Darkmantle,"Wererat, Hybrid Form",55.7%,44.3%
+Darkmantle,"Wererat, Rat Form",55.7%,44.3%
+Draft Horse,Lion,44.3%,55.7%
+Flying Sword,Shadow,55.7%,44.3%
+Giant Elk,Saber-Toothed Tiger,55.7%,44.3%
+Lamia,Rakshasa,44.3%,55.7%
+Orc,Satyr,44.3%,55.7%
+Triceratops,Young Green Dragon,44.3%,55.7%
+Air Elemental,Guardian Naga,44.2%,55.8%
+Basilisk,Gelatinous Cube,44.2%,55.8%
+Black Pudding,Mimic,44.2%,55.8%
+Flying Sword,Thug,44.2%,55.8%
+Ghost,Spirit Naga,44.2%,55.8%
+Giant Owl,Rust Monster,44.2%,55.8%
+Hezrou,Lich,44.2%,55.8%
+Azer,Ghast,55.8%,44.2%
+Berserker,Pegasus,55.8%,44.2%
+Death Dog,Warhorse,55.8%,44.2%
+Giant Bat,Giant Vulture,55.8%,44.2%
+Spy,"Wererat, Hybrid Form",55.8%,44.2%
+Spy,"Wererat, Rat Form",55.8%,44.2%
+Chain Devil,Chimera,44.1%,55.9%
+Cultist,Giant Badger,44.1%,55.9%
+Darkmantle,Swarm of Ravens,44.1%,55.9%
+Deva,"Vampire, Bat Form",44.1%,55.9%
+Drider,Ghost,44.1%,55.9%
+Elk,Hobgoblin,44.1%,55.9%
+Giant Scorpion,Hell Hound,44.1%,55.9%
+Gibbering Mouther,Silver Dragon Wyrmling,44.1%,55.9%
+Noble,Wolf,44.1%,55.9%
+Specter,Warhorse Skeleton,44.1%,55.9%
+Chain Devil,Minotaur,55.9%,44.1%
+Elk,Riding Horse,55.9%,44.1%
+Giant Crab,Giant Wasp,55.9%,44.1%
+Giant Crab,Panther,55.9%,44.1%
+Giant Owl,Reef Shark,55.9%,44.1%
+Mammoth,Marilith,55.9%,44.1%
+Death Dog,Giant Spider,44.0%,56.0%
+Draft Horse,Mage,44.0%,56.0%
+Giant Weasel,Gray Ooze,44.0%,56.0%
+Giant Weasel,Zombie,44.0%,56.0%
+Griffon,Hunter Shark,44.0%,56.0%
+Riding Horse,Swarm of Rats,44.0%,56.0%
+Rust Monster,"Wererat, Human Form",44.0%,56.0%
+Constrictor Snake,Magmin,56.0%,44.0%
+Giant Wasp,Magmin,56.0%,44.0%
+Lion,Specter,56.0%,44.0%
+Ape,Draft Horse,43.9%,56.1%
+Axe Beak,Crocodile,43.9%,56.1%
+Bandit,Giant Weasel,43.9%,56.1%
+Bearded Devil,Green Dragon Wyrmling,43.9%,56.1%
+Draft Horse,Harpy,43.9%,56.1%
+Fire Elemental,Invisible Stalker,43.9%,56.1%
+Flying Snake,Vulture,43.9%,56.1%
+Bandit Captain,Mummy,56.1%,43.9%
+Berserker,Ghost,56.1%,43.9%
+Blink Dog,Giant Poisonous Snake,56.1%,43.9%
+Giant Lizard,Giant Vulture,56.1%,43.9%
+Ogre Zombie,Winter Wolf,56.1%,43.9%
+Berserker,Medusa,43.8%,56.2%
+Black Bear,Hobgoblin,43.8%,56.2%
+Cockatrice,Scout,43.8%,56.2%
+Deep Gnome (Svirfneblin),Giant Bat,56.2%,43.8%
+Deep Gnome (Svirfneblin),Lizardfolk,56.2%,43.8%
+Giant Bat,"Wererat, Hybrid Form",43.8%,56.2%
+Giant Bat,"Wererat, Rat Form",43.8%,56.2%
+Giant Boar,Giant Scorpion,56.2%,43.8%
+Giant Elk,Sea Hag,56.2%,43.8%
+Lich,Young Black Dragon,56.2%,43.8%
+Lizardfolk,"Wererat, Hybrid Form",43.8%,56.2%
+Lizardfolk,"Wererat, Rat Form",43.8%,56.2%
+Pseudodragon,Tribal Warrior,43.8%,56.2%
+Triceratops,Young White Dragon,56.2%,43.8%
+Brass Dragon Wyrmling,Draft Horse,56.3%,43.7%
+Drow,Swarm of Rats,43.7%,56.3%
+Gelatinous Cube,Pegasus,43.7%,56.3%
+Giant Lizard,Hippogriff,43.7%,56.3%
+Green Hag,Otyugh,56.3%,43.7%
+Hippogriff,Swarm of Ravens,56.3%,43.7%
+Mule,Pseudodragon,56.3%,43.7%
+Rhinoceros,"Wereboar, Human Form",56.3%,43.7%
+Shambling Mound,Young Brass Dragon,43.7%,56.3%
+Treant,Young Bronze Dragon,56.3%,43.7%
+Air Elemental,Gladiator,56.4%,43.6%
+Ankheg,Hell Hound,56.4%,43.6%
+Ankheg,Polar Bear,56.4%,43.6%
+Brown Bear,Warhorse Skeleton,56.4%,43.6%
+Druid,Giant Crab,56.4%,43.6%
+Eagle,Mastiff,56.4%,43.6%
+Ghoul,Swarm of Ravens,56.4%,43.6%
+Giant Frog,Guard,56.4%,43.6%
+Gladiator,Xorn,56.4%,43.6%
+Ghast,Giant Octopus,43.6%,56.4%
+Grimlock,Sahuagin,43.6%,56.4%
+Ape,Shadow,56.5%,43.5%
+Badger,Sprite,56.5%,43.5%
+Dryad,Violet Fungus,56.5%,43.5%
+Gelatinous Cube,Rhinoceros,56.5%,43.5%
+Ice Mephit,Imp,56.5%,43.5%
+Vampire Spawn,"Wereboar, Boar Form",56.5%,43.5%
+Vampire Spawn,"Wereboar, Hybrid Form",56.5%,43.5%
+"Wererat, Hybrid Form","Wererat, Rat Form",56.5%,43.5%
+Adult Copper Dragon,Adult White Dragon,43.5%,56.5%
+Black Dragon Wyrmling,Black Pudding,43.5%,56.5%
+Erinyes,Mummy Lord,43.5%,56.5%
+Ghast,Green Dragon Wyrmling,43.5%,56.5%
+Ghost,Unicorn,43.5%,56.5%
+Giant Toad,Ochre Jelly,43.5%,56.5%
+Knight,Nightmare,43.5%,56.5%
+Steam Mephit,Tribal Warrior,43.5%,56.5%
+Tiger,Will-o'-Wisp,43.5%,56.5%
+Azer,Bearded Devil,56.6%,43.4%
+Berserker,Veteran,56.6%,43.4%
+Darkmantle,Giant Goat,56.6%,43.4%
+Rakshasa,Wyvern,56.6%,43.4%
+Scorpion,Weasel,56.6%,43.4%
+Swarm of Poisonous Snakes,Tiger,56.6%,43.4%
+Brass Dragon Wyrmling,Mage,43.4%,56.6%
+Darkmantle,Thug,43.4%,56.6%
+Giant Scorpion,Merrow,43.4%,56.6%
+Goblin,Ice Mephit,43.4%,56.6%
+Ice Mephit,Sahuagin,43.4%,56.6%
+Ancient White Dragon,Pit Fiend,56.7%,43.3%
+Berserker,Drider,56.7%,43.3%
+Dust Mephit,Wolf,56.7%,43.3%
+Fire Elemental,Red Dragon Wyrmling,56.7%,43.3%
+Flesh Golem,Red Dragon Wyrmling,56.7%,43.3%
+Giant Owl,Gnoll,56.7%,43.3%
+Giant Vulture,Shadow,56.7%,43.3%
+Gray Ooze,Zombie,56.7%,43.3%
+Half-Red Dragon Veteran,Owlbear,56.7%,43.3%
+Magmin,Wolf,56.7%,43.3%
+Mammoth,Young Blue Dragon,56.7%,43.3%
+Mummy Lord,Young Brass Dragon,56.7%,43.3%
+Archmage,Basilisk,43.3%,56.7%
+Bandit,Noble,43.3%,56.7%
+Hyena,Kobold,43.3%,56.7%
+Awakened Tree,Cloaker,56.8%,43.2%
+Axe Beak,Darkmantle,43.2%,56.8%
+Bandit,Giant Badger,56.8%,43.2%
+Blink Dog,Swarm of Rats,43.2%,56.8%
+Bone Devil,Hydra,43.2%,56.8%
+Deep Gnome (Svirfneblin),Shadow,56.8%,43.2%
+Giant Fire Beetle,Hyena,43.2%,56.8%
+Green Dragon Wyrmling,Will-o'-Wisp,56.8%,43.2%
+Grimlock,Guard,56.8%,43.2%
+Hippogriff,Thug,56.8%,43.2%
+Lamia,Wraith,43.2%,56.8%
+Shadow,Spy,56.8%,43.2%
+Young Brass Dragon,Young Copper Dragon,43.2%,56.8%
+Camel,Pseudodragon,56.9%,43.1%
+Commoner,Flying Snake,56.9%,43.1%
+Cult Fanatic,Swarm of Bats,56.9%,43.1%
+Griffon,Mummy,56.9%,43.1%
+Hydra,Young Brass Dragon,56.9%,43.1%
+Pony,Zombie,56.9%,43.1%
+Assassin,Ogre,43.1%,56.9%
+Axe Beak,Reef Shark,43.1%,56.9%
+Berserker,Owlbear,43.1%,56.9%
+Blood Hawk,Boar,43.1%,56.9%
+Hobgoblin,Shadow,43.1%,56.9%
+Invisible Stalker,Salamander,43.1%,56.9%
+Pseudodragon,Violet Fungus,43.1%,56.9%
+Saber-Toothed Tiger,Veteran,43.1%,56.9%
+"Wereboar, Boar Form","Weretiger, Human Form",43.1%,56.9%
+"Wereboar, Hybrid Form","Weretiger, Human Form",43.1%,56.9%
+Ankheg,Centaur,57.0%,43.0%
+Baboon,Jackal,57.0%,43.0%
+Bat,Raven,57.0%,43.0%
+Bat,Spider,57.0%,43.0%
+Berserker,"Wereboar, Human Form",57.0%,43.0%
+Bronze Dragon Wyrmling,Green Dragon Wyrmling,57.0%,43.0%
+Deer,Vulture,57.0%,43.0%
+Gray Ooze,Magma Mephit,57.0%,43.0%
+Hezrou,Young Copper Dragon,57.0%,43.0%
+Manticore,Saber-Toothed Tiger,57.0%,43.0%
+Azer,Hell Hound,43.0%,57.0%
+Black Pudding,Giant Hyena,43.0%,57.0%
+Bugbear,Giant Octopus,43.0%,57.0%
+Grimlock,Skeleton,43.0%,57.0%
+Half-Red Dragon Veteran,Ogre Zombie,43.0%,57.0%
+Gelatinous Cube,Succubus/Incubus,57.1%,42.9%
+Quasit,Tribal Warrior,57.1%,42.9%
+Saber-Toothed Tiger,Sea Hag,57.1%,42.9%
+Young Black Dragon,Young White Dragon,57.1%,42.9%
+Dire Wolf,Doppelganger,42.9%,57.1%
+Doppelganger,Griffon,42.9%,57.1%
+Giant Elk,Rhinoceros,42.9%,57.1%
+Night Hag,Shield Guardian,42.9%,57.1%
+Adult Blue Dragon,Fire Giant,57.2%,42.8%
+Berserker,Rhinoceros,57.2%,42.8%
+Cult Fanatic,Hobgoblin,57.2%,42.8%
+Doppelganger,Giant Octopus,57.2%,42.8%
+Drow,Riding Horse,57.2%,42.8%
+Giant Ape,Glabrezu,57.2%,42.8%
+Pegasus,Silver Dragon Wyrmling,57.2%,42.8%
+Brass Dragon Wyrmling,Lion,42.8%,57.2%
+Bulette,Marilith,42.8%,57.2%
+Druid,Riding Horse,42.8%,57.2%
+Boar,Quasit,57.3%,42.7%
+Elk,Wolf,57.3%,42.7%
+Giant Eagle,Mage,57.3%,42.7%
+Giant Sea Horse,Guard,57.3%,42.7%
+Merrow,Mimic,57.3%,42.7%
+"Weretiger, Hybrid Form","Weretiger, Tiger Form",57.3%,42.7%
+Bugbear,Merrow,42.7%,57.3%
+Earth Elemental,Lich,42.7%,57.3%
+Ettin,Minotaur,42.7%,57.3%
+Animated Armor,Black Dragon Wyrmling,42.6%,57.4%
+Ape,Ghoul,42.6%,57.4%
+Awakened Tree,Barbed Devil,57.4%,42.6%
+Brown Bear,Wight,57.4%,42.6%
+Clay Golem,Young White Dragon,42.6%,57.4%
+Crocodile,Deep Gnome (Svirfneblin),57.4%,42.6%
+Dust Mephit,Priest,42.6%,57.4%
+Ettin,Rakshasa,42.6%,57.4%
+Gargoyle,Will-o'-Wisp,42.6%,57.4%
+Giant Badger,Grimlock,42.6%,57.4%
+Giant Fire Beetle,Vulture,57.4%,42.6%
+Giant Sea Horse,Sahuagin,57.4%,42.6%
+Green Hag,Xorn,42.6%,57.4%
+Ice Mephit,Pony,57.4%,42.6%
+Planetar,Purple Worm,57.4%,42.6%
+Scout,Swarm of Rats,42.6%,57.4%
+Black Dragon Wyrmling,Ghast,57.5%,42.5%
+Flying Sword,Giant Bat,57.5%,42.5%
+Flying Sword,Lizardfolk,57.5%,42.5%
+Hydra,Mummy Lord,57.5%,42.5%
+Ogre,Owlbear,57.5%,42.5%
+Orc,Rust Monster,57.5%,42.5%
+Orc,Swarm of Ravens,57.5%,42.5%
+Swarm of Poisonous Snakes,White Dragon Wyrmling,57.5%,42.5%
+"Werebear, Bear Form","Werebear, Hybrid Form",57.5%,42.5%
+Aboleth,Gynosphinx,42.5%,57.5%
+Axe Beak,Giant Goat,42.5%,57.5%
+Bandit,Pony,42.5%,57.5%
+Giant Lizard,Spy,42.5%,57.5%
+Glabrezu,Marilith,42.5%,57.5%
+Imp,Riding Horse,42.5%,57.5%
+Sea Hag,"Wereboar, Human Form",42.5%,57.5%
+Specter,Worg,42.5%,57.5%
+Bearded Devil,"Werewolf, Hybrid Form",57.6%,42.4%
+Bearded Devil,"Werewolf, Wolf Form",57.6%,42.4%
+Blink Dog,Drow,57.6%,42.4%
+Blue Dragon Wyrmling,Veteran,57.6%,42.4%
+Blue Dragon Wyrmling,"Wereboar, Human Form",57.6%,42.4%
+Eagle,Giant Centipede,57.6%,42.4%
+Ghost,Veteran,57.6%,42.4%
+Giant Crocodile,Shield Guardian,57.6%,42.4%
+Guard,Magma Mephit,57.6%,42.4%
+Ape,Rust Monster,42.4%,57.6%
+Bandit Captain,Saber-Toothed Tiger,42.4%,57.6%
+Brown Bear,Swarm of Poisonous Snakes,42.4%,57.6%
+Cockatrice,Giant Poisonous Snake,42.4%,57.6%
+Goblin,Pony,42.4%,57.6%
+Mule,Tribal Warrior,42.4%,57.6%
+Bronze Dragon Wyrmling,Giant Boar,57.7%,42.3%
+Bulette,Gorgon,57.7%,42.3%
+Constrictor Snake,Giant Sea Horse,57.7%,42.3%
+Ettercap,"Werewolf, Human Form",57.7%,42.3%
+Ettercap,Worg,57.7%,42.3%
+Giant Hyena,Merrow,57.7%,42.3%
+Glabrezu,Stone Giant,57.7%,42.3%
+Minotaur,Rakshasa,57.7%,42.3%
+"Wereboar, Boar Form","Wereboar, Hybrid Form",57.7%,42.3%
+Aboleth,Lich,42.3%,57.7%
+Constrictor Snake,Priest,42.3%,57.7%
+Dust Mephit,Giant Poisonous Snake,42.3%,57.7%
+Ghast,Polar Bear,42.3%,57.7%
+Ghoul,Giant Eagle,42.3%,57.7%
+Giant Wasp,Priest,42.3%,57.7%
+Panther,Priest,42.3%,57.7%
+Saber-Toothed Tiger,Silver Dragon Wyrmling,42.3%,57.7%
+Silver Dragon Wyrmling,"Weretiger, Human Form",42.3%,57.7%
+Aboleth,Clay Golem,57.8%,42.2%
+Assassin,"Wereboar, Human Form",57.8%,42.2%
+Azer,Black Dragon Wyrmling,57.8%,42.2%
+Cloaker,Winter Wolf,57.8%,42.2%
+Constrictor Snake,Giant Wasp,57.8%,42.2%
+Constrictor Snake,Panther,57.8%,42.2%
+Giant Wasp,Panther,57.8%,42.2%
+Gold Dragon Wyrmling,Ogre Zombie,57.8%,42.2%
+Ice Devil,Stone Giant,57.8%,42.2%
+Ice Mephit,Noble,57.8%,42.2%
+Marilith,Young Blue Dragon,57.8%,42.2%
+Orc,Thug,57.8%,42.2%
+Axe Beak,Flying Sword,42.2%,57.8%
+Constrictor Snake,Riding Horse,42.2%,57.8%
+Giant Wasp,Riding Horse,42.2%,57.8%
+Hippogriff,Satyr,42.2%,57.8%
+Magma Mephit,Wolf,42.2%,57.8%
+Manticore,Veteran,42.2%,57.8%
+Minotaur Skeleton,Vrock,42.2%,57.8%
+Panther,Riding Horse,42.2%,57.8%
+Draft Horse,Ghoul,57.9%,42.1%
+Duergar,Warhorse Skeleton,42.1%,57.9%
+Giant Crocodile,Young Copper Dragon,42.1%,57.9%
+Guard,Riding Horse,42.1%,57.9%
+Balor,Remorhaz,58.0%,42.0%
+Barbed Devil,Winter Wolf,58.0%,42.0%
+Bone Devil,Shield Guardian,58.0%,42.0%
+Centaur,Polar Bear,58.0%,42.0%
+Constrictor Snake,Giant Crab,58.0%,42.0%
+Constrictor Snake,Gray Ooze,58.0%,42.0%
+Constrictor Snake,Zombie,58.0%,42.0%
+Druid,Guard,58.0%,42.0%
+Dust Mephit,Skeleton,58.0%,42.0%
+Ghost,"Wereboar, Boar Form",58.0%,42.0%
+Ghost,"Wereboar, Hybrid Form",58.0%,42.0%
+Giant Wasp,Gray Ooze,58.0%,42.0%
+Giant Wasp,Zombie,58.0%,42.0%
+Hippogriff,Orc,58.0%,42.0%
+Panther,Zombie,58.0%,42.0%
+Ape,Brass Dragon Wyrmling,42.0%,58.0%
+Bearded Devil,Giant Boar,42.0%,58.0%
+Black Pudding,Centaur,42.0%,58.0%
+Deva,Killer Whale,42.0%,58.0%
+Efreeti,Frost Giant,42.0%,58.0%
+Giant Badger,Noble,42.0%,58.0%
+Ankheg,Merrow,58.1%,41.9%
+Djinni,Young Green Dragon,58.1%,41.9%
+Giant Bat,Lizardfolk,58.1%,41.9%
+Giant Crab,Guard,58.1%,41.9%
+Chimera,Xorn,41.9%,58.1%
+Copper Dragon Wyrmling,Worg,41.9%,58.1%
+Dretch,Noble,41.9%,58.1%
+Giant Octopus,Succubus/Incubus,41.9%,58.1%
+Giant Sea Horse,Riding Horse,41.9%,58.1%
+"Werebear, Human Form",Wraith,41.9%,58.1%
+Ancient Black Dragon,Dragon Turtle,58.2%,41.8%
+Bandit,Tribal Warrior,58.2%,41.8%
+Blink Dog,Scout,58.2%,41.8%
+Giant Hyena,Hell Hound,58.2%,41.8%
+Deer,Hyena,41.8%,58.2%
+Dust Mephit,Scout,41.8%,58.2%
+Ice Mephit,Skeleton,41.8%,58.2%
+Rust Monster,Swarm of Beetles,41.8%,58.2%
+Rust Monster,Swarm of Centipedes,41.8%,58.2%
+Rust Monster,Swarm of Insects,41.8%,58.2%
+Rust Monster,Swarm of Spiders,41.8%,58.2%
+Rust Monster,Swarm of Wasps,41.8%,58.2%
+Cloaker,Gold Dragon Wyrmling,58.3%,41.7%
+Druid,Giant Sea Horse,58.3%,41.7%
+Erinyes,Shambling Mound,58.3%,41.7%
+Giant Badger,Tribal Warrior,58.3%,41.7%
+Giant Bat,Gnoll,58.3%,41.7%
+Giant Sea Horse,Gray Ooze,58.3%,41.7%
+Giant Sea Horse,Zombie,58.3%,41.7%
+Gynosphinx,Young Black Dragon,58.3%,41.7%
+Hippogriff,Rust Monster,58.3%,41.7%
+Lamia,Vrock,58.3%,41.7%
+Noble,Pony,58.3%,41.7%
+Adult Copper Dragon,Androsphinx,41.7%,58.3%
+Ghoul,Lion,41.7%,58.3%
+Giant Goat,"Wererat, Human Form",41.7%,58.3%
+Hobgoblin,Lizardfolk,41.7%,58.3%
+Acolyte,Kobold,41.6%,58.4%
+Ancient Black Dragon,Ancient Green Dragon,58.4%,41.6%
+Azer,Giant Hyena,41.6%,58.4%
+Basilisk,Sea Hag,41.6%,58.4%
+Djinni,Giant Shark,41.6%,58.4%
+Earth Elemental,Hezrou,58.4%,41.6%
+Giant Frog,Gray Ooze,58.4%,41.6%
+Giant Frog,Zombie,58.4%,41.6%
+Giant Goat,"Wererat, Hybrid Form",58.4%,41.6%
+Giant Goat,"Wererat, Rat Form",58.4%,41.6%
+Giant Wolf Spider,Imp,41.6%,58.4%
+Gnoll,Spy,41.6%,58.4%
+Guardian Naga,"Vampire, Vampire Form",41.6%,58.4%
+Knight,Troll,41.6%,58.4%
+Kobold,Merfolk,41.6%,58.4%
+Blue Dragon Wyrmling,Vampire Spawn,41.5%,58.5%
+Bronze Dragon Wyrmling,Swarm of Quippers,58.5%,41.5%
+Chuul,"Werebear, Human Form",58.5%,41.5%
+Clay Golem,Gynosphinx,41.5%,58.5%
+Clay Golem,Young Copper Dragon,58.5%,41.5%
+Cult Fanatic,Giant Vulture,41.5%,58.5%
+Deep Gnome (Svirfneblin),Gnoll,58.5%,41.5%
+Doppelganger,Giant Elk,41.5%,58.5%
+Fire Elemental,Flesh Golem,58.5%,41.5%
+Hill Giant,Young Copper Dragon,41.5%,58.5%
+Hobgoblin,Swarm of Rats,58.5%,41.5%
+Nalfeshnee,Roc,41.5%,58.5%
+Oni,Salamander,58.5%,41.5%
+Swarm of Ravens,Warhorse,41.5%,58.5%
+Swarm of Ravens,Thug,58.6%,41.4%
+Medusa,Owlbear,41.4%,58.6%
+Vampire Spawn,"Weretiger, Human Form",41.4%,58.6%
+Water Elemental,"Werebear, Bear Form",41.4%,58.6%
+Water Elemental,"Werebear, Hybrid Form",41.4%,58.6%
+Ankheg,Mimic,58.7%,41.3%
+Ape,Giant Bat,58.7%,41.3%
+Ape,Lizardfolk,58.7%,41.3%
+Giant Centipede,Kobold,58.7%,41.3%
+Giant Hyena,Polar Bear,58.7%,41.3%
+Giant Sea Horse,Giant Wasp,58.7%,41.3%
+Giant Sea Horse,Panther,58.7%,41.3%
+Bearded Devil,Bronze Dragon Wyrmling,41.3%,58.7%
+Bearded Devil,Dire Wolf,41.3%,58.7%
+Brass Dragon Wyrmling,Death Dog,41.3%,58.7%
+Giant Elk,Veteran,41.3%,58.7%
+Lion,Phase Spider,41.3%,58.7%
+Shadow,"Wererat, Human Form",41.3%,58.7%
+Ankheg,Giant Hyena,58.8%,41.2%
+Assassin,Rhinoceros,58.8%,41.2%
+Blood Hawk,Pseudodragon,58.8%,41.2%
+Brown Bear,Worg,58.8%,41.2%
+Bugbear,Ghast,58.8%,41.2%
+Bulette,Young Bronze Dragon,58.8%,41.2%
+Crocodile,Reef Shark,58.8%,41.2%
+Darkmantle,Shadow,58.8%,41.2%
+Deva,Xorn,58.8%,41.2%
+Giant Crab,Giant Frog,58.8%,41.2%
+Giant Owl,Lizardfolk,58.8%,41.2%
+Giant Rat,Pseudodragon,58.8%,41.2%
+Giant Rat (Diseased),Pseudodragon,58.8%,41.2%
+Priest,Wolf,58.8%,41.2%
+Androsphinx,Cloud Giant,41.2%,58.8%
+Black Dragon Wyrmling,Dire Wolf,41.2%,58.8%
+Duergar,Worg,41.2%,58.8%
+Elephant,Guardian Naga,41.2%,58.8%
+Gnoll,Hippogriff,41.2%,58.8%
+Goblin,Panther,41.2%,58.8%
+Androsphinx,Behir,58.9%,41.1%
+Axe Beak,Hobgoblin,58.9%,41.1%
+Black Bear,Riding Horse,58.9%,41.1%
+Couatl,Xorn,58.9%,41.1%
+Dire Wolf,Green Dragon Wyrmling,58.9%,41.1%
+Dryad,Quasit,58.9%,41.1%
+Grimlock,Imp,58.9%,41.1%
+Hobgoblin,Scout,58.9%,41.1%
+Pegasus,Veteran,58.9%,41.1%
+Water Elemental,Xorn,58.9%,41.1%
+Cult Fanatic,Gnoll,41.1%,58.9%
+Frost Giant,Tyrannosaurus Rex,41.1%,58.9%
+Gelatinous Cube,Giant Constrictor Snake,41.1%,58.9%
+Giant Lizard,Orc,41.1%,58.9%
+Giant Vulture,Swarm of Ravens,41.1%,58.9%
+Warhorse,Wight,41.1%,58.9%
+Crocodile,Giant Goat,59.0%,41.0%
+Deep Gnome (Svirfneblin),Draft Horse,41.0%,59.0%
+Drider,Silver Dragon Wyrmling,41.0%,59.0%
+Giant Eagle,Harpy,59.0%,41.0%
+Giant Weasel,Noble,59.0%,41.0%
+Hippogriff,Lion,41.0%,59.0%
+Vrock,Wraith,41.0%,59.0%
+White Dragon Wyrmling,Will-o'-Wisp,41.0%,59.0%
+Chain Devil,Rakshasa,59.1%,40.9%
+Copper Dragon Wyrmling,Warhorse,59.1%,40.9%
+Gargoyle,Swarm of Poisonous Snakes,59.1%,40.9%
+Magmin,Skeleton,59.1%,40.9%
+Medusa,Pegasus,59.1%,40.9%
+Bandit,Grimlock,40.9%,59.1%
+Deep Gnome (Svirfneblin),Thug,40.9%,59.1%
+Giant Weasel,Sahuagin,40.9%,59.1%
+Guard,Priest,40.9%,59.1%
+Half-Red Dragon Veteran,Winter Wolf,40.9%,59.1%
+Hezrou,Young Black Dragon,40.9%,59.1%
+Knight,"Weretiger, Hybrid Form",40.9%,59.1%
+Knight,"Weretiger, Tiger Form",40.9%,59.1%
+Constrictor Snake,Giant Frog,59.2%,40.8%
+Crocodile,Giant Owl,59.2%,40.8%
+Flying Sword,Giant Owl,59.2%,40.8%
+Ghoul,Thug,59.2%,40.8%
+Lamia,"Werebear, Human Form",59.2%,40.8%
+Swarm of Quippers,Will-o'-Wisp,59.2%,40.8%
+Warhorse Skeleton,"Werewolf, Human Form",59.2%,40.8%
+Chain Devil,Xorn,40.8%,59.2%
+Ghoul,Mage,40.8%,59.2%
+Dust Mephit,Elk,59.3%,40.7%
+Ankheg,Mummy,40.7%,59.3%
+Brass Dragon Wyrmling,Copper Dragon Wyrmling,40.7%,59.3%
+Constrictor Snake,Scout,40.7%,59.3%
+Dretch,Pony,40.7%,59.3%
+Giant Badger,Imp,40.7%,59.3%
+Giant Wasp,Scout,40.7%,59.3%
+Hippogriff,Warhorse,40.7%,59.3%
+Hunter Shark,"Wereboar, Boar Form",40.7%,59.3%
+Hunter Shark,"Wereboar, Hybrid Form",40.7%,59.3%
+Minotaur Skeleton,Salamander,40.7%,59.3%
+Panther,Scout,40.7%,59.3%
+Bugbear,Centaur,40.6%,59.4%
+Constrictor Snake,Giant Poisonous Snake,40.6%,59.4%
+Druid,Giant Wasp,59.4%,40.6%
+Druid,Panther,59.4%,40.6%
+Giant Eagle,Giant Spider,40.6%,59.4%
+Giant Goat,Spy,59.4%,40.6%
+Giant Owl,Shadow,59.4%,40.6%
+Gibbering Mouther,Ogre,59.4%,40.6%
+Grick,Swarm of Poisonous Snakes,40.6%,59.4%
+Manticore,"Wereboar, Human Form",40.6%,59.4%
+Black Dragon Wyrmling,Gargoyle,59.5%,40.5%
+Chain Devil,Wyvern,59.5%,40.5%
+Death Dog,Lion,59.5%,40.5%
+Drider,Saber-Toothed Tiger,59.5%,40.5%
+Giant Constrictor Snake,Silver Dragon Wyrmling,59.5%,40.5%
+Giant Frog,Riding Horse,40.5%,59.5%
+Giant Goat,Swarm of Beetles,40.5%,59.5%
+Giant Goat,Swarm of Centipedes,40.5%,59.5%
+Giant Goat,Swarm of Insects,40.5%,59.5%
+Giant Goat,Swarm of Spiders,40.5%,59.5%
+Giant Goat,Swarm of Wasps,40.5%,59.5%
+Giant Lizard,"Wererat, Hybrid Form",40.5%,59.5%
+Giant Lizard,"Wererat, Rat Form",40.5%,59.5%
+Gnoll,Rust Monster,40.5%,59.5%
+Gorgon,Mammoth,40.5%,59.5%
+Quasit,Steam Mephit,59.5%,40.5%
+Shadow,Warhorse,40.5%,59.5%
+Silver Dragon Wyrmling,"Wereboar, Human Form",59.5%,40.5%
+Air Elemental,Deva,59.6%,40.4%
+Boar,Giant Weasel,40.4%,59.6%
+Centaur,Mummy,40.4%,59.6%
+Chimera,Wraith,59.6%,40.4%
+Commoner,Stirge,40.4%,59.6%
+Copper Dragon Wyrmling,Specter,59.6%,40.4%
+Giant Poisonous Snake,Scout,59.6%,40.4%
+Giant Poisonous Snake,Shadow,40.4%,59.6%
+Giant Toad,Phase Spider,59.6%,40.4%
+Giant Vulture,Rust Monster,40.4%,59.6%
+Gibbering Mouther,Spirit Naga,40.4%,59.6%
+Gynosphinx,Triceratops,59.6%,40.4%
+Hill Giant,Shambling Mound,59.6%,40.4%
+Satyr,Swarm of Beetles,59.6%,40.4%
+Satyr,Swarm of Centipedes,59.6%,40.4%
+Satyr,Swarm of Insects,59.6%,40.4%
+Satyr,Swarm of Spiders,59.6%,40.4%
+Satyr,Swarm of Wasps,59.6%,40.4%
+Awakened Tree,Gold Dragon Wyrmling,59.7%,40.3%
+Bandit,Violet Fungus,59.7%,40.3%
+Barbed Devil,Gold Dragon Wyrmling,59.7%,40.3%
+Black Bear,Cult Fanatic,40.3%,59.7%
+Black Dragon Wyrmling,Hell Hound,40.3%,59.7%
+Black Dragon Wyrmling,"Werewolf, Hybrid Form",59.7%,40.3%
+Black Dragon Wyrmling,"Werewolf, Wolf Form",59.7%,40.3%
+Brass Dragon Wyrmling,Swarm of Ravens,59.7%,40.3%
+Crocodile,Darkmantle,59.7%,40.3%
+Crocodile,"Wererat, Human Form",40.3%,59.7%
+Giant Elk,Gibbering Mouther,40.3%,59.7%
+Giant Vulture,Gnoll,59.7%,40.3%
+Magmin,Sahuagin,59.7%,40.3%
+Minotaur Skeleton,Red Dragon Wyrmling,59.7%,40.3%
+Phase Spider,"Werewolf, Human Form",40.3%,59.7%
+Polar Bear,Succubus/Incubus,40.3%,59.7%
+Tribal Warrior,Violet Fungus,59.7%,40.3%
+Awakened Shrub,Goat,59.8%,40.2%
+Black Pudding,Will-o'-Wisp,59.8%,40.2%
+Blue Dragon Wyrmling,Owlbear,40.2%,59.8%
+Cult Fanatic,Deep Gnome (Svirfneblin),40.2%,59.8%
+Darkmantle,Flying Sword,59.8%,40.2%
+Drow,Giant Lizard,40.2%,59.8%
+Giant Constrictor Snake,"Weretiger, Human Form",40.2%,59.8%
+Giant Eagle,Swarm of Beetles,59.8%,40.2%
+Giant Eagle,Swarm of Centipedes,59.8%,40.2%
+Giant Eagle,Swarm of Insects,59.8%,40.2%
+Giant Eagle,Swarm of Spiders,59.8%,40.2%
+Giant Eagle,Swarm of Wasps,59.8%,40.2%
+Giant Goat,Orc,59.8%,40.2%
+Goblin,Magma Mephit,40.2%,59.8%
+Hippogriff,Specter,40.2%,59.8%
+Hobgoblin,Reef Shark,40.2%,59.8%
+Warhorse Skeleton,Worg,59.8%,40.2%
+Basilisk,Manticore,40.1%,59.9%
+Chuul,Salamander,59.9%,40.1%
+Dire Wolf,Giant Scorpion,59.9%,40.1%
+Ettercap,Wight,59.9%,40.1%
+Fire Elemental,Plesiosaurus,59.9%,40.1%
+Giant Hyena,Mimic,59.9%,40.1%
+Gnoll,"Wererat, Hybrid Form",40.1%,59.9%
+Gnoll,"Wererat, Rat Form",40.1%,59.9%
+Medusa,"Weretiger, Human Form",40.1%,59.9%
+Nightmare,Red Dragon Wyrmling,40.1%,59.9%
+Wraith,Xorn,40.1%,59.9%
+Young Copper Dragon,Young White Dragon,40.1%,59.9%
+Adult Silver Dragon,Nalfeshnee,60.0%,40.0%
+Basilisk,Hunter Shark,40.0%,60.0%
+Black Pudding,Bugbear,60.0%,40.0%
+Chuul,Otyugh,40.0%,60.0%
+Crocodile,Shadow,60.0%,40.0%
+Cult Fanatic,Giant Owl,40.0%,60.0%
+Darkmantle,Deep Gnome (Svirfneblin),60.0%,40.0%
+Giant Bat,Rust Monster,40.0%,60.0%
+Giant Boar,Swarm of Quippers,60.0%,40.0%
+Giant Hyena,Green Dragon Wyrmling,60.0%,40.0%
+Goat,Mastiff,40.0%,60.0%
+Guard,Ice Mephit,60.0%,40.0%
+Lizardfolk,Rust Monster,40.0%,60.0%
+Noble,Riding Horse,40.0%,60.0%
+Warhorse,Worg,40.0%,60.0%
+Azer,"Werewolf, Hybrid Form",60.1%,39.9%
+Azer,"Werewolf, Wolf Form",60.1%,39.9%
+Bearded Devil,Black Pudding,39.9%,60.1%
+Chuul,Green Hag,39.9%,60.1%
+Copper Dragon Wyrmling,Ochre Jelly,39.9%,60.1%
+Cultist,Mule,60.1%,39.9%
+Deep Gnome (Svirfneblin),Giant Owl,60.1%,39.9%
+Ettercap,Ochre Jelly,60.1%,39.9%
+Ettin,Wraith,39.9%,60.1%
+Flesh Golem,Invisible Stalker,39.9%,60.1%
+Gargoyle,White Dragon Wyrmling,60.1%,39.9%
+Ghost,Knight,39.9%,60.1%
+Hippogriff,Mage,39.9%,60.1%
+Lion,Warhorse,60.1%,39.9%
+Swarm of Beetles,Swarm of Centipedes,60.1%,39.9%
+Swarm of Beetles,Swarm of Insects,60.1%,39.9%
+Swarm of Beetles,Swarm of Spiders,60.1%,39.9%
+Swarm of Beetles,Swarm of Wasps,60.1%,39.9%
+Swarm of Centipedes,Swarm of Insects,60.1%,39.9%
+Swarm of Centipedes,Swarm of Spiders,60.1%,39.9%
+Swarm of Centipedes,Swarm of Wasps,60.1%,39.9%
+Swarm of Insects,Swarm of Spiders,60.1%,39.9%
+Swarm of Insects,Swarm of Wasps,60.1%,39.9%
+Swarm of Spiders,Swarm of Wasps,60.1%,39.9%
+Black Dragon Wyrmling,Bronze Dragon Wyrmling,39.8%,60.2%
+Blood Hawk,Steam Mephit,39.8%,60.2%
+Cloaker,Ogre Zombie,60.2%,39.8%
+Constrictor Snake,Drow,39.8%,60.2%
+Duergar,Specter,60.2%,39.8%
+Giant Hyena,Mummy,39.8%,60.2%
+Giant Rat,Steam Mephit,39.8%,60.2%
+Giant Rat (Diseased),Steam Mephit,39.8%,60.2%
+Giant Weasel,Imp,60.2%,39.8%
+Giant Wolf Spider,Tribal Warrior,60.2%,39.8%
+Green Dragon Wyrmling,Polar Bear,39.8%,60.2%
+Guardian Naga,Killer Whale,60.2%,39.8%
+Swarm of Beetles,Warhorse,60.2%,39.8%
+Swarm of Centipedes,Warhorse,60.2%,39.8%
+Swarm of Insects,Warhorse,60.2%,39.8%
+Swarm of Spiders,Warhorse,60.2%,39.8%
+Swarm of Wasps,Warhorse,60.2%,39.8%
+Ancient Brass Dragon,Solar,39.7%,60.3%
+Ankheg,Dire Wolf,60.3%,39.7%
+Black Bear,Swarm of Bats,39.7%,60.3%
+Cult Fanatic,Shadow,39.7%,60.3%
+Djinni,Roper,39.7%,60.3%
+Flying Sword,Gnoll,60.3%,39.7%
+Giant Elk,Pegasus,39.7%,60.3%
+Giant Fire Beetle,Stirge,39.7%,60.3%
+Giant Octopus,Saber-Toothed Tiger,39.7%,60.3%
+Giant Shark,Stone Giant,39.7%,60.3%
+Giant Vulture,Lizardfolk,60.3%,39.7%
+Ochre Jelly,Wight,60.3%,39.7%
+Animated Armor,Worg,60.4%,39.6%
+Awakened Tree,Plesiosaurus,39.6%,60.4%
+Bandit,Dryad,60.4%,39.6%
+Black Dragon Wyrmling,Giant Hyena,39.6%,60.4%
+Brown Bear,Grick,60.4%,39.6%
+Deer,Giant Fire Beetle,60.4%,39.6%
+Giant Crab,Riding Horse,39.6%,60.4%
+Giant Spider,Wight,39.6%,60.4%
+Hunter Shark,Ogre,39.6%,60.4%
+Magma Mephit,Pony,60.4%,39.6%
+Salamander,Vrock,60.4%,39.6%
+Awakened Tree,Winter Wolf,60.5%,39.5%
+Bearded Devil,Hell Hound,39.5%,60.5%
+Black Dragon Wyrmling,Mimic,39.5%,60.5%
+Chuul,Lamia,60.5%,39.5%
+Cult Fanatic,Giant Bat,39.5%,60.5%
+Cult Fanatic,Lizardfolk,39.5%,60.5%
+Dire Wolf,Giant Boar,60.5%,39.5%
+Erinyes,Night Hag,60.5%,39.5%
+Ettercap,Warhorse Skeleton,60.5%,39.5%
+Ghoul,Satyr,39.5%,60.5%
+Ghoul,Specter,39.5%,60.5%
+Giant Ape,Ice Devil,60.5%,39.5%
+Giant Poisonous Snake,Giant Vulture,39.5%,60.5%
+Mummy Lord,Shield Guardian,60.5%,39.5%
+Rakshasa,"Werebear, Human Form",60.5%,39.5%
+Adult Copper Dragon,Stone Golem,60.6%,39.4%
+Air Elemental,"Werebear, Bear Form",39.4%,60.6%
+Air Elemental,"Werebear, Hybrid Form",39.4%,60.6%
+Animated Armor,Ettercap,60.6%,39.4%
+Ape,Giant Vulture,60.6%,39.4%
+Bandit Captain,Hunter Shark,39.4%,60.6%
+Dust Mephit,Hobgoblin,39.4%,60.6%
+Ghost,Giant Constrictor Snake,60.6%,39.4%
+Giant Poisonous Snake,Gnoll,39.4%,60.6%
+Giant Wolf Spider,Guard,39.4%,60.6%
+Minotaur,Oni,60.6%,39.4%
+Rat,Scorpion,60.6%,39.4%
+Ape,Thug,39.3%,60.7%
+Darkmantle,Reef Shark,60.7%,39.3%
+Dretch,Imp,39.3%,60.7%
+Earth Elemental,Young Green Dragon,39.3%,60.7%
+Goblin,Gray Ooze,39.3%,60.7%
+Goblin,Zombie,39.3%,60.7%
+Sea Hag,Silver Dragon Wyrmling,39.3%,60.7%
+Adult Brass Dragon,Young Gold Dragon,60.8%,39.2%
+Adult Brass Dragon,Young Red Dragon,60.8%,39.2%
+Ancient White Dragon,Solar,60.8%,39.2%
+Boar,Noble,39.2%,60.8%
+Cultist,Dretch,39.2%,60.8%
+Cultist,Giant Wolf Spider,39.2%,60.8%
+Death Dog,Satyr,60.8%,39.2%
+Drider,"Wereboar, Boar Form",39.2%,60.8%
+Drider,"Wereboar, Hybrid Form",39.2%,60.8%
+Giant Badger,Pony,39.2%,60.8%
+Giant Constrictor Snake,Veteran,60.8%,39.2%
+Giant Elk,Silver Dragon Wyrmling,39.2%,60.8%
+Guardian Naga,Night Hag,39.2%,60.8%
+Ice Mephit,Wolf,39.2%,60.8%
+Invisible Stalker,Lamia,39.2%,60.8%
+Magma Mephit,Noble,60.8%,39.2%
+Ochre Jelly,"Werewolf, Human Form",60.8%,39.2%
+Ogre,Vampire Spawn,60.8%,39.2%
+Stone Golem,Tyrannosaurus Rex,60.8%,39.2%
+Bearded Devil,Gargoyle,60.9%,39.1%
+Black Dragon Wyrmling,Swarm of Poisonous Snakes,60.9%,39.1%
+Blink Dog,Giant Lizard,39.1%,60.9%
+Bone Devil,Young Copper Dragon,39.1%,60.9%
+Brass Dragon Wyrmling,Thug,60.9%,39.1%
+Centaur,Giant Hyena,60.9%,39.1%
+Centaur,Griffon,39.1%,60.9%
+Chimera,Couatl,39.1%,60.9%
+Giant Constrictor Snake,Half-Red Dragon Veteran,39.1%,60.9%
+Barbed Devil,Troll,61.0%,39.0%
+Constrictor Snake,Guard,61.0%,39.0%
+Dretch,Tribal Warrior,61.0%,39.0%
+Drow,Giant Owl,39.0%,61.0%
+Gelatinous Cube,Giant Elk,61.0%,39.0%
+Giant Crab,Gray Ooze,61.0%,39.0%
+Giant Crab,Zombie,61.0%,39.0%
+Giant Lizard,Swarm of Rats,61.0%,39.0%
+Giant Wasp,Guard,61.0%,39.0%
+Ogre,Silver Dragon Wyrmling,61.0%,39.0%
+Ogre Zombie,Troll,61.0%,39.0%
+Animated Armor,Will-o'-Wisp,38.9%,61.1%
+Ape,Swarm of Ravens,38.9%,61.1%
+Badger,Poisonous Snake,61.1%,38.9%
+Brass Dragon Wyrmling,Rust Monster,61.1%,38.9%
+Drow,Priest,61.1%,38.9%
+Druid,Priest,38.9%,61.1%
+Giant Constrictor Snake,Spirit Naga,38.9%,61.1%
+Giant Crab,Imp,61.1%,38.9%
+Giant Frog,Magma Mephit,61.1%,38.9%
+Giant Lizard,Rust Monster,38.9%,61.1%
+Giant Owl,Hobgoblin,61.1%,38.9%
+Adult Copper Dragon,Tyrannosaurus Rex,61.2%,38.8%
+Adult White Dragon,Behir,61.2%,38.8%
+Ankheg,Bronze Dragon Wyrmling,61.2%,38.8%
+Ape,Gnoll,61.2%,38.8%
+Bugbear,Polar Bear,38.8%,61.2%
+Camel,Merfolk,61.2%,38.8%
+Crocodile,Gnoll,61.2%,38.8%
+Giant Crab,Priest,38.8%,61.2%
+Giant Sea Horse,Imp,61.2%,38.8%
+Hell Hound,Swarm of Quippers,61.2%,38.8%
+Pegasus,"Wereboar, Human Form",61.2%,38.8%
+Swarm of Poisonous Snakes,Swarm of Quippers,38.8%,61.2%
+Air Elemental,Xorn,61.3%,38.7%
+Bandit,Quasit,61.3%,38.7%
+Centaur,Merrow,61.3%,38.7%
+Cockatrice,Skeleton,61.3%,38.7%
+Constrictor Snake,Hobgoblin,38.7%,61.3%
+Cultist,Pseudodragon,61.3%,38.7%
+Darkmantle,Giant Owl,61.3%,38.7%
+Death Dog,Phase Spider,38.7%,61.3%
+Flying Sword,Swarm of Beetles,38.7%,61.3%
+Flying Sword,Swarm of Centipedes,38.7%,61.3%
+Flying Sword,Swarm of Insects,38.7%,61.3%
+Flying Sword,Swarm of Spiders,38.7%,61.3%
+Flying Sword,Swarm of Wasps,38.7%,61.3%
+Giant Ape,Stone Giant,61.3%,38.7%
+Giant Wasp,Hobgoblin,38.7%,61.3%
+Gray Ooze,Ice Mephit,61.3%,38.7%
+Green Hag,Killer Whale,38.7%,61.3%
+Half-Red Dragon Veteran,"Weretiger, Human Form",61.3%,38.7%
+Lion,Satyr,61.3%,38.7%
+Troll,"Weretiger, Hybrid Form",38.7%,61.3%
+Troll,"Weretiger, Tiger Form",38.7%,61.3%
+Brass Dragon Wyrmling,Orc,61.4%,38.6%
+Draft Horse,Rust Monster,61.4%,38.6%
+Drider,Medusa,38.6%,61.4%
+Dust Mephit,Giant Sea Horse,61.4%,38.6%
+Giant Bat,Giant Lizard,61.4%,38.6%
+Giant Bat,Swarm of Ravens,38.6%,61.4%
+Gold Dragon Wyrmling,Knight,61.4%,38.6%
+Gold Dragon Wyrmling,Plesiosaurus,38.6%,61.4%
+Gray Ooze,Riding Horse,38.6%,61.4%
+Lizardfolk,Swarm of Ravens,38.6%,61.4%
+Mastiff,Merfolk,38.6%,61.4%
+Ogre Zombie,"Weretiger, Hybrid Form",38.6%,61.4%
+Ogre Zombie,"Weretiger, Tiger Form",38.6%,61.4%
+Roper,Young Blue Dragon,38.6%,61.4%
+Spirit Naga,Troll,38.6%,61.4%
+Assassin,Blue Dragon Wyrmling,61.5%,38.5%
+Bronze Dragon Wyrmling,Giant Scorpion,61.5%,38.5%
+Centaur,Giant Elk,38.5%,61.5%
+Cockatrice,Dust Mephit,61.5%,38.5%
+Constrictor Snake,Magma Mephit,61.5%,38.5%
+Deep Gnome (Svirfneblin),Giant Vulture,61.5%,38.5%
+Ettercap,Grick,61.5%,38.5%
+Giant Scorpion,Polar Bear,38.5%,61.5%
+Giant Wasp,Magma Mephit,61.5%,38.5%
+Kobold,Pseudodragon,38.5%,61.5%
+Otyugh,Xorn,38.5%,61.5%
+Spirit Naga,"Weretiger, Human Form",61.5%,38.5%
+Adult Brass Dragon,Behir,38.4%,61.6%
+Air Elemental,Couatl,61.6%,38.4%
+Blink Dog,Riding Horse,61.6%,38.4%
+Blood Hawk,Tribal Warrior,38.4%,61.6%
+Blue Dragon Wyrmling,Gibbering Mouther,61.6%,38.4%
+Cloaker,Plesiosaurus,38.4%,61.6%
+Flying Sword,Giant Lizard,61.6%,38.4%
+Giant Boar,Will-o'-Wisp,61.6%,38.4%
+Giant Constrictor Snake,Unicorn,38.4%,61.6%
+Giant Crocodile,Hill Giant,61.6%,38.4%
+Giant Crocodile,Triceratops,38.4%,61.6%
+Giant Rat,Tribal Warrior,38.4%,61.6%
+Giant Rat (Diseased),Tribal Warrior,38.4%,61.6%
+Gnoll,Orc,38.4%,61.6%
+Rhinoceros,Veteran,61.6%,38.4%
+Adult Bronze Dragon,Planetar,38.3%,61.7%
+Ankheg,Griffon,38.3%,61.7%
+Clay Golem,Young Black Dragon,38.3%,61.7%
+Copper Dragon Wyrmling,Warhorse Skeleton,38.3%,61.7%
+Drow,Wolf,61.7%,38.3%
+Elk,Skeleton,61.7%,38.3%
+Gelatinous Cube,Silver Dragon Wyrmling,38.3%,61.7%
+Giant Constrictor Snake,Pegasus,61.7%,38.3%
+Giant Crocodile,Shambling Mound,61.7%,38.3%
+Giant Lizard,Hobgoblin,61.7%,38.3%
+Giant Shark,Glabrezu,38.3%,61.7%
+Gray Ooze,Noble,61.7%,38.3%
+Warhorse Skeleton,"Werewolf, Hybrid Form",38.3%,61.7%
+Warhorse Skeleton,"Werewolf, Wolf Form",38.3%,61.7%
+"Werewolf, Human Form",White Dragon Wyrmling,38.3%,61.7%
+Acolyte,Lemure,38.2%,61.8%
+Animated Armor,Bugbear,38.2%,61.8%
+Drider,Rhinoceros,38.2%,61.8%
+Dust Mephit,Sahuagin,61.8%,38.2%
+Ghost,Half-Red Dragon Veteran,38.2%,61.8%
+Giant Elk,Griffon,61.8%,38.2%
+Iron Golem,Nalfeshnee,61.8%,38.2%
+Manticore,Pegasus,38.2%,61.8%
+Owl,Quipper,61.8%,38.2%
+Owl,Weasel,61.8%,38.2%
+Owlbear,Troll,38.2%,61.8%
+Reef Shark,Shadow,61.8%,38.2%
+Sahuagin,Zombie,61.8%,38.2%
+Warhorse Skeleton,Wight,61.8%,38.2%
+Bandit Captain,Basilisk,61.9%,38.1%
+Bulette,Efreeti,38.1%,61.9%
+Duergar,Wight,38.1%,61.9%
+Gelatinous Cube,Saber-Toothed Tiger,61.9%,38.1%
+Green Hag,Rakshasa,61.9%,38.1%
+Kobold,Lemure,61.9%,38.1%
+Mastiff,Pseudodragon,38.1%,61.9%
+Pit Fiend,Solar,61.9%,38.1%
+Rust Monster,Spy,61.9%,38.1%
+"Werewolf, Hybrid Form",White Dragon Wyrmling,61.9%,38.1%
+"Werewolf, Wolf Form",White Dragon Wyrmling,61.9%,38.1%
+Awakened Tree,Flesh Golem,38.0%,62.0%
+Azer,Mimic,38.0%,62.0%
+Basilisk,Doppelganger,62.0%,38.0%
+Bulette,Treant,62.0%,38.0%
+Copper Dragon Wyrmling,Lion,62.0%,38.0%
+Crocodile,Giant Bat,62.0%,38.0%
+Crocodile,Lizardfolk,62.0%,38.0%
+Cult Fanatic,Flying Sword,38.0%,62.0%
+Frost Giant,Young Gold Dragon,38.0%,62.0%
+Frost Giant,Young Red Dragon,38.0%,62.0%
+Ghoul,Hobgoblin,62.0%,38.0%
+Guard,Noble,62.0%,38.0%
+Mimic,Swarm of Quippers,62.0%,38.0%
+Pegasus,Rhinoceros,62.0%,38.0%
+Swarm of Beetles,"Wererat, Human Form",62.0%,38.0%
+Swarm of Centipedes,"Wererat, Human Form",62.0%,38.0%
+Swarm of Insects,"Wererat, Human Form",62.0%,38.0%
+Swarm of Spiders,"Wererat, Human Form",62.0%,38.0%
+Swarm of Wasps,"Wererat, Human Form",62.0%,38.0%
+Troll,Unicorn,62.0%,38.0%
+Acolyte,Stirge,62.1%,37.9%
+Bandit,Imp,37.9%,62.1%
+Drow,Shadow,37.9%,62.1%
+Druid,Giant Frog,62.1%,37.9%
+Erinyes,Hydra,37.9%,62.1%
+Giant Centipede,Merfolk,37.9%,62.1%
+Giant Crab,Pony,62.1%,37.9%
+Giant Weasel,Pony,62.1%,37.9%
+Gray Ooze,Imp,62.1%,37.9%
+Half-Red Dragon Veteran,Ogre,62.1%,37.9%
+Lion,Swarm of Beetles,62.1%,37.9%
+Lion,Swarm of Centipedes,62.1%,37.9%
+Lion,Swarm of Insects,62.1%,37.9%
+Lion,Swarm of Spiders,62.1%,37.9%
+Lion,Swarm of Wasps,62.1%,37.9%
+Silver Dragon Wyrmling,Veteran,62.1%,37.9%
+Animated Armor,Brown Bear,62.2%,37.8%
+Assassin,Owlbear,37.8%,62.2%
+Axe Beak,Cult Fanatic,62.2%,37.8%
+Azer,Merrow,37.8%,62.2%
+Black Dragon Wyrmling,White Dragon Wyrmling,62.2%,37.8%
+Bronze Dragon Wyrmling,Doppelganger,37.8%,62.2%
+Cloaker,Troll,62.2%,37.8%
+Deep Gnome (Svirfneblin),Swarm of Beetles,37.8%,62.2%
+Deep Gnome (Svirfneblin),Swarm of Centipedes,37.8%,62.2%
+Deep Gnome (Svirfneblin),Swarm of Insects,37.8%,62.2%
+Deep Gnome (Svirfneblin),Swarm of Spiders,37.8%,62.2%
+Deep Gnome (Svirfneblin),Swarm of Wasps,37.8%,62.2%
+Draft Horse,Duergar,37.8%,62.2%
+Elk,Magmin,62.2%,37.8%
+Gargoyle,Giant Scorpion,37.8%,62.2%
+Ghoul,Hippogriff,62.2%,37.8%
+Giant Badger,Violet Fungus,62.2%,37.8%
+Giant Crocodile,Hezrou,37.8%,62.2%
+Hunter Shark,Manticore,62.2%,37.8%
+Hunter Shark,Saber-Toothed Tiger,62.2%,37.8%
+Minotaur,Xorn,37.8%,62.2%
+Assassin,Veteran,62.3%,37.7%
+Barbed Devil,Ogre Zombie,62.3%,37.7%
+Cat,Crab,62.3%,37.7%
+Djinni,Gorgon,37.7%,62.3%
+Giant Centipede,Mastiff,62.3%,37.7%
+Giant Crab,Magma Mephit,62.3%,37.7%
+Giant Owl,Giant Vulture,62.3%,37.7%
+Awakened Tree,Red Dragon Wyrmling,37.6%,62.4%
+Blink Dog,Priest,62.4%,37.6%
+Blood Hawk,Violet Fungus,37.6%,62.4%
+Gargoyle,Swarm of Quippers,37.6%,62.4%
+Ghost,Pegasus,62.4%,37.6%
+Giant Frog,Imp,62.4%,37.6%
+Giant Rat,Violet Fungus,37.6%,62.4%
+Giant Rat (Diseased),Violet Fungus,37.6%,62.4%
+Giant Vulture,Thug,37.6%,62.4%
+Guard,Pony,62.4%,37.6%
+Otyugh,Wraith,62.4%,37.6%
+Pegasus,Spirit Naga,37.6%,62.4%
+Remorhaz,Storm Giant,62.4%,37.6%
+Bat,Owl,62.5%,37.5%
+Centaur,Hell Hound,62.5%,37.5%
+Centaur,Succubus/Incubus,37.5%,62.5%
+Death Dog,Swarm of Beetles,62.5%,37.5%
+Death Dog,Swarm of Centipedes,62.5%,37.5%
+Death Dog,Swarm of Insects,62.5%,37.5%
+Death Dog,Swarm of Spiders,62.5%,37.5%
+Death Dog,Swarm of Wasps,62.5%,37.5%
+Flesh Golem,Plesiosaurus,62.5%,37.5%
+Flying Sword,Harpy,37.5%,62.5%
+Ghast,White Dragon Wyrmling,62.5%,37.5%
+Gnoll,Swarm of Ravens,37.5%,62.5%
+Green Hag,Wraith,62.5%,37.5%
+Hunter Shark,Vampire Spawn,37.5%,62.5%
+Lion,Mage,62.5%,37.5%
+Rhinoceros,Spirit Naga,37.5%,62.5%
+Ankheg,Green Dragon Wyrmling,62.6%,37.4%
+Assassin,Half-Red Dragon Veteran,37.4%,62.6%
+Bandit,Boar,62.6%,37.4%
+Blood Hawk,Merfolk,62.6%,37.4%
+Brass Dragon Wyrmling,Ghoul,62.6%,37.4%
+Chain Devil,Oni,62.6%,37.4%
+Deep Gnome (Svirfneblin),Giant Lizard,62.6%,37.4%
+Giant Eagle,"Wererat, Human Form",62.6%,37.4%
+Giant Elk,Succubus/Incubus,62.6%,37.4%
+Giant Owl,"Wererat, Human Form",37.4%,62.6%
+Giant Rat,Merfolk,62.6%,37.4%
+Giant Rat (Diseased),Merfolk,62.6%,37.4%
+Giant Spider,Ochre Jelly,37.4%,62.6%
+Grick,Phase Spider,62.6%,37.4%
+Merfolk,Quasit,37.4%,62.6%
+Pegasus,"Weretiger, Human Form",37.4%,62.6%
+Adult Black Dragon,Androsphinx,62.7%,37.3%
+Adult Gold Dragon,Remorhaz,37.3%,62.7%
+Adult Red Dragon,Remorhaz,37.3%,62.7%
+Brass Dragon Wyrmling,Hippogriff,62.7%,37.3%
+Centaur,Mimic,62.7%,37.3%
+Chain Devil,Elephant,37.3%,62.7%
+Copper Dragon Wyrmling,Wight,37.3%,62.7%
+Giant Frog,Noble,62.7%,37.3%
+Giant Poisonous Snake,Lizardfolk,37.3%,62.7%
+Giant Vulture,Swarm of Rats,62.7%,37.3%
+Harpy,"Wererat, Human Form",62.7%,37.3%
+Horned Devil,Young Gold Dragon,37.3%,62.7%
+Horned Devil,Young Red Dragon,37.3%,62.7%
+Owlbear,"Wereboar, Boar Form",62.7%,37.3%
+Owlbear,"Wereboar, Hybrid Form",62.7%,37.3%
+Aboleth,Young Copper Dragon,62.8%,37.2%
+Awakened Tree,Minotaur Skeleton,37.2%,62.8%
+Axe Beak,Swarm of Bats,62.8%,37.2%
+Badger,Octopus,37.2%,62.8%
+Chimera,Minotaur,62.8%,37.2%
+Doppelganger,Polar Bear,62.8%,37.2%
+Green Hag,Water Elemental,37.2%,62.8%
+Imp,Scout,37.2%,62.8%
+Manticore,Silver Dragon Wyrmling,37.2%,62.8%
+Spy,"Wererat, Human Form",37.2%,62.8%
+Blood Hawk,Giant Badger,37.1%,62.9%
+Brown Bear,Giant Toad,62.9%,37.1%
+Chuul,Ettin,62.9%,37.1%
+Draft Horse,Thug,62.9%,37.1%
+Duergar,Ochre Jelly,37.1%,62.9%
+Giant Elk,"Wereboar, Human Form",37.1%,62.9%
+Giant Wolf Spider,Ice Mephit,37.1%,62.9%
+Knight,Owlbear,62.9%,37.1%
+Lich,Young White Dragon,62.9%,37.1%
+Shadow,Swarm of Beetles,37.1%,62.9%
+Shadow,Swarm of Centipedes,37.1%,62.9%
+Shadow,Swarm of Insects,37.1%,62.9%
+Shadow,Swarm of Spiders,37.1%,62.9%
+Shadow,Swarm of Wasps,37.1%,62.9%
+Young Gold Dragon,Young Silver Dragon,62.9%,37.1%
+Young Red Dragon,Young Silver Dragon,62.9%,37.1%
+Adult Black Dragon,Adult White Dragon,63.0%,37.0%
+Animated Armor,Ochre Jelly,63.0%,37.0%
+Dire Wolf,Swarm of Quippers,63.0%,37.0%
+Drider,Giant Elk,63.0%,37.0%
+Efreeti,Horned Devil,37.0%,63.0%
+Gargoyle,Giant Boar,37.0%,63.0%
+Giant Crab,Noble,63.0%,37.0%
+Giant Elk,Mummy,63.0%,37.0%
+Giant Hyena,Griffon,37.0%,63.0%
+Giant Sea Horse,Scout,37.0%,63.0%
+Goblin,Magmin,37.0%,63.0%
+Goblin,Skeleton,37.0%,63.0%
+Gold Dragon Wyrmling,Unicorn,63.0%,37.0%
+Gynosphinx,Young White Dragon,63.0%,37.0%
+Manticore,Succubus/Incubus,63.0%,37.0%
+Ochre Jelly,Warhorse Skeleton,63.0%,37.0%
+Tyrannosaurus Rex,Young Gold Dragon,63.0%,37.0%
+Tyrannosaurus Rex,Young Red Dragon,63.0%,37.0%
+Air Elemental,Elephant,63.1%,36.9%
+Couatl,"Vampire, Bat Form",36.9%,63.1%
+Duergar,Ettercap,36.9%,63.1%
+Dust Mephit,Magmin,63.1%,36.9%
+Giant Sea Horse,Priest,36.9%,63.1%
+Giant Toad,Tiger,36.9%,63.1%
+Grimlock,Riding Horse,36.9%,63.1%
+Minotaur Skeleton,"Werebear, Human Form",36.9%,63.1%
+Riding Horse,Scout,63.1%,36.9%
+Shield Guardian,Young Copper Dragon,36.9%,63.1%
+Air Elemental,"Vampire, Vampire Form",36.8%,63.2%
+Ankheg,Bandit Captain,36.8%,63.2%
+Ape,Swarm of Rats,63.2%,36.8%
+Bandit Captain,Doppelganger,63.2%,36.8%
+Chain Devil,"Werebear, Human Form",63.2%,36.8%
+Chimera,Deva,36.8%,63.2%
+Dretch,Giant Badger,63.2%,36.8%
+Elk,Giant Sea Horse,63.2%,36.8%
+Flying Sword,Giant Vulture,63.2%,36.8%
+Giant Goat,Satyr,36.8%,63.2%
+Giant Hyena,Giant Scorpion,63.2%,36.8%
+Giant Lizard,Swarm of Ravens,36.8%,63.2%
+Ochre Jelly,Worg,63.2%,36.8%
+Ogre,Ogre Zombie,36.8%,63.2%
+Black Bear,Giant Lizard,36.7%,63.3%
+Blue Dragon Wyrmling,Hunter Shark,63.3%,36.7%
+Cockatrice,Magmin,63.3%,36.7%
+Eagle,Stirge,63.3%,36.7%
+Gargoyle,Tiger,63.3%,36.7%
+Grimlock,Pony,63.3%,36.7%
+Lion,Warhorse Skeleton,36.7%,63.3%
+Oni,Vrock,63.3%,36.7%
+Rust Monster,Satyr,36.7%,63.3%
+Satyr,"Wererat, Human Form",63.3%,36.7%
+Scorpion,Spider,63.3%,36.7%
+Sea Hag,Succubus/Incubus,63.3%,36.7%
+Axe Beak,Hippogriff,36.6%,63.4%
+Bearded Devil,Giant Hyena,36.6%,63.4%
+Bugbear,Gargoyle,63.4%,36.6%
+Chimera,Gladiator,36.6%,63.4%
+Doppelganger,Saber-Toothed Tiger,36.6%,63.4%
+Dretch,Ice Mephit,36.6%,63.4%
+Drider,Pegasus,36.6%,63.4%
+Druid,Gray Ooze,63.4%,36.6%
+Druid,Zombie,63.4%,36.6%
+Giant Goat,Reef Shark,63.4%,36.6%
+Giant Spider,"Werewolf, Human Form",36.6%,63.4%
+Giant Weasel,Grimlock,63.4%,36.6%
+Giant Wolf Spider,Magmin,36.6%,63.4%
+Mage,"Wererat, Human Form",63.4%,36.6%
+Rust Monster,Warhorse,36.6%,63.4%
+Rust Monster,"Wererat, Hybrid Form",63.4%,36.6%
+Rust Monster,"Wererat, Rat Form",63.4%,36.6%
+Swarm of Rats,Swarm of Ravens,36.6%,63.4%
+White Dragon Wyrmling,Worg,63.4%,36.6%
+Archmage,Centaur,63.5%,36.5%
+Blood Hawk,Giant Rat,63.5%,36.5%
+Blood Hawk,Giant Rat (Diseased),63.5%,36.5%
+Boar,Pony,36.5%,63.5%
+Bronze Dragon Wyrmling,Bugbear,63.5%,36.5%
+Bronze Dragon Wyrmling,Mummy,36.5%,63.5%
+Bulette,Frost Giant,36.5%,63.5%
+Cockatrice,Druid,63.5%,36.5%
+Crocodile,Swarm of Beetles,36.5%,63.5%
+Crocodile,Swarm of Centipedes,36.5%,63.5%
+Crocodile,Swarm of Insects,36.5%,63.5%
+Crocodile,Swarm of Spiders,36.5%,63.5%
+Crocodile,Swarm of Wasps,36.5%,63.5%
+Ettin,Green Hag,36.5%,63.5%
+Gelatinous Cube,Owlbear,36.5%,63.5%
+Giant Poisonous Snake,Hobgoblin,63.5%,36.5%
+Giant Rat,Giant Rat (Diseased),63.5%,36.5%
+Gibbering Mouther,"Wereboar, Boar Form",63.5%,36.5%
+Gibbering Mouther,"Wereboar, Hybrid Form",63.5%,36.5%
+Gorgon,Young Blue Dragon,36.5%,63.5%
+Hunter Shark,Medusa,36.5%,63.5%
+Phase Spider,Tiger,36.5%,63.5%
+Awakened Shrub,Deer,63.6%,36.4%
+Axe Beak,Orc,36.4%,63.6%
+Azer,Centaur,36.4%,63.6%
+Blue Dragon Wyrmling,"Weretiger, Human Form",36.4%,63.6%
+Bone Devil,Shambling Mound,63.6%,36.4%
+Brass Dragon Wyrmling,Duergar,36.4%,63.6%
+Doppelganger,Sea Hag,36.4%,63.6%
+Duergar,Lion,63.6%,36.4%
+Dust Mephit,Giant Crab,63.6%,36.4%
+Dust Mephit,Gray Ooze,63.6%,36.4%
+Dust Mephit,Zombie,63.6%,36.4%
+Giant Ape,Mammoth,63.6%,36.4%
+Giant Constrictor Snake,Rhinoceros,63.6%,36.4%
+Mummy,Rhinoceros,36.4%,63.6%
+Awakened Tree,Fire Elemental,36.3%,63.7%
+Bearded Devil,Merrow,36.3%,63.7%
+Copper Dragon Wyrmling,"Werewolf, Human Form",36.3%,63.7%
+Crab,Lizard,63.7%,36.3%
+Ghoul,Spy,63.7%,36.3%
+Giant Bat,Thug,36.3%,63.7%
+Giant Shark,Ice Devil,36.3%,63.7%
+Giant Vulture,Hobgoblin,63.7%,36.3%
+Goblin,Sahuagin,36.3%,63.7%
+Gorgon,Ice Devil,36.3%,63.7%
+Killer Whale,Night Hag,36.3%,63.7%
+Lizardfolk,Thug,36.3%,63.7%
+Pegasus,Unicorn,36.3%,63.7%
+Poisonous Snake,Sprite,63.7%,36.3%
+Treant,Young Blue Dragon,36.3%,63.7%
+Archmage,Bandit Captain,36.2%,63.8%
+Constrictor Snake,Noble,63.8%,36.2%
+Dretch,Quasit,63.8%,36.2%
+Duergar,Warhorse,63.8%,36.2%
+Gelatinous Cube,Ghost,36.2%,63.8%
+Giant Wasp,Noble,63.8%,36.2%
+Grimlock,Hobgoblin,36.2%,63.8%
+Magmin,Panther,63.8%,36.2%
+Merrow,Mummy,36.2%,63.8%
+Reef Shark,"Wererat, Human Form",36.2%,63.8%
+Stone Giant,Young Bronze Dragon,63.8%,36.2%
+Swarm of Beetles,Warhorse Skeleton,36.2%,63.8%
+Swarm of Centipedes,Warhorse Skeleton,36.2%,63.8%
+Swarm of Insects,Warhorse Skeleton,36.2%,63.8%
+Swarm of Spiders,Warhorse Skeleton,36.2%,63.8%
+Swarm of Wasps,Warhorse Skeleton,36.2%,63.8%
+Adult Blue Dragon,Adult Bronze Dragon,63.9%,36.1%
+Azer,Gargoyle,63.9%,36.1%
+Dire Wolf,Mummy,36.1%,63.9%
+Dire Wolf,Will-o'-Wisp,63.9%,36.1%
+Druid,Giant Poisonous Snake,36.1%,63.9%
+Giant Ape,Roper,63.9%,36.1%
+Giant Constrictor Snake,"Wereboar, Human Form",63.9%,36.1%
+Lamia,Otyugh,36.1%,63.9%
+Rhinoceros,Unicorn,36.1%,63.9%
+Saber-Toothed Tiger,"Wereboar, Human Form",36.1%,63.9%
+Ankheg,Giant Scorpion,64.0%,36.0%
+Axe Beak,Spy,36.0%,64.0%
+Bandit,Guard,36.0%,64.0%
+Cloaker,Knight,64.0%,36.0%
+Copper Dragon Wyrmling,Death Dog,64.0%,36.0%
+Darkmantle,Swarm of Beetles,36.0%,64.0%
+Darkmantle,Swarm of Centipedes,36.0%,64.0%
+Darkmantle,Swarm of Insects,36.0%,64.0%
+Darkmantle,Swarm of Spiders,36.0%,64.0%
+Darkmantle,Swarm of Wasps,36.0%,64.0%
+Giant Constrictor Snake,Knight,36.0%,64.0%
+Giant Weasel,Riding Horse,36.0%,64.0%
+Gnoll,Swarm of Rats,64.0%,36.0%
+Grimlock,Noble,64.0%,36.0%
+Ogre,"Wereboar, Boar Form",64.0%,36.0%
+Ogre,"Wereboar, Hybrid Form",64.0%,36.0%
+Oni,Otyugh,36.0%,64.0%
+Otyugh,Water Elemental,36.0%,64.0%
+Rust Monster,Shadow,64.0%,36.0%
+Sea Hag,"Wereboar, Boar Form",36.0%,64.0%
+Sea Hag,"Wereboar, Hybrid Form",36.0%,64.0%
+Spy,Swarm of Beetles,36.0%,64.0%
+Spy,Swarm of Centipedes,36.0%,64.0%
+Spy,Swarm of Insects,36.0%,64.0%
+Spy,Swarm of Spiders,36.0%,64.0%
+Spy,Swarm of Wasps,36.0%,64.0%
+Chuul,Vrock,64.1%,35.9%
+Dust Mephit,Giant Wasp,64.1%,35.9%
+Dust Mephit,Panther,64.1%,35.9%
+Ghoul,"Wererat, Hybrid Form",64.1%,35.9%
+Ghoul,"Wererat, Rat Form",64.1%,35.9%
+Lemure,Mastiff,64.1%,35.9%
+Mastiff,Stirge,64.1%,35.9%
+Animated Armor,Bearded Devil,35.9%,64.1%
+Ankheg,Giant Elk,35.9%,64.1%
+Blood Hawk,Giant Weasel,35.9%,64.1%
+Boar,Grimlock,35.9%,64.1%
+Cultist,Giant Weasel,35.9%,64.1%
+Duergar,"Werewolf, Human Form",35.9%,64.1%
+Giant Rat,Giant Weasel,35.9%,64.1%
+Giant Rat (Diseased),Giant Weasel,35.9%,64.1%
+Ankheg,Giant Boar,64.2%,35.8%
+Baboon,Homunculus,35.8%,64.2%
+Black Bear,Wolf,64.2%,35.8%
+Boar,Steam Mephit,64.2%,35.8%
+Camel,Giant Rat,64.2%,35.8%
+Camel,Giant Rat (Diseased),64.2%,35.8%
+Copper Dragon Wyrmling,Ettercap,35.8%,64.2%
+Fire Giant,Nalfeshnee,35.8%,64.2%
+Giant Badger,Quasit,64.2%,35.8%
+Giant Octopus,Sea Hag,35.8%,64.2%
+Night Hag,Young Copper Dragon,35.8%,64.2%
+Noble,Scout,35.8%,64.2%
+Pony,Scout,35.8%,64.2%
+Spirit Naga,Winter Wolf,35.8%,64.2%
+Centaur,Dire Wolf,64.3%,35.7%
+Drow,Elk,64.3%,35.7%
+Gibbering Mouther,Pegasus,64.3%,35.7%
+Goblin,Violet Fungus,64.3%,35.7%
+Hippogriff,Spy,64.3%,35.7%
+Hydra,Shield Guardian,64.3%,35.7%
+Mimic,Will-o'-Wisp,64.3%,35.7%
+Phase Spider,Specter,64.3%,35.7%
+Flying Sword,"Wererat, Human Form",35.7%,64.3%
+Hell Hound,Mummy,35.7%,64.3%
+Hunter Shark,Owlbear,35.7%,64.3%
+Merfolk,Steam Mephit,35.7%,64.3%
+Ogre,Troll,35.7%,64.3%
+Reef Shark,Swarm of Beetles,35.7%,64.3%
+Reef Shark,Swarm of Centipedes,35.7%,64.3%
+Reef Shark,Swarm of Insects,35.7%,64.3%
+Reef Shark,Swarm of Spiders,35.7%,64.3%
+Reef Shark,Swarm of Wasps,35.7%,64.3%
+Ancient Copper Dragon,Dragon Turtle,35.6%,64.4%
+Baboon,Commoner,35.6%,64.4%
+Draft Horse,Specter,35.6%,64.4%
+Erinyes,Young Copper Dragon,35.6%,64.4%
+Giant Poisonous Snake,Reef Shark,35.6%,64.4%
+Swarm of Rats,"Wererat, Hybrid Form",35.6%,64.4%
+Swarm of Rats,"Wererat, Rat Form",35.6%,64.4%
+Medusa,Veteran,64.4%,35.6%
+Priest,Skeleton,64.4%,35.6%
+Axe Beak,Giant Poisonous Snake,64.5%,35.5%
+Bat,Scorpion,64.5%,35.5%
+Cockatrice,Elk,64.5%,35.5%
+Cockatrice,Giant Crab,64.5%,35.5%
+Cultist,Noble,35.5%,64.5%
+Dretch,Dryad,64.5%,35.5%
+Earth Elemental,Young Copper Dragon,64.5%,35.5%
+Efreeti,Marilith,64.5%,35.5%
+Hunter Shark,Sea Hag,64.5%,35.5%
+Magmin,Swarm of Rats,35.5%,64.5%
+Skeleton,Zombie,64.5%,35.5%
+Warhorse,Will-o'-Wisp,35.5%,64.5%
+Blink Dog,Deep Gnome (Svirfneblin),35.4%,64.6%
+Giant Crab,Scout,35.4%,64.6%
+Giant Eagle,Phase Spider,35.4%,64.6%
+Adult Green Dragon,Cloud Giant,64.6%,35.4%
+Ancient Brass Dragon,Storm Giant,64.6%,35.4%
+Animated Armor,"Werewolf, Human Form",64.6%,35.4%
+Archmage,Polar Bear,64.6%,35.4%
+Black Dragon Wyrmling,Tiger,64.6%,35.4%
+Bone Devil,Night Hag,64.6%,35.4%
+Cockatrice,Guard,64.6%,35.4%
+Giant Goat,Giant Owl,64.6%,35.4%
+Green Hag,Minotaur,64.6%,35.4%
+Nightmare,Winter Wolf,64.6%,35.4%
+Brown Bear,Will-o'-Wisp,35.3%,64.7%
+Dryad,Giant Weasel,35.3%,64.7%
+Giant Centipede,Giant Rat,35.3%,64.7%
+Giant Centipede,Giant Rat (Diseased),35.3%,64.7%
+Giant Frog,Ice Mephit,64.7%,35.3%
+Giant Shark,Mammoth,35.3%,64.7%
+Griffon,Rhinoceros,35.3%,64.7%
+Invisible Stalker,Minotaur Skeleton,64.7%,35.3%
+Magmin,Zombie,64.7%,35.3%
+Owlbear,Vampire Spawn,64.7%,35.3%
+Black Bear,Magmin,64.8%,35.2%
+Dire Wolf,Ghast,64.8%,35.2%
+Druid,Imp,64.8%,35.2%
+Ghoul,Gnoll,64.8%,35.2%
+Giant Crab,Ice Mephit,64.8%,35.2%
+Giant Frog,Pony,64.8%,35.2%
+Glabrezu,Roper,64.8%,35.2%
+Blink Dog,Gnoll,35.2%,64.8%
+Cockatrice,Hobgoblin,35.2%,64.8%
+Crocodile,Giant Eagle,35.2%,64.8%
+Drow,Gnoll,35.2%,64.8%
+Elephant,"Vampire, Vampire Form",35.2%,64.8%
+Giant Toad,White Dragon Wyrmling,35.2%,64.8%
+Giant Weasel,Hobgoblin,35.2%,64.8%
+Minotaur Skeleton,Wyvern,35.2%,64.8%
+Shambling Mound,Young Copper Dragon,35.2%,64.8%
+Aboleth,Young Green Dragon,35.1%,64.9%
+Animated Armor,Azer,35.1%,64.9%
+Assassin,"Weretiger, Human Form",35.1%,64.9%
+Barbed Devil,Plesiosaurus,35.1%,64.9%
+Bronze Dragon Wyrmling,Will-o'-Wisp,64.9%,35.1%
+Darkmantle,"Wererat, Human Form",35.1%,64.9%
+Death Dog,Giant Eagle,64.9%,35.1%
+Dire Wolf,Griffon,35.1%,64.9%
+Doppelganger,Manticore,35.1%,64.9%
+Giant Badger,Guard,35.1%,64.9%
+Giant Sea Horse,Magma Mephit,64.9%,35.1%
+Gibbering Mouther,Will-o'-Wisp,64.9%,35.1%
+Goat,Kobold,35.1%,64.9%
+Goblin,Tribal Warrior,64.9%,35.1%
+Gold Dragon Wyrmling,Red Dragon Wyrmling,35.1%,64.9%
+Half-Red Dragon Veteran,Silver Dragon Wyrmling,64.9%,35.1%
+Hippogriff,"Wererat, Hybrid Form",64.9%,35.1%
+Hippogriff,"Wererat, Rat Form",64.9%,35.1%
+Imp,Priest,35.1%,64.9%
+Young Green Dragon,Young White Dragon,64.9%,35.1%
+Ape,Giant Lizard,65.0%,35.0%
+Archmage,Giant Hyena,65.0%,35.0%
+Awakened Tree,Troll,65.0%,35.0%
+Berserker,"Weretiger, Human Form",35.0%,65.0%
+Black Bear,Skeleton,65.0%,35.0%
+Darkmantle,Giant Bat,65.0%,35.0%
+Darkmantle,Lizardfolk,65.0%,35.0%
+Druid,Noble,65.0%,35.0%
+Giant Octopus,Merrow,65.0%,35.0%
+Hill Giant,Night Hag,65.0%,35.0%
+Merrow,Swarm of Quippers,65.0%,35.0%
+Mummy Lord,Shambling Mound,65.0%,35.0%
+Silver Dragon Wyrmling,Spirit Naga,35.0%,65.0%
+Ettercap,"Werewolf, Hybrid Form",34.9%,65.1%
+Ettercap,"Werewolf, Wolf Form",34.9%,65.1%
+Giant Lizard,Thug,34.9%,65.1%
+Giant Toad,Swarm of Poisonous Snakes,34.9%,65.1%
+Hill Giant,Triceratops,34.9%,65.1%
+Phase Spider,White Dragon Wyrmling,34.9%,65.1%
+Ettin,Invisible Stalker,65.1%,34.9%
+Ghast,"Werewolf, Hybrid Form",65.1%,34.9%
+Ghast,"Werewolf, Wolf Form",65.1%,34.9%
+Giant Sea Horse,Noble,65.1%,34.9%
+Orc,"Wererat, Hybrid Form",65.1%,34.9%
+Orc,"Wererat, Rat Form",65.1%,34.9%
+Axe Beak,Blink Dog,65.2%,34.8%
+Black Dragon Wyrmling,Merrow,34.8%,65.2%
+Blood Hawk,Goblin,34.8%,65.2%
+Bugbear,"Werewolf, Hybrid Form",65.2%,34.8%
+Bugbear,"Werewolf, Wolf Form",65.2%,34.8%
+Camel,Goblin,34.8%,65.2%
+Ghoul,Reef Shark,65.2%,34.8%
+Giant Crocodile,Night Hag,65.2%,34.8%
+Giant Rat,Goblin,34.8%,65.2%
+Giant Rat (Diseased),Goblin,34.8%,65.2%
+Giant Wolf Spider,Quasit,65.2%,34.8%
+Giant Wolf Spider,Violet Fungus,65.2%,34.8%
+Glabrezu,Young Bronze Dragon,65.2%,34.8%
+Gray Ooze,Pony,65.2%,34.8%
+Invisible Stalker,Oni,34.8%,65.2%
+Magmin,Swarm of Bats,34.8%,65.2%
+Minotaur,Wyvern,65.2%,34.8%
+Rust Monster,Specter,34.8%,65.2%
+Warhorse,White Dragon Wyrmling,34.8%,65.2%
+Boar,Cultist,65.3%,34.7%
+Cult Fanatic,Giant Poisonous Snake,65.3%,34.7%
+Dust Mephit,Guard,65.3%,34.7%
+Otyugh,Rakshasa,65.3%,34.7%
+Stone Golem,Young Gold Dragon,65.3%,34.7%
+Stone Golem,Young Red Dragon,65.3%,34.7%
+Ankheg,Succubus/Incubus,34.7%,65.3%
+Drider,Giant Constrictor Snake,34.7%,65.3%
+Giant Spider,White Dragon Wyrmling,34.7%,65.3%
+Giant Wolf Spider,Panther,34.7%,65.3%
+Half-Red Dragon Veteran,Nightmare,34.7%,65.3%
+Animated Armor,Giant Scorpion,34.6%,65.4%
+Ankheg,Saber-Toothed Tiger,34.6%,65.4%
+Berserker,Half-Red Dragon Veteran,34.6%,65.4%
+Death Dog,Harpy,65.4%,34.6%
+Giant Bat,Swarm of Rats,65.4%,34.6%
+Glabrezu,Gorgon,65.4%,34.6%
+Gladiator,"Werebear, Bear Form",34.6%,65.4%
+Gladiator,"Werebear, Hybrid Form",34.6%,65.4%
+Gold Dragon Wyrmling,Spirit Naga,65.4%,34.6%
+Hell Hound,Will-o'-Wisp,65.4%,34.6%
+Kobold,Mule,34.6%,65.4%
+Lizardfolk,Swarm of Rats,65.4%,34.6%
+Medusa,"Wereboar, Human Form",65.4%,34.6%
+Shadow,Specter,34.6%,65.4%
+Stone Giant,Treant,65.4%,34.6%
+Berserker,Sea Hag,65.5%,34.5%
+Blood Hawk,Giant Wolf Spider,34.5%,65.5%
+Bugbear,White Dragon Wyrmling,65.5%,34.5%
+Dretch,Guard,34.5%,65.5%
+Druid,Scout,34.5%,65.5%
+Flying Sword,Satyr,34.5%,65.5%
+Giant Frog,Priest,34.5%,65.5%
+Giant Hyena,Will-o'-Wisp,65.5%,34.5%
+Giant Octopus,Mimic,65.5%,34.5%
+Giant Rat,Giant Wolf Spider,34.5%,65.5%
+Giant Rat (Diseased),Giant Wolf Spider,34.5%,65.5%
+Gnoll,Thug,34.5%,65.5%
+Half-Red Dragon Veteran,Vampire Spawn,65.5%,34.5%
+Mummy Lord,Triceratops,34.5%,65.5%
+Black Dragon Wyrmling,Centaur,34.4%,65.6%
+Dretch,Magmin,34.4%,65.6%
+Gargoyle,Green Dragon Wyrmling,34.4%,65.6%
+Giant Crab,Giant Poisonous Snake,34.4%,65.6%
+Giant Hyena,Succubus/Incubus,34.4%,65.6%
+Giant Sea Horse,Hobgoblin,34.4%,65.6%
+Giant Weasel,Scout,34.4%,65.6%
+Killer Whale,Shambling Mound,34.4%,65.6%
+Minotaur,Water Elemental,34.4%,65.6%
+Mummy Lord,Young White Dragon,34.4%,65.6%
+Berserker,Hunter Shark,65.6%,34.4%
+Centaur,Green Dragon Wyrmling,65.6%,34.4%
+Constrictor Snake,Imp,65.6%,34.4%
+Copper Dragon Wyrmling,Giant Eagle,65.6%,34.4%
+Cult Fanatic,Scout,65.6%,34.4%
+Druid,Magma Mephit,65.6%,34.4%
+Ghost,"Wereboar, Human Form",65.6%,34.4%
+Giant Crab,Grimlock,65.6%,34.4%
+Giant Wasp,Imp,65.6%,34.4%
+Kobold,Mastiff,65.6%,34.4%
+Marilith,Stone Giant,65.6%,34.4%
+Orc,Spy,65.6%,34.4%
+Thug,"Wererat, Hybrid Form",65.6%,34.4%
+Thug,"Wererat, Rat Form",65.6%,34.4%
+Vampire Spawn,"Wereboar, Human Form",65.6%,34.4%
+Archmage,Mummy,34.3%,65.7%
+Axe Beak,Brass Dragon Wyrmling,34.3%,65.7%
+Bearded Devil,Mimic,34.3%,65.7%
+Brass Dragon Wyrmling,Giant Spider,34.3%,65.7%
+Drow,Giant Bat,34.3%,65.7%
+Drow,Lizardfolk,34.3%,65.7%
+Giant Wolf Spider,Magma Mephit,34.3%,65.7%
+Guard,Hobgoblin,34.3%,65.7%
+Lich,Roper,34.3%,65.7%
+Ochre Jelly,"Werewolf, Hybrid Form",34.3%,65.7%
+Ochre Jelly,"Werewolf, Wolf Form",34.3%,65.7%
+Rakshasa,Xorn,34.3%,65.7%
+Swarm of Rats,Thug,34.3%,65.7%
+Chain Devil,Chuul,65.7%,34.3%
+Darkmantle,Gnoll,65.7%,34.3%
+Giant Centipede,Stirge,65.7%,34.3%
+Ankheg,Gelatinous Cube,34.2%,65.8%
+Ankheg,Swarm of Quippers,65.8%,34.2%
+Boar,Imp,34.2%,65.8%
+Brown Bear,Phase Spider,65.8%,34.2%
+Chain Devil,Lamia,65.8%,34.2%
+Cultist,Pony,34.2%,65.8%
+Gelatinous Cube,"Wereboar, Human Form",34.2%,65.8%
+Giant Hyena,Swarm of Quippers,65.8%,34.2%
+Giant Spider,Specter,65.8%,34.2%
+Mammoth,Stone Giant,65.8%,34.2%
+Medusa,Rhinoceros,65.8%,34.2%
+Ochre Jelly,Will-o'-Wisp,34.2%,65.8%
+Ogre,Winter Wolf,34.2%,65.8%
+Specter,Warhorse,65.8%,34.2%
+Axe Beak,Draft Horse,34.1%,65.9%
+Bugbear,Mummy,34.1%,65.9%
+Centaur,Sea Hag,34.1%,65.9%
+Crocodile,Harpy,34.1%,65.9%
+Ettercap,Gargoyle,34.1%,65.9%
+Giant Goat,Harpy,34.1%,65.9%
+Specter,Wight,34.1%,65.9%
+Brass Dragon Wyrmling,"Wererat, Hybrid Form",65.9%,34.1%
+Brass Dragon Wyrmling,"Wererat, Rat Form",65.9%,34.1%
+Draft Horse,Hippogriff,65.9%,34.1%
+Draft Horse,Swarm of Ravens,65.9%,34.1%
+Drow,Skeleton,65.9%,34.1%
+Ghoul,Giant Goat,65.9%,34.1%
+"Weretiger, Hybrid Form",Winter Wolf,65.9%,34.1%
+"Weretiger, Tiger Form",Winter Wolf,65.9%,34.1%
+Ancient Brass Dragon,Pit Fiend,34.0%,66.0%
+Awakened Tree,Knight,66.0%,34.0%
+Barbed Devil,Red Dragon Wyrmling,34.0%,66.0%
+Clay Golem,Young Brass Dragon,66.0%,34.0%
+Constrictor Snake,Ice Mephit,66.0%,34.0%
+Cult Fanatic,Darkmantle,34.0%,66.0%
+Doppelganger,Giant Hyena,66.0%,34.0%
+Draft Horse,Giant Spider,34.0%,66.0%
+Eagle,Hyena,66.0%,34.0%
+Giant Frog,Scout,34.0%,66.0%
+Giant Wasp,Ice Mephit,66.0%,34.0%
+Invisible Stalker,Red Dragon Wyrmling,66.0%,34.0%
+Saber-Toothed Tiger,Succubus/Incubus,66.0%,34.0%
+Silver Dragon Wyrmling,Unicorn,34.0%,66.0%
+Axe Beak,Ghoul,33.9%,66.1%
+Axe Beak,"Wererat, Hybrid Form",33.9%,66.1%
+Axe Beak,"Wererat, Rat Form",33.9%,66.1%
+Giant Crab,Hobgoblin,33.9%,66.1%
+Guard,Scout,33.9%,66.1%
+Hobgoblin,Rust Monster,33.9%,66.1%
+Manticore,"Wereboar, Boar Form",33.9%,66.1%
+Manticore,"Wereboar, Hybrid Form",33.9%,66.1%
+Ankheg,Will-o'-Wisp,66.1%,33.9%
+Efreeti,Mammoth,66.1%,33.9%
+Elk,Sahuagin,66.1%,33.9%
+Giant Octopus,Hell Hound,66.1%,33.9%
+Knight,Ogre,66.1%,33.9%
+Swarm of Ravens,"Wererat, Hybrid Form",66.1%,33.9%
+Swarm of Ravens,"Wererat, Rat Form",66.1%,33.9%
+Drow,Flying Sword,33.8%,66.2%
+Flying Snake,Stirge,33.8%,66.2%
+Ghost,Gold Dragon Wyrmling,33.8%,66.2%
+Giant Badger,Magmin,33.8%,66.2%
+Griffon,Silver Dragon Wyrmling,33.8%,66.2%
+Lion,Worg,33.8%,66.2%
+Swarm of Beetles,Worg,33.8%,66.2%
+Swarm of Centipedes,Worg,33.8%,66.2%
+Swarm of Insects,Worg,33.8%,66.2%
+Swarm of Spiders,Worg,33.8%,66.2%
+Swarm of Wasps,Worg,33.8%,66.2%
+Darkmantle,Giant Vulture,66.2%,33.8%
+Elk,Giant Frog,66.2%,33.8%
+Giant Octopus,Polar Bear,66.2%,33.8%
+Killer Whale,"Vampire, Bat Form",66.2%,33.8%
+Adult Blue Dragon,Nalfeshnee,33.7%,66.3%
+Animated Armor,Wight,66.3%,33.7%
+Black Bear,Cockatrice,66.3%,33.7%
+Blue Dragon Wyrmling,Half-Red Dragon Veteran,33.7%,66.3%
+Camel,Steam Mephit,33.7%,66.3%
+Cockatrice,Giant Sea Horse,66.3%,33.7%
+Elk,Giant Crab,66.3%,33.7%
+Giant Owl,Swarm of Beetles,33.7%,66.3%
+Giant Owl,Swarm of Centipedes,33.7%,66.3%
+Giant Owl,Swarm of Insects,33.7%,66.3%
+Giant Owl,Swarm of Spiders,33.7%,66.3%
+Giant Owl,Swarm of Wasps,33.7%,66.3%
+Gray Ooze,Scout,33.7%,66.3%
+Knight,Plesiosaurus,33.7%,66.3%
+Remorhaz,Solar,33.7%,66.3%
+Archmage,Griffon,33.6%,66.4%
+Black Bear,Swarm of Rats,33.6%,66.4%
+Blink Dog,Giant Owl,33.6%,66.4%
+Blink Dog,Giant Vulture,33.6%,66.4%
+Deep Gnome (Svirfneblin),"Wererat, Human Form",33.6%,66.4%
+Elk,Swarm of Bats,33.6%,66.4%
+Flying Snake,Goat,33.6%,66.4%
+Gibbering Mouther,Winter Wolf,33.6%,66.4%
+Gorgon,Marilith,33.6%,66.4%
+Hobgoblin,Spy,33.6%,66.4%
+Noble,Priest,33.6%,66.4%
+Red Dragon Wyrmling,Vrock,33.6%,66.4%
+Thug,Warhorse,33.6%,66.4%
+Awakened Shrub,Giant Fire Beetle,66.4%,33.6%
+Blink Dog,Wolf,66.4%,33.6%
+Constrictor Snake,Pony,66.4%,33.6%
+Giant Wasp,Pony,66.4%,33.6%
+Killer Whale,Water Elemental,66.4%,33.6%
+Panther,Pony,66.4%,33.6%
+Basilisk,Giant Octopus,66.5%,33.5%
+Bone Devil,Hezrou,33.5%,66.5%
+Deer,Flying Snake,66.5%,33.5%
+Dust Mephit,Giant Frog,66.5%,33.5%
+Elk,Guard,66.5%,33.5%
+Gelatinous Cube,Veteran,33.5%,66.5%
+Giant Crab,Giant Weasel,66.5%,33.5%
+Grick,Will-o'-Wisp,33.5%,66.5%
+Hezrou,Young Brass Dragon,66.5%,33.5%
+Invisible Stalker,Wyvern,33.5%,66.5%
+Minotaur Skeleton,Wraith,33.5%,66.5%
+Nightmare,Troll,66.5%,33.5%
+Ogre,Veteran,66.5%,33.5%
+"Werebear, Bear Form",Xorn,66.5%,33.5%
+"Werebear, Hybrid Form",Xorn,66.5%,33.5%
+Archmage,Succubus/Incubus,33.4%,66.6%
+Chimera,Water Elemental,33.4%,66.6%
+Cult Fanatic,Reef Shark,33.4%,66.6%
+Giant Badger,Ice Mephit,33.4%,66.6%
+Half-Red Dragon Veteran,"Weretiger, Hybrid Form",33.4%,66.6%
+Half-Red Dragon Veteran,"Weretiger, Tiger Form",33.4%,66.6%
+Hezrou,Young Green Dragon,33.4%,66.6%
+Merrow,Succubus/Incubus,33.4%,66.6%
+Rhinoceros,"Weretiger, Human Form",33.4%,66.6%
+Adult Black Dragon,Behir,66.6%,33.4%
+Bearded Devil,White Dragon Wyrmling,66.6%,33.4%
+Guardian Naga,Water Elemental,66.6%,33.4%
+Hippogriff,Reef Shark,66.6%,33.4%
+Magmin,Noble,66.6%,33.4%
+Minotaur Skeleton,Plesiosaurus,66.6%,33.4%
+Orc,Reef Shark,66.6%,33.4%
+Bronze Dragon Wyrmling,Gelatinous Cube,33.3%,66.7%
+Cult Fanatic,Giant Goat,33.3%,66.7%
+Doppelganger,Hunter Shark,33.3%,66.7%
+Drow,Giant Vulture,33.3%,66.7%
+Gladiator,Guardian Naga,33.3%,66.7%
+Griffon,Veteran,33.3%,66.7%
+Hobgoblin,Swarm of Beetles,33.3%,66.7%
+Hobgoblin,Swarm of Centipedes,33.3%,66.7%
+Hobgoblin,Swarm of Insects,33.3%,66.7%
+Hobgoblin,Swarm of Spiders,33.3%,66.7%
+Hobgoblin,Swarm of Wasps,33.3%,66.7%
+Owlbear,Winter Wolf,33.3%,66.7%
+Priest,Swarm of Bats,33.3%,66.7%
+Brass Dragon Wyrmling,Darkmantle,66.7%,33.3%
+Brass Dragon Wyrmling,Flying Sword,66.7%,33.3%
+Efreeti,Young Blue Dragon,66.7%,33.3%
+Hobgoblin,Riding Horse,66.7%,33.3%
+Ankheg,Bugbear,66.8%,33.2%
+Assassin,Hunter Shark,66.8%,33.2%
+Bandit,Magmin,33.2%,66.8%
+Brass Dragon Wyrmling,Giant Goat,66.8%,33.2%
+Cloaker,Red Dragon Wyrmling,33.2%,66.8%
+Darkmantle,Giant Eagle,33.2%,66.8%
+Giant Frog,Giant Poisonous Snake,33.2%,66.8%
+Giant Goat,Shadow,66.8%,33.2%
+Giant Octopus,Hunter Shark,33.2%,66.8%
+Giant Scorpion,"Werewolf, Hybrid Form",66.8%,33.2%
+Giant Scorpion,"Werewolf, Wolf Form",66.8%,33.2%
+Giant Wolf Spider,Gray Ooze,33.2%,66.8%
+Giant Wolf Spider,Zombie,33.2%,66.8%
+Grick,"Werewolf, Hybrid Form",33.2%,66.8%
+Grick,"Werewolf, Wolf Form",33.2%,66.8%
+Guardian Naga,Shambling Mound,33.2%,66.8%
+Rakshasa,Salamander,66.8%,33.2%
+Riding Horse,Wolf,66.8%,33.2%
+Tiger,Warhorse Skeleton,66.8%,33.2%
+Bronze Dragon Wyrmling,Griffon,33.1%,66.9%
+Bugbear,Doppelganger,33.1%,66.9%
+Chain Devil,Couatl,33.1%,66.9%
+Doppelganger,Gelatinous Cube,33.1%,66.9%
+Blue Dragon Wyrmling,Saber-Toothed Tiger,66.9%,33.1%
+Boar,Mule,66.9%,33.1%
+Death Dog,Mage,66.9%,33.1%
+Axe Beak,Rust Monster,33.0%,67.0%
+Azer,Giant Octopus,33.0%,67.0%
+Bearded Devil,Centaur,33.0%,67.0%
+Bone Devil,Clay Golem,33.0%,67.0%
+Cloaker,Minotaur Skeleton,33.0%,67.0%
+Deer,Giant Centipede,33.0%,67.0%
+Djinni,Young Bronze Dragon,33.0%,67.0%
+Duergar,Giant Eagle,67.0%,33.0%
+Giant Ape,Gorgon,67.0%,33.0%
+Giant Goat,Lion,33.0%,67.0%
+Iron Golem,Roc,33.0%,67.0%
+Sahuagin,Scout,33.0%,67.0%
+Veteran,"Weretiger, Human Form",33.0%,67.0%
+Ape,"Wererat, Human Form",32.9%,67.1%
+Bandit Captain,Gibbering Mouther,32.9%,67.1%
+Blink Dog,Crocodile,32.9%,67.1%
+Giant Wolf Spider,Wolf,32.9%,67.1%
+Azer,White Dragon Wyrmling,67.1%,32.9%
+Centaur,Giant Boar,67.1%,32.9%
+Deep Gnome (Svirfneblin),Hobgoblin,67.1%,32.9%
+Giant Sea Horse,Giant Weasel,67.1%,32.9%
+Giant Sea Horse,Pony,67.1%,32.9%
+Harpy,Rust Monster,67.1%,32.9%
+Night Hag,"Vampire, Vampire Form",67.1%,32.9%
+Vampire Spawn,Veteran,67.1%,32.9%
+Assassin,Knight,32.8%,67.2%
+Brass Dragon Wyrmling,Phase Spider,32.8%,67.2%
+Centaur,Saber-Toothed Tiger,32.8%,67.2%
+Crocodile,Satyr,32.8%,67.2%
+Crocodile,Warhorse,32.8%,67.2%
+Ettercap,Will-o'-Wisp,32.8%,67.2%
+Giant Boar,Mummy,32.8%,67.2%
+Half-Red Dragon Veteran,Troll,32.8%,67.2%
+Scout,Shadow,32.8%,67.2%
+Ancient Brass Dragon,Kraken,67.2%,32.8%
+Awakened Tree,Half-Red Dragon Veteran,67.2%,32.8%
+Brass Dragon Wyrmling,Spy,67.2%,32.8%
+Crocodile,Giant Lizard,67.2%,32.8%
+Drow,Magmin,67.2%,32.8%
+Flying Sword,Hobgoblin,67.2%,32.8%
+Giant Poisonous Snake,Priest,67.2%,32.8%
+Hobgoblin,Wolf,67.2%,32.8%
+Imp,Noble,67.2%,32.8%
+Adult Brass Dragon,Adult White Dragon,32.7%,67.3%
+Black Dragon Wyrmling,Giant Octopus,32.7%,67.3%
+Brown Bear,Bugbear,32.7%,67.3%
+Ghast,Mummy,32.7%,67.3%
+Giant Hyena,Saber-Toothed Tiger,32.7%,67.3%
+Green Dragon Wyrmling,Mummy,32.7%,67.3%
+Hobgoblin,Orc,32.7%,67.3%
+Invisible Stalker,Wraith,32.7%,67.3%
+Pony,Priest,32.7%,67.3%
+Assassin,Drider,67.3%,32.7%
+Cultist,Merfolk,67.3%,32.7%
+Giant Lizard,Giant Poisonous Snake,67.3%,32.7%
+Guardian Naga,"Vampire, Bat Form",67.3%,32.7%
+Owlbear,Silver Dragon Wyrmling,67.3%,32.7%
+Unicorn,"Weretiger, Human Form",67.3%,32.7%
+Adult Copper Dragon,Cloud Giant,32.6%,67.4%
+Archmage,Giant Elk,32.6%,67.4%
+Azer,Polar Bear,32.6%,67.4%
+Commoner,Hyena,32.6%,67.4%
+Dryad,Grimlock,32.6%,67.4%
+Giant Badger,Giant Wasp,32.6%,67.4%
+Giant Badger,Panther,32.6%,67.4%
+Boar,Pseudodragon,67.4%,32.6%
+Cult Fanatic,Drow,67.4%,32.6%
+Cultist,Giant Rat,67.4%,32.6%
+Cultist,Giant Rat (Diseased),67.4%,32.6%
+Doppelganger,Mimic,67.4%,32.6%
+Elk,Gray Ooze,67.4%,32.6%
+Elk,Zombie,67.4%,32.6%
+Shadow,Swarm of Rats,67.4%,32.6%
+Bandit Captain,Giant Octopus,67.5%,32.5%
+Brass Dragon Wyrmling,Reef Shark,67.5%,32.5%
+Dire Wolf,Giant Elk,32.5%,67.5%
+Dretch,Magma Mephit,32.5%,67.5%
+Gelatinous Cube,Mummy,67.5%,32.5%
+Giant Octopus,Green Dragon Wyrmling,67.5%,32.5%
+Giant Owl,Swarm of Rats,67.5%,32.5%
+Giant Vulture,Swarm of Beetles,32.5%,67.5%
+Giant Vulture,Swarm of Centipedes,32.5%,67.5%
+Giant Vulture,Swarm of Insects,32.5%,67.5%
+Giant Vulture,Swarm of Spiders,32.5%,67.5%
+Giant Vulture,Swarm of Wasps,32.5%,67.5%
+Invisible Stalker,Minotaur,32.5%,67.5%
+Mimic,Mummy,32.5%,67.5%
+White Dragon Wyrmling,Wight,67.5%,32.5%
+Ancient Copper Dragon,Ancient Green Dragon,32.4%,67.6%
+Dretch,Giant Wasp,32.4%,67.6%
+Dretch,Panther,32.4%,67.6%
+Ghost,Troll,32.4%,67.6%
+Goblin,Wolf,32.4%,67.6%
+Gold Dragon Wyrmling,Minotaur Skeleton,32.4%,67.6%
+Skeleton,Swarm of Bats,32.4%,67.6%
+Succubus/Incubus,Veteran,32.4%,67.6%
+"Wereboar, Human Form","Weretiger, Human Form",32.4%,67.6%
+Animated Armor,Grick,67.6%,32.4%
+Deep Gnome (Svirfneblin),Swarm of Rats,67.6%,32.4%
+Elk,Giant Wasp,67.6%,32.4%
+Elk,Panther,67.6%,32.4%
+Giant Frog,Giant Weasel,67.6%,32.4%
+Hippogriff,Shadow,67.6%,32.4%
+Knight,"Weretiger, Human Form",67.6%,32.4%
+Phase Spider,Warhorse,67.6%,32.4%
+"Wereboar, Boar Form","Wereboar, Human Form",67.6%,32.4%
+Animated Armor,Green Dragon Wyrmling,32.3%,67.7%
+Blood Hawk,Noble,32.3%,67.7%
+Blue Dragon Wyrmling,Knight,32.3%,67.7%
+Brown Bear,Gargoyle,32.3%,67.7%
+Camel,Tribal Warrior,32.3%,67.7%
+Cultist,Grimlock,32.3%,67.7%
+Giant Rat,Noble,32.3%,67.7%
+Giant Rat (Diseased),Noble,32.3%,67.7%
+Hunter Shark,Knight,32.3%,67.7%
+Merfolk,Tribal Warrior,32.3%,67.7%
+Plesiosaurus,Vrock,32.3%,67.7%
+Roc,Storm Giant,32.3%,67.7%
+Acolyte,Hyena,67.7%,32.3%
+Androsphinx,Tyrannosaurus Rex,67.7%,32.3%
+Awakened Tree,Ogre Zombie,67.7%,32.3%
+Blue Dragon Wyrmling,Sea Hag,67.7%,32.3%
+Clay Golem,Hydra,67.7%,32.3%
+Djinni,Young Black Dragon,67.7%,32.3%
+Giant Frog,Grimlock,67.7%,32.3%
+Goblin,Quasit,67.7%,32.3%
+Green Hag,Wyvern,67.7%,32.3%
+Minotaur,Salamander,67.7%,32.3%
+Orc,Shadow,67.7%,32.3%
+Owlbear,Pegasus,67.7%,32.3%
+Dretch,Giant Frog,32.2%,67.8%
+Flesh Golem,Salamander,32.2%,67.8%
+Mule,Noble,32.2%,67.8%
+Ankheg,Azer,67.8%,32.2%
+Centaur,Swarm of Quippers,67.8%,32.2%
+Crocodile,Giant Vulture,67.8%,32.2%
+Djinni,Gynosphinx,67.8%,32.2%
+Dryad,Steam Mephit,67.8%,32.2%
+Ghoul,Giant Bat,67.8%,32.2%
+Ghoul,Lizardfolk,67.8%,32.2%
+Giant Sea Horse,Ice Mephit,67.8%,32.2%
+Hobgoblin,Skeleton,67.8%,32.2%
+Blood Hawk,Dryad,32.1%,67.9%
+Blue Dragon Wyrmling,Unicorn,32.1%,67.9%
+Cloaker,Flesh Golem,32.1%,67.9%
+Copper Dragon Wyrmling,White Dragon Wyrmling,32.1%,67.9%
+Crocodile,Lion,32.1%,67.9%
+Deva,Guardian Naga,32.1%,67.9%
+Fire Elemental,Vrock,32.1%,67.9%
+Giant Centipede,Pseudodragon,32.1%,67.9%
+Invisible Stalker,"Werebear, Human Form",32.1%,67.9%
+Magma Mephit,Riding Horse,32.1%,67.9%
+Phase Spider,Swarm of Poisonous Snakes,32.1%,67.9%
+Young Brass Dragon,Young White Dragon,32.1%,67.9%
+Adult Brass Dragon,Young Silver Dragon,67.9%,32.1%
+Elephant,Green Hag,67.9%,32.1%
+Owl,Raven,67.9%,32.1%
+Owl,Spider,67.9%,32.1%
+Raven,Weasel,67.9%,32.1%
+Spider,Weasel,67.9%,32.1%
+Swarm of Poisonous Snakes,Warhorse Skeleton,67.9%,32.1%
+Berserker,Manticore,68.0%,32.0%
+Berserker,Unicorn,32.0%,68.0%
+Black Bear,Giant Crab,68.0%,32.0%
+Couatl,"Werebear, Bear Form",32.0%,68.0%
+Couatl,"Werebear, Hybrid Form",32.0%,68.0%
+Draft Horse,Orc,68.0%,32.0%
+Dretch,Violet Fungus,68.0%,32.0%
+Drider,Sea Hag,68.0%,32.0%
+Drow,Ghoul,32.0%,68.0%
+Giant Shark,Young Blue Dragon,32.0%,68.0%
+Hobgoblin,"Wererat, Hybrid Form",32.0%,68.0%
+Hobgoblin,"Wererat, Rat Form",32.0%,68.0%
+Merfolk,Violet Fungus,32.0%,68.0%
+Minotaur Skeleton,Oni,32.0%,68.0%
+Mummy Lord,Night Hag,68.0%,32.0%
+Adult Silver Dragon,Roc,31.9%,68.1%
+Death Dog,Giant Toad,31.9%,68.1%
+Drow,Reef Shark,31.9%,68.1%
+Giant Owl,Warhorse,31.9%,68.1%
+Gladiator,"Vampire, Vampire Form",31.9%,68.1%
+Hydra,Triceratops,31.9%,68.1%
+Hyena,Lemure,31.9%,68.1%
+Black Bear,Elk,68.1%,31.9%
+Brass Dragon Wyrmling,Shadow,68.1%,31.9%
+Chain Devil,Salamander,68.1%,31.9%
+Chimera,Rakshasa,68.1%,31.9%
+Cockatrice,Constrictor Snake,68.1%,31.9%
+Cockatrice,Giant Wasp,68.1%,31.9%
+Cockatrice,Panther,68.1%,31.9%
+Couatl,Green Hag,68.1%,31.9%
+Giant Toad,Specter,68.1%,31.9%
+Goat,Vulture,68.1%,31.9%
+Specter,Swarm of Beetles,68.1%,31.9%
+Specter,Swarm of Centipedes,68.1%,31.9%
+Specter,Swarm of Insects,68.1%,31.9%
+Specter,Swarm of Spiders,68.1%,31.9%
+Specter,Swarm of Wasps,68.1%,31.9%
+Swarm of Poisonous Snakes,Worg,68.1%,31.9%
+Basilisk,Rhinoceros,31.8%,68.2%
+Black Dragon Wyrmling,Polar Bear,31.8%,68.2%
+Blink Dog,Giant Bat,31.8%,68.2%
+Blink Dog,Lizardfolk,31.8%,68.2%
+Blink Dog,Shadow,31.8%,68.2%
+Centaur,Hunter Shark,31.8%,68.2%
+Giant Elk,Ogre,31.8%,68.2%
+Grimlock,Scout,31.8%,68.2%
+Mastiff,Mule,31.8%,68.2%
+Ankheg,Ghast,68.2%,31.8%
+Copper Dragon Wyrmling,Swarm of Beetles,68.2%,31.8%
+Copper Dragon Wyrmling,Swarm of Centipedes,68.2%,31.8%
+Copper Dragon Wyrmling,Swarm of Insects,68.2%,31.8%
+Copper Dragon Wyrmling,Swarm of Spiders,68.2%,31.8%
+Copper Dragon Wyrmling,Swarm of Wasps,68.2%,31.8%
+Dust Mephit,Magma Mephit,68.2%,31.8%
+Efreeti,Giant Ape,68.2%,31.8%
+Harpy,Orc,68.2%,31.8%
+Mammoth,Roper,68.2%,31.8%
+Bronze Dragon Wyrmling,Succubus/Incubus,31.7%,68.3%
+Dryad,Pony,31.7%,68.3%
+Ettercap,Ghast,31.7%,68.3%
+Giant Bat,Swarm of Beetles,31.7%,68.3%
+Giant Bat,Swarm of Centipedes,31.7%,68.3%
+Giant Bat,Swarm of Insects,31.7%,68.3%
+Giant Bat,Swarm of Spiders,31.7%,68.3%
+Giant Bat,Swarm of Wasps,31.7%,68.3%
+Giant Elk,"Wereboar, Boar Form",31.7%,68.3%
+Giant Elk,"Wereboar, Hybrid Form",31.7%,68.3%
+Giant Octopus,Manticore,31.7%,68.3%
+Lizardfolk,Swarm of Beetles,31.7%,68.3%
+Lizardfolk,Swarm of Centipedes,31.7%,68.3%
+Lizardfolk,Swarm of Insects,31.7%,68.3%
+Lizardfolk,Swarm of Spiders,31.7%,68.3%
+Lizardfolk,Swarm of Wasps,31.7%,68.3%
+Brass Dragon Wyrmling,Deep Gnome (Svirfneblin),68.3%,31.7%
+Doppelganger,Merrow,68.3%,31.7%
+Ancient Brass Dragon,Ancient White Dragon,31.6%,68.4%
+Animated Armor,Swarm of Quippers,31.6%,68.4%
+Deep Gnome (Svirfneblin),Harpy,31.6%,68.4%
+Dryad,Noble,31.6%,68.4%
+Flying Sword,Lion,31.6%,68.4%
+Giant Goat,Warhorse,31.6%,68.4%
+Giant Poisonous Snake,Hippogriff,31.6%,68.4%
+Polar Bear,Saber-Toothed Tiger,31.6%,68.4%
+Polar Bear,Sea Hag,31.6%,68.4%
+Priest,Swarm of Rats,31.6%,68.4%
+Specter,"Werewolf, Human Form",31.6%,68.4%
+Bugbear,Swarm of Poisonous Snakes,68.4%,31.6%
+Cat,Lizard,68.4%,31.6%
+Crocodile,Swarm of Rats,68.4%,31.6%
+Giant Lizard,Swarm of Bats,68.4%,31.6%
+Axe Beak,Swarm of Ravens,31.5%,68.5%
+Barbed Devil,Knight,68.5%,31.5%
+Black Bear,Dust Mephit,68.5%,31.5%
+Black Pudding,Doppelganger,31.5%,68.5%
+Blue Dragon Wyrmling,Giant Elk,68.5%,31.5%
+Copper Dragon Wyrmling,Mage,68.5%,31.5%
+Ghost,Winter Wolf,31.5%,68.5%
+Giant Badger,Giant Frog,31.5%,68.5%
+Giant Elk,Owlbear,31.5%,68.5%
+Giant Weasel,Goblin,68.5%,31.5%
+Gynosphinx,Roper,31.5%,68.5%
+Hezrou,Hydra,68.5%,31.5%
+Knight,Vampire Spawn,68.5%,31.5%
+Ogre Zombie,Plesiosaurus,31.5%,68.5%
+Tiger,Worg,68.5%,31.5%
+Brass Dragon Wyrmling,Giant Toad,31.4%,68.6%
+Chain Devil,Gladiator,31.4%,68.6%
+Chimera,"Vampire, Bat Form",31.4%,68.6%
+Deep Gnome (Svirfneblin),Satyr,31.4%,68.6%
+Ghost,Ogre Zombie,31.4%,68.6%
+Bearded Devil,Swarm of Poisonous Snakes,68.6%,31.4%
+Behir,Stone Golem,68.6%,31.4%
+Commoner,Homunculus,68.6%,31.4%
+Duergar,Swarm of Beetles,68.6%,31.4%
+Duergar,Swarm of Centipedes,68.6%,31.4%
+Duergar,Swarm of Insects,68.6%,31.4%
+Duergar,Swarm of Spiders,68.6%,31.4%
+Duergar,Swarm of Wasps,68.6%,31.4%
+Giant Spider,Lion,68.6%,31.4%
+Giant Weasel,Giant Wolf Spider,68.6%,31.4%
+Gnoll,Hobgoblin,68.6%,31.4%
+Green Hag,Salamander,68.6%,31.4%
+Minotaur,Vrock,68.6%,31.4%
+Bandit,Ice Mephit,31.3%,68.7%
+Bat,Lizard,31.3%,68.7%
+Deep Gnome (Svirfneblin),Specter,31.3%,68.7%
+Fire Elemental,Salamander,31.3%,68.7%
+Frost Giant,Stone Golem,31.3%,68.7%
+Giant Boar,Giant Elk,31.3%,68.7%
+Mummy,Veteran,31.3%,68.7%
+Saber-Toothed Tiger,"Wereboar, Boar Form",31.3%,68.7%
+Saber-Toothed Tiger,"Wereboar, Hybrid Form",31.3%,68.7%
+Warhorse,"Werewolf, Human Form",31.3%,68.7%
+Ghost,Rhinoceros,68.7%,31.3%
+Gibbering Mouther,Sea Hag,68.7%,31.3%
+Gynosphinx,Hezrou,68.7%,31.3%
+Manticore,Mummy,68.7%,31.3%
+"Vampire, Bat Form",Xorn,68.7%,31.3%
+Wraith,Wyvern,68.7%,31.3%
+Archmage,Mimic,68.8%,31.2%
+Azer,Swarm of Poisonous Snakes,68.8%,31.2%
+Bandit,Cultist,68.8%,31.2%
+Bronze Dragon Wyrmling,Ghast,68.8%,31.2%
+Darkmantle,Swarm of Rats,68.8%,31.2%
+Doppelganger,Hell Hound,68.8%,31.2%
+Drow,Dust Mephit,68.8%,31.2%
+Druid,Pony,68.8%,31.2%
+Elephant,Otyugh,68.8%,31.2%
+Bandit Captain,Veteran,31.2%,68.8%
+Cat,Poisonous Snake,31.2%,68.8%
+Duergar,Tiger,31.2%,68.8%
+Giant Goat,Specter,31.2%,68.8%
+Hobgoblin,Swarm of Ravens,31.2%,68.8%
+Archmage,Merrow,68.9%,31.1%
+Brown Bear,Giant Spider,68.9%,31.1%
+Bugbear,Tiger,68.9%,31.1%
+Centaur,Giant Scorpion,68.9%,31.1%
+Couatl,Otyugh,68.9%,31.1%
+Crocodile,Hobgoblin,68.9%,31.1%
+Giant Sea Horse,Grimlock,68.9%,31.1%
+Bandit,Constrictor Snake,31.1%,68.9%
+Bandit,Giant Wasp,31.1%,68.9%
+Bandit,Panther,31.1%,68.9%
+Bandit Captain,Rhinoceros,31.1%,68.9%
+Bronze Dragon Wyrmling,Giant Elk,31.1%,68.9%
+Flying Sword,Specter,31.1%,68.9%
+Mummy Lord,Young Black Dragon,31.1%,68.9%
+Ochre Jelly,Swarm of Quippers,31.1%,68.9%
+Red Dragon Wyrmling,Salamander,31.1%,68.9%
+Baboon,Stirge,31.0%,69.0%
+Basilisk,Ghost,31.0%,69.0%
+Jackal,Stirge,31.0%,69.0%
+Lion,"Wererat, Human Form",69.0%,31.0%
+Minotaur,"Werebear, Human Form",69.0%,31.0%
+Plesiosaurus,"Weretiger, Hybrid Form",69.0%,31.0%
+Plesiosaurus,"Weretiger, Tiger Form",69.0%,31.0%
+Scout,Wolf,69.0%,31.0%
+Wyvern,Xorn,31.0%,69.0%
+Brown Bear,Duergar,69.1%,30.9%
+Cockatrice,Sahuagin,69.1%,30.9%
+Giant Ape,Young Bronze Dragon,69.1%,30.9%
+Giant Goat,Gnoll,69.1%,30.9%
+Gladiator,Otyugh,69.1%,30.9%
+Ice Devil,Treant,69.1%,30.9%
+Imp,Pony,69.1%,30.9%
+Kobold,Stirge,69.1%,30.9%
+Magmin,Pony,69.1%,30.9%
+Young Blue Dragon,Young Bronze Dragon,69.1%,30.9%
+Cloaker,Fire Elemental,30.9%,69.1%
+Deep Gnome (Svirfneblin),Warhorse,30.9%,69.1%
+Giant Badger,Giant Crab,30.9%,69.1%
+Giant Constrictor Snake,Gold Dragon Wyrmling,30.9%,69.1%
+Gibbering Mouther,Nightmare,30.9%,69.1%
+Invisible Stalker,Rakshasa,30.9%,69.1%
+Kraken,Pit Fiend,30.9%,69.1%
+Reef Shark,Satyr,30.9%,69.1%
+Ancient Brass Dragon,Remorhaz,69.2%,30.8%
+Constrictor Snake,Giant Weasel,69.2%,30.8%
+Giant Crab,Goblin,69.2%,30.8%
+Giant Wasp,Giant Weasel,69.2%,30.8%
+Gray Ooze,Grimlock,69.2%,30.8%
+Ankheg,Sea Hag,30.8%,69.2%
+Copper Dragon Wyrmling,Tiger,30.8%,69.2%
+Giant Boar,Griffon,30.8%,69.2%
+Giant Poisonous Snake,Orc,30.8%,69.2%
+Giant Poisonous Snake,Spy,30.8%,69.2%
+Giant Wolf Spider,Sahuagin,30.8%,69.2%
+Green Hag,"Vampire, Bat Form",30.8%,69.2%
+Plesiosaurus,Salamander,30.8%,69.2%
+Reef Shark,Warhorse,30.8%,69.2%
+Ettercap,Giant Toad,69.3%,30.7%
+Giant Bat,Hobgoblin,69.3%,30.7%
+Giant Spider,Warhorse,69.3%,30.7%
+Ice Devil,Roper,69.3%,30.7%
+Noble,Tribal Warrior,69.3%,30.7%
+Young Black Dragon,Young Copper Dragon,69.3%,30.7%
+Bandit Captain,Blue Dragon Wyrmling,30.7%,69.3%
+Black Bear,Deep Gnome (Svirfneblin),30.7%,69.3%
+Boar,Guard,30.7%,69.3%
+Bugbear,Gelatinous Cube,30.7%,69.3%
+Flying Sword,Warhorse,30.7%,69.3%
+Giant Weasel,Priest,30.7%,69.3%
+Specter,Tiger,30.7%,69.3%
+Awakened Shrub,Vulture,69.4%,30.6%
+Blue Dragon Wyrmling,Manticore,69.4%,30.6%
+Chimera,Chuul,69.4%,30.6%
+Djinni,Triceratops,69.4%,30.6%
+Druid,Ice Mephit,69.4%,30.6%
+Giant Eagle,Orc,69.4%,30.6%
+Gnoll,Swarm of Bats,69.4%,30.6%
+Owlbear,"Wereboar, Human Form",69.4%,30.6%
+Polar Bear,Swarm of Quippers,69.4%,30.6%
+Blink Dog,Flying Sword,30.6%,69.4%
+Gelatinous Cube,Ogre,30.6%,69.4%
+Giant Owl,Harpy,30.6%,69.4%
+Giant Owl,Lion,30.6%,69.4%
+Otyugh,"Vampire, Bat Form",30.6%,69.4%
+Saber-Toothed Tiger,Vampire Spawn,30.6%,69.4%
+"Vampire, Bat Form","Vampire, Vampire Form",30.6%,69.4%
+Adult Brass Dragon,Androsphinx,30.5%,69.5%
+Animated Armor,Giant Toad,69.5%,30.5%
+Bronze Dragon Wyrmling,Gibbering Mouther,30.5%,69.5%
+Chimera,Killer Whale,30.5%,69.5%
+Draft Horse,Reef Shark,69.5%,30.5%
+Duergar,White Dragon Wyrmling,30.5%,69.5%
+Giant Eagle,Swarm of Ravens,69.5%,30.5%
+Giant Goat,Mage,30.5%,69.5%
+Giant Spider,Tiger,30.5%,69.5%
+Mastiff,Quasit,30.5%,69.5%
+Black Bear,Giant Sea Horse,69.6%,30.4%
+Black Dragon Wyrmling,Warhorse Skeleton,69.6%,30.4%
+Draft Horse,"Wererat, Hybrid Form",69.6%,30.4%
+Draft Horse,"Wererat, Rat Form",69.6%,30.4%
+Drider,Gibbering Mouther,69.6%,30.4%
+Druid,Giant Weasel,69.6%,30.4%
+Dust Mephit,Noble,69.6%,30.4%
+Elk,Imp,69.6%,30.4%
+Giant Octopus,Will-o'-Wisp,69.6%,30.4%
+Hunter Shark,Succubus/Incubus,69.6%,30.4%
+Tiger,"Werewolf, Human Form",69.6%,30.4%
+Animated Armor,Giant Boar,30.4%,69.6%
+Ape,Swarm of Beetles,30.4%,69.6%
+Ape,Swarm of Centipedes,30.4%,69.6%
+Ape,Swarm of Insects,30.4%,69.6%
+Ape,Swarm of Spiders,30.4%,69.6%
+Ape,Swarm of Wasps,30.4%,69.6%
+Bandit,Giant Crab,30.4%,69.6%
+Death Dog,Warhorse Skeleton,30.4%,69.6%
+Skeleton,Swarm of Rats,30.4%,69.6%
+Acolyte,Eagle,69.7%,30.3%
+Basilisk,Bronze Dragon Wyrmling,69.7%,30.3%
+Blink Dog,Magmin,69.7%,30.3%
+Chain Devil,Ettin,69.7%,30.3%
+Deep Gnome (Svirfneblin),Swarm of Bats,69.7%,30.3%
+Drider,Manticore,69.7%,30.3%
+Earth Elemental,Hydra,69.7%,30.3%
+Ettin,Minotaur Skeleton,69.7%,30.3%
+Giant Goat,Lizardfolk,69.7%,30.3%
+Knight,Silver Dragon Wyrmling,69.7%,30.3%
+Merrow,Will-o'-Wisp,69.7%,30.3%
+Spirit Naga,"Wereboar, Boar Form",69.7%,30.3%
+Spirit Naga,"Wereboar, Hybrid Form",69.7%,30.3%
+Triceratops,Young Copper Dragon,69.7%,30.3%
+Tyrannosaurus Rex,Young Silver Dragon,69.7%,30.3%
+Adult Green Dragon,Fire Giant,30.3%,69.7%
+Ankheg,Manticore,30.3%,69.7%
+Brown Bear,Ghast,30.3%,69.7%
+Chuul,Elephant,30.3%,69.7%
+Cult Fanatic,Orc,30.3%,69.7%
+Darkmantle,Satyr,30.3%,69.7%
+Djinni,Treant,30.3%,69.7%
+Ghast,Giant Elk,30.3%,69.7%
+Giant Spider,Swarm of Poisonous Snakes,30.3%,69.7%
+Gnoll,Swarm of Beetles,30.3%,69.7%
+Gnoll,Swarm of Centipedes,30.3%,69.7%
+Gnoll,Swarm of Insects,30.3%,69.7%
+Gnoll,Swarm of Spiders,30.3%,69.7%
+Gnoll,Swarm of Wasps,30.3%,69.7%
+Ogre Zombie,Red Dragon Wyrmling,30.3%,69.7%
+Orc,Warhorse Skeleton,30.3%,69.7%
+Plesiosaurus,Wraith,30.3%,69.7%
+Succubus/Incubus,"Wereboar, Human Form",30.3%,69.7%
+Cockatrice,Giant Frog,69.8%,30.2%
+Elk,Noble,69.8%,30.2%
+Giant Shark,Young Green Dragon,69.8%,30.2%
+Glabrezu,Treant,69.8%,30.2%
+Green Hag,Oni,69.8%,30.2%
+Hydra,Shambling Mound,69.8%,30.2%
+Will-o'-Wisp,Worg,69.8%,30.2%
+Bandit Captain,Ghost,30.2%,69.8%
+Basilisk,Veteran,30.2%,69.8%
+Flesh Golem,Vrock,30.2%,69.8%
+Giant Crocodile,Young White Dragon,30.2%,69.8%
+Giant Owl,Specter,30.2%,69.8%
+Grick,Swarm of Quippers,30.2%,69.8%
+Manticore,Ogre,30.2%,69.8%
+Unicorn,"Weretiger, Hybrid Form",30.2%,69.8%
+Unicorn,"Weretiger, Tiger Form",30.2%,69.8%
+Baboon,Octopus,69.9%,30.1%
+Brass Dragon Wyrmling,Giant Owl,69.9%,30.1%
+Flying Sword,Swarm of Rats,69.9%,30.1%
+Giant Constrictor Snake,Hunter Shark,69.9%,30.1%
+Gladiator,Green Hag,69.9%,30.1%
+Jackal,Octopus,69.9%,30.1%
+Reef Shark,Swarm of Rats,69.9%,30.1%
+Swarm of Poisonous Snakes,"Werewolf, Human Form",69.9%,30.1%
+Aboleth,Djinni,30.1%,69.9%
+Ape,Giant Eagle,30.1%,69.9%
+Berserker,Spirit Naga,30.1%,69.9%
+Blood Hawk,Dretch,30.1%,69.9%
+Centaur,Manticore,30.1%,69.9%
+Couatl,Guardian Naga,30.1%,69.9%
+Crocodile,Specter,30.1%,69.9%
+Flying Sword,Giant Eagle,30.1%,69.9%
+Gargoyle,Giant Hyena,30.1%,69.9%
+Mummy,Pegasus,30.1%,69.9%
+Specter,Swarm of Poisonous Snakes,30.1%,69.9%
+Ankheg,Hunter Shark,30.0%,70.0%
+Bandit,Giant Frog,30.0%,70.0%
+Brass Dragon Wyrmling,Crocodile,70.0%,30.0%
+Brass Dragon Wyrmling,Grick,30.0%,70.0%
+Bugbear,Griffon,30.0%,70.0%
+Cockatrice,Cult Fanatic,30.0%,70.0%
+Death Dog,Grick,30.0%,70.0%
+Gargoyle,Warhorse Skeleton,70.0%,30.0%
+Horned Devil,Tyrannosaurus Rex,30.0%,70.0%
+Ice Devil,Young Bronze Dragon,70.0%,30.0%
+Kraken,Remorhaz,70.0%,30.0%
+Ogre,Pegasus,70.0%,30.0%
+Orc,Phase Spider,30.0%,70.0%
+Ancient Brass Dragon,Balor,70.1%,29.9%
+Bandit,Steam Mephit,70.1%,29.9%
+Bandit Captain,Centaur,70.1%,29.9%
+Deva,Otyugh,70.1%,29.9%
+Ghoul,Giant Owl,70.1%,29.9%
+Giant Owl,Giant Poisonous Snake,70.1%,29.9%
+Tiger,Wight,70.1%,29.9%
+Blink Dog,Reef Shark,29.9%,70.1%
+Boar,Magmin,29.9%,70.1%
+Cultist,Imp,29.9%,70.1%
+Ghoul,Giant Spider,29.9%,70.1%
+Ettercap,Phase Spider,70.2%,29.8%
+Giant Spider,Swarm of Beetles,70.2%,29.8%
+Giant Spider,Swarm of Centipedes,70.2%,29.8%
+Giant Spider,Swarm of Insects,70.2%,29.8%
+Giant Spider,Swarm of Spiders,70.2%,29.8%
+Giant Spider,Swarm of Wasps,70.2%,29.8%
+Gold Dragon Wyrmling,Half-Red Dragon Veteran,70.2%,29.8%
+Rhinoceros,Sea Hag,70.2%,29.8%
+Berserker,Knight,29.8%,70.2%
+Black Pudding,Giant Octopus,29.8%,70.2%
+Bugbear,Giant Elk,29.8%,70.2%
+Dire Wolf,Saber-Toothed Tiger,29.8%,70.2%
+Eagle,Lemure,29.8%,70.2%
+Giant Badger,Magma Mephit,29.8%,70.2%
+Homunculus,Vulture,29.8%,70.2%
+Ice Mephit,Riding Horse,29.8%,70.2%
+Minotaur Skeleton,Rakshasa,29.8%,70.2%
+Young Copper Dragon,Young Green Dragon,29.8%,70.2%
+Barbed Devil,Unicorn,70.3%,29.7%
+Basilisk,Merrow,70.3%,29.7%
+Black Bear,Guard,70.3%,29.7%
+Clay Golem,Mummy Lord,70.3%,29.7%
+Copper Dragon Wyrmling,Satyr,70.3%,29.7%
+Duergar,Satyr,70.3%,29.7%
+Flying Sword,Swarm of Bats,70.3%,29.7%
+Night Hag,"Werebear, Bear Form",70.3%,29.7%
+Night Hag,"Werebear, Hybrid Form",70.3%,29.7%
+Blink Dog,Darkmantle,29.7%,70.3%
+Giant Frog,Hobgoblin,29.7%,70.3%
+Quasit,Wolf,29.7%,70.3%
+Archmage,Bronze Dragon Wyrmling,70.4%,29.6%
+Behir,Tyrannosaurus Rex,70.4%,29.6%
+Cloaker,Half-Red Dragon Veteran,70.4%,29.6%
+Darkmantle,Giant Lizard,70.4%,29.6%
+Earth Elemental,Mummy Lord,70.4%,29.6%
+Swarm of Beetles,Thug,70.4%,29.6%
+Swarm of Centipedes,Thug,70.4%,29.6%
+Swarm of Insects,Thug,70.4%,29.6%
+Swarm of Spiders,Thug,70.4%,29.6%
+Swarm of Wasps,Thug,70.4%,29.6%
+"Vampire, Vampire Form",Water Elemental,70.4%,29.6%
+Chuul,Xorn,29.6%,70.4%
+Crocodile,Mage,29.6%,70.4%
+Dire Wolf,Gelatinous Cube,29.6%,70.4%
+Gargoyle,Hell Hound,29.6%,70.4%
+Giant Hyena,Hunter Shark,29.6%,70.4%
+Adult Copper Dragon,Young Gold Dragon,70.5%,29.5%
+Adult Copper Dragon,Young Red Dragon,70.5%,29.5%
+Bearded Devil,Polar Bear,29.5%,70.5%
+Blink Dog,Skeleton,70.5%,29.5%
+Clay Golem,Young Green Dragon,29.5%,70.5%
+Dretch,Giant Crab,29.5%,70.5%
+Efreeti,Young Silver Dragon,29.5%,70.5%
+Giant Ape,Horned Devil,29.5%,70.5%
+Giant Elk,Vampire Spawn,29.5%,70.5%
+Giant Owl,Satyr,29.5%,70.5%
+Hell Hound,Succubus/Incubus,29.5%,70.5%
+Lamia,Red Dragon Wyrmling,70.5%,29.5%
+Mage,Swarm of Ravens,70.5%,29.5%
+Salamander,Xorn,29.5%,70.5%
+Axe Beak,Drow,70.6%,29.4%
+Basilisk,Green Dragon Wyrmling,70.6%,29.4%
+Berserker,Saber-Toothed Tiger,70.6%,29.4%
+Duergar,Mage,70.6%,29.4%
+Scout,Skeleton,70.6%,29.4%
+Dire Wolf,Succubus/Incubus,29.4%,70.6%
+Dust Mephit,Swarm of Bats,29.4%,70.6%
+Giant Eagle,Grick,29.4%,70.6%
+Hydra,Young White Dragon,29.4%,70.6%
+Ape,Axe Beak,70.7%,29.3%
+Assassin,Spirit Naga,29.3%,70.7%
+Blue Dragon Wyrmling,Spirit Naga,29.3%,70.7%
+Bronze Dragon Wyrmling,Saber-Toothed Tiger,29.3%,70.7%
+Cult Fanatic,Riding Horse,70.7%,29.3%
+Deep Gnome (Svirfneblin),Giant Eagle,29.3%,70.7%
+Drow,Giant Wasp,70.7%,29.3%
+Drow,Panther,70.7%,29.3%
+Elephant,"Werebear, Bear Form",29.3%,70.7%
+Elephant,"Werebear, Hybrid Form",29.3%,70.7%
+Ettin,Otyugh,29.3%,70.7%
+Giant Eagle,Thug,70.7%,29.3%
+Green Dragon Wyrmling,Griffon,29.3%,70.7%
+Guard,Swarm of Rats,29.3%,70.7%
+Hobgoblin,Thug,29.3%,70.7%
+Kobold,Quasit,29.3%,70.7%
+Deva,Green Hag,70.8%,29.2%
+Drow,Druid,70.8%,29.2%
+Ghoul,Shadow,70.8%,29.2%
+Harpy,Swarm of Ravens,70.8%,29.2%
+Nightmare,Ogre Zombie,70.8%,29.2%
+Rakshasa,Vrock,70.8%,29.2%
+Satyr,Swarm of Ravens,70.8%,29.2%
+Wolf,Zombie,70.8%,29.2%
+Balor,Solar,29.2%,70.8%
+Dryad,Imp,29.2%,70.8%
+Erinyes,Hezrou,29.2%,70.8%
+Ghast,Griffon,29.2%,70.8%
+Giant Wolf Spider,Skeleton,29.2%,70.8%
+Mummy,Silver Dragon Wyrmling,29.2%,70.8%
+Adult White Dragon,Stone Golem,70.9%,29.1%
+Ape,Hobgoblin,70.9%,29.1%
+Bandit,Pseudodragon,70.9%,29.1%
+Basilisk,Centaur,70.9%,29.1%
+Bearded Devil,Tiger,70.9%,29.1%
+Djinni,Young White Dragon,70.9%,29.1%
+Flying Sword,Giant Poisonous Snake,70.9%,29.1%
+Hezrou,Mummy Lord,70.9%,29.1%
+Invisible Stalker,Plesiosaurus,70.9%,29.1%
+Adult Gold Dragon,Balor,29.1%,70.9%
+Adult Red Dragon,Balor,29.1%,70.9%
+Air Elemental,Night Hag,29.1%,70.9%
+Bronze Dragon Wyrmling,Sea Hag,29.1%,70.9%
+Cockatrice,Swarm of Bats,29.1%,70.9%
+Darkmantle,Warhorse,29.1%,70.9%
+Giant Centipede,Mule,29.1%,70.9%
+Giant Eagle,Giant Toad,29.1%,70.9%
+Giant Hyena,Sea Hag,29.1%,70.9%
+Gibbering Mouther,Troll,29.1%,70.9%
+Wight,Will-o'-Wisp,29.1%,70.9%
+Bulette,Giant Shark,71.0%,29.0%
+Giant Poisonous Snake,Magmin,71.0%,29.0%
+Giant Scorpion,White Dragon Wyrmling,71.0%,29.0%
+Ogre,"Wereboar, Human Form",71.0%,29.0%
+Black Bear,Shadow,29.0%,71.0%
+Cult Fanatic,Ghoul,29.0%,71.0%
+Draft Horse,Grick,29.0%,71.0%
+Flesh Golem,Oni,29.0%,71.0%
+Nalfeshnee,Remorhaz,29.0%,71.0%
+"Werewolf, Human Form",Will-o'-Wisp,29.0%,71.0%
+Chain Devil,Vrock,71.1%,28.9%
+Couatl,Wraith,71.1%,28.9%
+Giant Frog,Goblin,71.1%,28.9%
+Giant Octopus,Swarm of Quippers,71.1%,28.9%
+Goblin,Steam Mephit,71.1%,28.9%
+Half-Red Dragon Veteran,Pegasus,71.1%,28.9%
+Bandit,Wolf,28.9%,71.1%
+Bandit Captain,"Wereboar, Human Form",28.9%,71.1%
+Basilisk,Blue Dragon Wyrmling,28.9%,71.1%
+Giant Crocodile,Gynosphinx,28.9%,71.1%
+Reef Shark,Specter,28.9%,71.1%
+Sea Hag,Vampire Spawn,28.9%,71.1%
+Tribal Warrior,Wolf,28.9%,71.1%
+Aboleth,Hydra,71.2%,28.8%
+Archmage,Hell Hound,71.2%,28.8%
+Bandit,Mule,71.2%,28.8%
+Cat,Sprite,28.8%,71.2%
+Death Dog,Worg,28.8%,71.2%
+Djinni,Lich,71.2%,28.8%
+Dretch,Elk,28.8%,71.2%
+Dryad,Pseudodragon,71.2%,28.8%
+Giant Goat,Hobgoblin,71.2%,28.8%
+Giant Vulture,"Wererat, Human Form",28.8%,71.2%
+Gray Ooze,Priest,28.8%,71.2%
+Knight,Minotaur Skeleton,28.8%,71.2%
+Lemure,Pseudodragon,28.8%,71.2%
+Quasit,Zombie,28.8%,71.2%
+Spy,Warhorse,28.8%,71.2%
+Swarm of Beetles,Swarm of Ravens,71.2%,28.8%
+Swarm of Centipedes,Swarm of Ravens,71.2%,28.8%
+Swarm of Insects,Swarm of Ravens,71.2%,28.8%
+Bandit Captain,Polar Bear,71.3%,28.7%
+Elk,Magma Mephit,71.3%,28.7%
+Frost Giant,Marilith,71.3%,28.7%
+Giant Octopus,Giant Scorpion,71.3%,28.7%
+Hobgoblin,Magmin,71.3%,28.7%
+Mammoth,Young Bronze Dragon,71.3%,28.7%
+Bandit,Gray Ooze,28.7%,71.3%
+Bandit,Zombie,28.7%,71.3%
+Blood Hawk,Imp,28.7%,71.3%
+Bronze Dragon Wyrmling,Hunter Shark,28.7%,71.3%
+Dretch,Giant Sea Horse,28.7%,71.3%
+Giant Crab,Swarm of Rats,28.7%,71.3%
+Giant Poisonous Snake,Rust Monster,28.7%,71.3%
+Giant Rat,Imp,28.7%,71.3%
+Giant Rat (Diseased),Imp,28.7%,71.3%
+Medusa,Spirit Naga,28.7%,71.3%
+Tribal Warrior,Zombie,28.7%,71.3%
+Half-Red Dragon Veteran,Rhinoceros,71.4%,28.6%
+Hobgoblin,Panther,71.4%,28.6%
+Deer,Mastiff,28.6%,71.4%
+Elephant,Night Hag,28.6%,71.4%
+Gelatinous Cube,Vampire Spawn,28.6%,71.4%
+Giant Owl,Mage,28.6%,71.4%
+Goblin,Priest,28.6%,71.4%
+Grimlock,Priest,28.6%,71.4%
+Killer Whale,Shield Guardian,28.6%,71.4%
+"Weretiger, Human Form",Winter Wolf,28.6%,71.4%
+Adult Green Dragon,Adult White Dragon,71.5%,28.5%
+Brown Bear,Copper Dragon Wyrmling,71.5%,28.5%
+Giant Bat,Swarm of Bats,71.5%,28.5%
+Giant Weasel,Violet Fungus,71.5%,28.5%
+Gibbering Mouther,"Wereboar, Human Form",71.5%,28.5%
+Lizardfolk,Swarm of Bats,71.5%,28.5%
+Merfolk,Stirge,71.5%,28.5%
+Swarm of Poisonous Snakes,Wight,71.5%,28.5%
+Swarm of Quippers,"Werewolf, Hybrid Form",71.5%,28.5%
+Swarm of Quippers,"Werewolf, Wolf Form",71.5%,28.5%
+Bandit,Magma Mephit,28.5%,71.5%
+Basilisk,Pegasus,28.5%,71.5%
+Black Bear,Crocodile,28.5%,71.5%
+Bone Devil,Earth Elemental,28.5%,71.5%
+Constrictor Snake,Cult Fanatic,28.5%,71.5%
+Giant Eagle,Warhorse Skeleton,28.5%,71.5%
+Giant Fire Beetle,Mastiff,28.5%,71.5%
+Giant Poisonous Snake,Swarm of Ravens,28.5%,71.5%
+Minotaur,"Vampire, Bat Form",28.5%,71.5%
+Specter,White Dragon Wyrmling,28.5%,71.5%
+Adult Green Dragon,Androsphinx,71.6%,28.4%
+Basilisk,Giant Hyena,71.6%,28.4%
+Black Bear,Constrictor Snake,71.6%,28.4%
+Black Bear,Giant Wasp,71.6%,28.4%
+Black Bear,Panther,71.6%,28.4%
+Dretch,Gray Ooze,28.4%,71.6%
+Dretch,Zombie,28.4%,71.6%
+Horned Devil,Stone Golem,28.4%,71.6%
+Lemure,Merfolk,28.4%,71.6%
+Animated Armor,Phase Spider,71.7%,28.3%
+Archmage,Swarm of Quippers,71.7%,28.3%
+Black Bear,Druid,71.7%,28.3%
+Centaur,Will-o'-Wisp,71.7%,28.3%
+Giant Toad,Will-o'-Wisp,28.3%,71.7%
+Gibbering Mouther,Manticore,71.7%,28.3%
+Gold Dragon Wyrmling,Owlbear,71.7%,28.3%
+Mage,Phase Spider,28.3%,71.7%
+Nalfeshnee,Planetar,71.7%,28.3%
+Air Elemental,Otyugh,71.8%,28.2%
+Basilisk,Hell Hound,71.8%,28.2%
+Draft Horse,Flying Sword,71.8%,28.2%
+Draft Horse,Spy,71.8%,28.2%
+Erinyes,"Werebear, Bear Form",71.8%,28.2%
+Erinyes,"Werebear, Hybrid Form",71.8%,28.2%
+Frost Giant,Young Blue Dragon,71.8%,28.2%
+Gibbering Mouther,Hunter Shark,71.8%,28.2%
+Green Dragon Wyrmling,Swarm of Poisonous Snakes,71.8%,28.2%
+Priest,Sahuagin,71.8%,28.2%
+Red Dragon Wyrmling,"Weretiger, Hybrid Form",71.8%,28.2%
+Red Dragon Wyrmling,"Weretiger, Tiger Form",71.8%,28.2%
+Animated Armor,Bronze Dragon Wyrmling,28.2%,71.8%
+Brown Bear,Swarm of Quippers,28.2%,71.8%
+Fire Elemental,Lamia,28.2%,71.8%
+Flying Sword,Mage,28.2%,71.8%
+Giant Scorpion,Mummy,28.2%,71.8%
+Hunter Shark,Unicorn,28.2%,71.8%
+Merrow,Saber-Toothed Tiger,28.2%,71.8%
+Assassin,Sea Hag,71.9%,28.1%
+Azer,Tiger,71.9%,28.1%
+Dust Mephit,Ice Mephit,71.9%,28.1%
+Giant Badger,Steam Mephit,71.9%,28.1%
+Giant Goat,Giant Lizard,71.9%,28.1%
+Giant Scorpion,Swarm of Poisonous Snakes,71.9%,28.1%
+Giant Sea Horse,Goblin,71.9%,28.1%
+Basilisk,Silver Dragon Wyrmling,28.1%,71.9%
+Bat,Crab,28.1%,71.9%
+Deep Gnome (Svirfneblin),Lion,28.1%,71.9%
+Dire Wolf,Sea Hag,28.1%,71.9%
+Drider,Vampire Spawn,28.1%,71.9%
+Elk,Giant Lizard,28.1%,71.9%
+Giant Crocodile,Lich,28.1%,71.9%
+Magmin,Shadow,28.1%,71.9%
+Satyr,Worg,28.1%,71.9%
+Axe Beak,Thug,28.0%,72.0%
+Darkmantle,Harpy,28.0%,72.0%
+Giant Bat,"Wererat, Human Form",28.0%,72.0%
+Goblin,Hobgoblin,28.0%,72.0%
+Gray Ooze,Hobgoblin,28.0%,72.0%
+Lizardfolk,"Wererat, Human Form",28.0%,72.0%
+Mammoth,Young Silver Dragon,28.0%,72.0%
+Oni,Xorn,28.0%,72.0%
+Swarm of Bats,Swarm of Ravens,28.0%,72.0%
+Adult White Dragon,Tyrannosaurus Rex,72.0%,28.0%
+Ankheg,Black Dragon Wyrmling,72.0%,28.0%
+Basilisk,Polar Bear,72.0%,28.0%
+Dryad,Mule,72.0%,28.0%
+Earth Elemental,Young Brass Dragon,72.0%,28.0%
+Green Dragon Wyrmling,"Werewolf, Hybrid Form",72.0%,28.0%
+Green Dragon Wyrmling,"Werewolf, Wolf Form",72.0%,28.0%
+Rhinoceros,Saber-Toothed Tiger,72.0%,28.0%
+Cult Fanatic,Priest,72.1%,27.9%
+Ghast,Swarm of Poisonous Snakes,72.1%,27.9%
+Grimlock,Violet Fungus,72.1%,27.9%
+Half-Red Dragon Veteran,"Wereboar, Boar Form",72.1%,27.9%
+Half-Red Dragon Veteran,"Wereboar, Hybrid Form",72.1%,27.9%
+Hippogriff,Lizardfolk,72.1%,27.9%
+Hobgoblin,Imp,72.1%,27.9%
+Marilith,Roper,72.1%,27.9%
+Otyugh,Wyvern,72.1%,27.9%
+Bandit,Giant Sea Horse,27.9%,72.1%
+Brown Bear,"Werewolf, Hybrid Form",27.9%,72.1%
+Brown Bear,"Werewolf, Wolf Form",27.9%,72.1%
+Cult Fanatic,Hippogriff,27.9%,72.1%
+Gargoyle,Mimic,27.9%,72.1%
+Green Hag,"Werebear, Bear Form",27.9%,72.1%
+Green Hag,"Werebear, Hybrid Form",27.9%,72.1%
+Harpy,Phase Spider,27.9%,72.1%
+Magma Mephit,Priest,27.9%,72.1%
+Merrow,Sea Hag,27.9%,72.1%
+Azer,Basilisk,27.8%,72.2%
+Barbed Devil,Minotaur Skeleton,27.8%,72.2%
+Bugbear,Succubus/Incubus,27.8%,72.2%
+Ettercap,Swarm of Quippers,27.8%,72.2%
+Griffon,Pegasus,27.8%,72.2%
+Hippogriff,Phase Spider,27.8%,72.2%
+Hunter Shark,Spirit Naga,27.8%,72.2%
+Magmin,Orc,27.8%,72.2%
+Berserker,Giant Elk,72.2%,27.8%
+Giant Eagle,Rust Monster,72.2%,27.8%
+Mage,Orc,72.2%,27.8%
+Ancient Blue Dragon,Ancient Bronze Dragon,72.3%,27.7%
+Animated Armor,Giant Spider,72.3%,27.7%
+Archmage,Dire Wolf,72.3%,27.7%
+Bandit Captain,Berserker,27.7%,72.3%
+Black Bear,Giant Bat,27.7%,72.3%
+Black Bear,Lizardfolk,27.7%,72.3%
+Black Dragon Wyrmling,Worg,72.3%,27.7%
+Bronze Dragon Wyrmling,"Werewolf, Hybrid Form",72.3%,27.7%
+Bronze Dragon Wyrmling,"Werewolf, Wolf Form",72.3%,27.7%
+Chimera,Wyvern,72.3%,27.7%
+Cult Fanatic,Spy,27.7%,72.3%
+Drow,Giant Crab,72.3%,27.7%
+Drow,Orc,27.7%,72.3%
+Druid,Goblin,72.3%,27.7%
+Ghoul,Giant Lizard,72.3%,27.7%
+Giant Owl,Swarm of Bats,72.3%,27.7%
+Giant Spider,Will-o'-Wisp,27.7%,72.3%
+Gibbering Mouther,Rhinoceros,72.3%,27.7%
+Green Hag,"Werebear, Human Form",72.3%,27.7%
+Lizard,Quipper,72.3%,27.7%
+Lizard,Weasel,72.3%,27.7%
+Androsphinx,Stone Golem,72.4%,27.6%
+Axe Beak,Scout,72.4%,27.6%
+Black Bear,Sahuagin,72.4%,27.6%
+Brass Dragon Wyrmling,Giant Bat,72.4%,27.6%
+Brass Dragon Wyrmling,Lizardfolk,72.4%,27.6%
+Clay Golem,Giant Crocodile,72.4%,27.6%
+Doppelganger,Giant Boar,72.4%,27.6%
+Gargoyle,Worg,72.4%,27.6%
+Giant Toad,Warhorse,72.4%,27.6%
+Harpy,Hippogriff,72.4%,27.6%
+Hobgoblin,Priest,72.4%,27.6%
+Baboon,Giant Fire Beetle,27.6%,72.4%
+Bandit Captain,Silver Dragon Wyrmling,27.6%,72.4%
+Commoner,Giant Centipede,27.6%,72.4%
+Crab,Poisonous Snake,27.6%,72.4%
+Flying Snake,Hyena,27.6%,72.4%
+Giant Shark,Marilith,27.6%,72.4%
+Green Dragon Wyrmling,Succubus/Incubus,27.6%,72.4%
+Dire Wolf,Hunter Shark,27.5%,72.5%
+Giant Badger,Giant Sea Horse,27.5%,72.5%
+Giant Crocodile,Young Black Dragon,27.5%,72.5%
+Ankheg,Black Pudding,72.5%,27.5%
+Baboon,Sprite,72.5%,27.5%
+Drow,Giant Sea Horse,72.5%,27.5%
+Efreeti,Stone Giant,72.5%,27.5%
+Ettercap,Giant Spider,72.5%,27.5%
+Green Hag,Vrock,72.5%,27.5%
+Grick,Specter,72.5%,27.5%
+Jackal,Sprite,72.5%,27.5%
+Owlbear,Veteran,72.5%,27.5%
+Stone Golem,Young Silver Dragon,72.5%,27.5%
+Chuul,Invisible Stalker,72.6%,27.4%
+Deep Gnome (Svirfneblin),Giant Poisonous Snake,72.6%,27.4%
+Doppelganger,Swarm of Quippers,72.6%,27.4%
+Ghast,Tiger,72.6%,27.4%
+Ghost,Hunter Shark,72.6%,27.4%
+Bone Devil,Young White Dragon,27.4%,72.6%
+Chain Devil,Deva,27.4%,72.6%
+Dretch,Skeleton,27.4%,72.6%
+Giant Boar,Saber-Toothed Tiger,27.4%,72.6%
+Giant Lizard,Swarm of Beetles,27.4%,72.6%
+Giant Lizard,Swarm of Centipedes,27.4%,72.6%
+Giant Lizard,Swarm of Insects,27.4%,72.6%
+Giant Lizard,Swarm of Spiders,27.4%,72.6%
+Giant Lizard,Swarm of Wasps,27.4%,72.6%
+Magma Mephit,Scout,27.4%,72.6%
+Manticore,Owlbear,27.4%,72.6%
+"Werewolf, Human Form","Werewolf, Hybrid Form",27.4%,72.6%
+"Werewolf, Human Form","Werewolf, Wolf Form",27.4%,72.6%
+Animated Armor,Dire Wolf,27.3%,72.7%
+Bearded Devil,Giant Octopus,27.3%,72.7%
+Bugbear,Sea Hag,27.3%,72.7%
+Giant Badger,Wolf,27.3%,72.7%
+Giant Hyena,Manticore,27.3%,72.7%
+Gibbering Mouther,Knight,27.3%,72.7%
+Half-Red Dragon Veteran,Plesiosaurus,27.3%,72.7%
+Knight,Red Dragon Wyrmling,27.3%,72.7%
+Silver Dragon Wyrmling,Winter Wolf,27.3%,72.7%
+Stirge,Tribal Warrior,27.3%,72.7%
+Giant Spider,Satyr,72.7%,27.3%
+Hunter Shark,Mummy,72.7%,27.3%
+Mage,Thug,72.7%,27.3%
+Pegasus,Sea Hag,72.7%,27.3%
+Ankheg,Ghost,27.2%,72.8%
+Assassin,Unicorn,27.2%,72.8%
+Basilisk,Mimic,72.8%,27.2%
+Black Bear,Noble,72.8%,27.2%
+Brass Dragon Wyrmling,Gnoll,72.8%,27.2%
+Bronze Dragon Wyrmling,Manticore,27.2%,72.8%
+Constrictor Snake,Grimlock,72.8%,27.2%
+Doppelganger,Veteran,27.2%,72.8%
+Druid,Grimlock,72.8%,27.2%
+Duergar,Swarm of Poisonous Snakes,27.2%,72.8%
+Giant Crab,Swarm of Bats,27.2%,72.8%
+Giant Wasp,Grimlock,72.8%,27.2%
+Half-Red Dragon Veteran,Medusa,72.8%,27.2%
+Magmin,Reef Shark,27.2%,72.8%
+Satyr,Thug,72.8%,27.2%
+Satyr,Warhorse Skeleton,27.2%,72.8%
+Aboleth,Young Brass Dragon,72.9%,27.1%
+Assassin,Giant Elk,72.9%,27.1%
+Centaur,Ghast,72.9%,27.1%
+Deva,Wraith,72.9%,27.1%
+Ghost,Sea Hag,72.9%,27.1%
+Giant Poisonous Snake,Riding Horse,72.9%,27.1%
+Giant Vulture,Swarm of Bats,72.9%,27.1%
+Nalfeshnee,Purple Worm,72.9%,27.1%
+Air Elemental,Giant Crocodile,27.1%,72.9%
+Barbed Devil,Fire Elemental,27.1%,72.9%
+Basilisk,Berserker,27.1%,72.9%
+Bulette,Horned Devil,27.1%,72.9%
+Darkmantle,Lion,27.1%,72.9%
+Deva,"Werebear, Bear Form",27.1%,72.9%
+Deva,"Werebear, Hybrid Form",27.1%,72.9%
+Dire Wolf,Manticore,27.1%,72.9%
+Guardian Naga,Shield Guardian,27.1%,72.9%
+Red Dragon Wyrmling,Wraith,27.1%,72.9%
+"Vampire, Bat Form","Werebear, Bear Form",27.1%,72.9%
+"Vampire, Bat Form","Werebear, Hybrid Form",27.1%,72.9%
+"Werebear, Bear Form",Young Brass Dragon,27.1%,72.9%
+"Werebear, Hybrid Form",Young Brass Dragon,27.1%,72.9%
+Blink Dog,Guard,73.0%,27.0%
+Blue Dragon Wyrmling,Succubus/Incubus,73.0%,27.0%
+Boar,Constrictor Snake,27.0%,73.0%
+Boar,Giant Rat,73.0%,27.0%
+Boar,Giant Rat (Diseased),73.0%,27.0%
+Boar,Giant Wasp,27.0%,73.0%
+Boar,Panther,27.0%,73.0%
+Centaur,Rhinoceros,27.0%,73.0%
+Chain Devil,Killer Whale,27.0%,73.0%
+Copper Dragon Wyrmling,Orc,73.0%,27.0%
+Drider,Griffon,73.0%,27.0%
+Gargoyle,Merrow,27.0%,73.0%
+Gelatinous Cube,Griffon,73.0%,27.0%
+Giant Lizard,"Wererat, Human Form",27.0%,73.0%
+Killer Whale,Mummy Lord,27.0%,73.0%
+Lion,Wight,27.0%,73.0%
+Shield Guardian,Triceratops,27.0%,73.0%
+Air Elemental,Green Hag,73.1%,26.9%
+Black Dragon Wyrmling,Ettercap,73.1%,26.9%
+Ettin,Red Dragon Wyrmling,73.1%,26.9%
+Green Dragon Wyrmling,White Dragon Wyrmling,73.1%,26.9%
+Owlbear,Rhinoceros,73.1%,26.9%
+Blink Dog,Orc,26.9%,73.1%
+Boar,Ice Mephit,26.9%,73.1%
+Brass Dragon Wyrmling,Worg,26.9%,73.1%
+Constrictor Snake,Swarm of Bats,26.9%,73.1%
+Copper Dragon Wyrmling,Swarm of Poisonous Snakes,26.9%,73.1%
+Eagle,Merfolk,26.9%,73.1%
+Giant Wasp,Swarm of Bats,26.9%,73.1%
+Hell Hound,Sea Hag,26.9%,73.1%
+Hill Giant,Lich,26.9%,73.1%
+Mummy,"Wereboar, Human Form",26.9%,73.1%
+Panther,Swarm of Bats,26.9%,73.1%
+Black Bear,Giant Owl,26.8%,73.2%
+Black Bear,Giant Vulture,26.8%,73.2%
+Clay Golem,Djinni,26.8%,73.2%
+Ghoul,Phase Spider,26.8%,73.2%
+Giant Badger,Gray Ooze,26.8%,73.2%
+Giant Badger,Zombie,26.8%,73.2%
+Goblin,Scout,26.8%,73.2%
+Guardian Naga,Hill Giant,26.8%,73.2%
+Shambling Mound,Triceratops,26.8%,73.2%
+"Vampire, Vampire Form",Young Brass Dragon,26.8%,73.2%
+Fire Elemental,Nightmare,73.2%,26.8%
+Giant Boar,"Werewolf, Hybrid Form",73.2%,26.8%
+Giant Boar,"Werewolf, Wolf Form",73.2%,26.8%
+Hydra,Night Hag,73.2%,26.8%
+Riding Horse,Skeleton,73.2%,26.8%
+Spy,Swarm of Rats,73.2%,26.8%
+Air Elemental,Chimera,73.3%,26.7%
+Ape,Swarm of Bats,73.3%,26.7%
+Basilisk,Dire Wolf,73.3%,26.7%
+Black Bear,Flying Sword,26.7%,73.3%
+Bone Devil,"Vampire, Vampire Form",73.3%,26.7%
+Camel,Giant Badger,26.7%,73.3%
+Chimera,Oni,73.3%,26.7%
+Cloaker,Unicorn,73.3%,26.7%
+Copper Dragon Wyrmling,Will-o'-Wisp,26.7%,73.3%
+Dretch,Pseudodragon,73.3%,26.7%
+Dretch,Wolf,26.7%,73.3%
+Efreeti,Glabrezu,73.3%,26.7%
+Gibbering Mouther,Half-Red Dragon Veteran,26.7%,73.3%
+Green Dragon Wyrmling,Sea Hag,26.7%,73.3%
+Hydra,Lich,26.7%,73.3%
+Knight,Rhinoceros,73.3%,26.7%
+Manticore,Vampire Spawn,26.7%,73.3%
+Mimic,Succubus/Incubus,26.7%,73.3%
+Ochre Jelly,Phase Spider,73.3%,26.7%
+Roper,Young Green Dragon,73.3%,26.7%
+Specter,"Wererat, Human Form",73.3%,26.7%
+Awakened Tree,Invisible Stalker,26.6%,73.4%
+Bandit,Elk,26.6%,73.4%
+Bandit Captain,Pegasus,26.6%,73.4%
+Bugbear,Saber-Toothed Tiger,26.6%,73.4%
+Cultist,Guard,26.6%,73.4%
+Ghost,Nightmare,26.6%,73.4%
+Giant Boar,Succubus/Incubus,26.6%,73.4%
+Gladiator,Night Hag,26.6%,73.4%
+Bulette,Young Green Dragon,73.4%,26.6%
+Ghost,Manticore,73.4%,26.6%
+Giant Badger,Pseudodragon,73.4%,26.6%
+Adult Green Dragon,Purple Worm,26.5%,73.5%
+Archmage,Giant Boar,73.5%,26.5%
+Blink Dog,Giant Crab,73.5%,26.5%
+Brown Bear,Specter,73.5%,26.5%
+Darkmantle,Hobgoblin,73.5%,26.5%
+Elephant,Minotaur,73.5%,26.5%
+Giant Wolf Spider,Riding Horse,26.5%,73.5%
+Hill Giant,Young White Dragon,26.5%,73.5%
+Mule,Pony,26.5%,73.5%
+Riding Horse,Swarm of Ravens,26.5%,73.5%
+Stirge,Violet Fungus,26.5%,73.5%
+Swarm of Quippers,White Dragon Wyrmling,73.5%,26.5%
+Bronze Dragon Wyrmling,Gargoyle,73.6%,26.4%
+Death Dog,Orc,73.6%,26.4%
+Dire Wolf,"Werewolf, Hybrid Form",73.6%,26.4%
+Dire Wolf,"Werewolf, Wolf Form",73.6%,26.4%
+Green Hag,Lamia,73.6%,26.4%
+Spirit Naga,Vampire Spawn,73.6%,26.4%
+Adult Copper Dragon,Adult Green Dragon,26.4%,73.6%
+Basilisk,Giant Constrictor Snake,26.4%,73.6%
+Black Bear,Gnoll,26.4%,73.6%
+Brass Dragon Wyrmling,Warhorse Skeleton,26.4%,73.6%
+Hawk,Sprite,26.4%,73.6%
+Polar Bear,Veteran,26.4%,73.6%
+Quipper,Sprite,26.4%,73.6%
+"Wereboar, Boar Form",Winter Wolf,26.4%,73.6%
+"Wereboar, Hybrid Form",Winter Wolf,26.4%,73.6%
+Adult Gold Dragon,Kraken,26.3%,73.7%
+Adult Red Dragon,Kraken,26.3%,73.7%
+Badger,Jackal,26.3%,73.7%
+Bone Devil,Triceratops,26.3%,73.7%
+Chain Devil,Water Elemental,26.3%,73.7%
+Elk,Swarm of Rats,26.3%,73.7%
+Gelatinous Cube,Unicorn,26.3%,73.7%
+Giant Octopus,Rhinoceros,26.3%,73.7%
+Bat,Rat,73.7%,26.3%
+Behir,Young Gold Dragon,73.7%,26.3%
+Behir,Young Red Dragon,73.7%,26.3%
+Cockatrice,Noble,73.7%,26.3%
+Constrictor Snake,Goblin,73.7%,26.3%
+Flesh Golem,Nightmare,73.7%,26.3%
+Flesh Golem,"Weretiger, Hybrid Form",73.7%,26.3%
+Flesh Golem,"Weretiger, Tiger Form",73.7%,26.3%
+Giant Constrictor Snake,Sea Hag,73.7%,26.3%
+Giant Goat,Swarm of Rats,73.7%,26.3%
+Giant Wasp,Goblin,73.7%,26.3%
+Harpy,Thug,73.7%,26.3%
+Noble,Quasit,73.7%,26.3%
+Adult Bronze Dragon,Nalfeshnee,26.2%,73.8%
+Ankheg,Bearded Devil,73.8%,26.2%
+Awakened Shrub,Giant Centipede,26.2%,73.8%
+Bandit Captain,Giant Hyena,73.8%,26.2%
+Black Pudding,"Werewolf, Hybrid Form",73.8%,26.2%
+Black Pudding,"Werewolf, Wolf Form",73.8%,26.2%
+Bronze Dragon Wyrmling,Swarm of Poisonous Snakes,73.8%,26.2%
+Cockatrice,Gray Ooze,73.8%,26.2%
+Cockatrice,Zombie,73.8%,26.2%
+Darkmantle,Mage,26.2%,73.8%
+Eagle,Vulture,73.8%,26.2%
+Elephant,Giant Crocodile,26.2%,73.8%
+Ghast,Hunter Shark,26.2%,73.8%
+Giant Elk,Giant Octopus,73.8%,26.2%
+Gladiator,Wraith,73.8%,26.2%
+Killer Whale,Young Brass Dragon,26.2%,73.8%
+Lion,Swarm of Ravens,73.8%,26.2%
+Medusa,Unicorn,26.2%,73.8%
+Specter,Will-o'-Wisp,26.2%,73.8%
+Swarm of Bats,Wolf,73.8%,26.2%
+Ankheg,Gibbering Mouther,26.1%,73.9%
+Azer,Doppelganger,26.1%,73.9%
+Boar,Giant Frog,26.1%,73.9%
+Cult Fanatic,Draft Horse,26.1%,73.9%
+Giant Eagle,Worg,26.1%,73.9%
+Hunter Shark,"Weretiger, Human Form",26.1%,73.9%
+Cockatrice,Imp,73.9%,26.1%
+Efreeti,Ice Devil,73.9%,26.1%
+Giant Eagle,Hippogriff,73.9%,26.1%
+Giant Poisonous Snake,Skeleton,73.9%,26.1%
+Half-Red Dragon Veteran,Veteran,73.9%,26.1%
+Plesiosaurus,Winter Wolf,73.9%,26.1%
+Blood Hawk,Grimlock,26.0%,74.0%
+Bulette,Tyrannosaurus Rex,26.0%,74.0%
+Crab,Hawk,74.0%,26.0%
+Crab,Quipper,74.0%,26.0%
+Crab,Weasel,74.0%,26.0%
+Darkmantle,Specter,26.0%,74.0%
+Deep Gnome (Svirfneblin),Drow,74.0%,26.0%
+Duergar,Orc,74.0%,26.0%
+Dust Mephit,Pony,74.0%,26.0%
+Dust Mephit,Swarm of Rats,26.0%,74.0%
+Elk,Shadow,26.0%,74.0%
+Giant Bat,Giant Eagle,26.0%,74.0%
+Giant Rat,Grimlock,26.0%,74.0%
+Giant Rat (Diseased),Grimlock,26.0%,74.0%
+Giant Spider,Mage,74.0%,26.0%
+Lamia,Minotaur Skeleton,74.0%,26.0%
+Young Bronze Dragon,Young Green Dragon,74.0%,26.0%
+Adult Black Dragon,Adult Copper Dragon,74.1%,25.9%
+Adult Gold Dragon,Nalfeshnee,74.1%,25.9%
+Adult Red Dragon,Nalfeshnee,74.1%,25.9%
+Air Elemental,Wraith,74.1%,25.9%
+Gelatinous Cube,Will-o'-Wisp,74.1%,25.9%
+Giant Weasel,Tribal Warrior,74.1%,25.9%
+Kraken,Storm Giant,74.1%,25.9%
+Ape,Satyr,25.9%,74.1%
+Boar,Giant Crab,25.9%,74.1%
+Drow,Hippogriff,25.9%,74.1%
+Giant Sea Horse,Swarm of Bats,25.9%,74.1%
+Quasit,Skeleton,25.9%,74.1%
+Young Black Dragon,Young Bronze Dragon,25.9%,74.1%
+Hell Hound,Saber-Toothed Tiger,25.8%,74.2%
+Plesiosaurus,"Werebear, Human Form",25.8%,74.2%
+Riding Horse,Spy,25.8%,74.2%
+Triceratops,Young Bronze Dragon,25.8%,74.2%
+Assassin,Manticore,74.2%,25.8%
+Basilisk,Will-o'-Wisp,74.2%,25.8%
+Couatl,Minotaur,74.2%,25.8%
+Drow,Giant Frog,74.2%,25.8%
+Elephant,Wraith,74.2%,25.8%
+Giant Badger,Mule,74.2%,25.8%
+Giant Centipede,Hyena,74.2%,25.8%
+Guard,Tribal Warrior,74.2%,25.8%
+Guardian Naga,Xorn,74.2%,25.8%
+Mage,Rust Monster,74.2%,25.8%
+Marilith,Treant,74.2%,25.8%
+Marilith,Young Bronze Dragon,74.2%,25.8%
+Assassin,Saber-Toothed Tiger,74.3%,25.7%
+Axe Beak,Priest,74.3%,25.7%
+Bone Devil,"Werebear, Bear Form",74.3%,25.7%
+Bone Devil,"Werebear, Hybrid Form",74.3%,25.7%
+Death Dog,"Wererat, Human Form",74.3%,25.7%
+Giant Wolf Spider,Pseudodragon,74.3%,25.7%
+Otyugh,Salamander,74.3%,25.7%
+Otyugh,Vrock,74.3%,25.7%
+Pegasus,Saber-Toothed Tiger,74.3%,25.7%
+Barbed Devil,Flesh Golem,25.7%,74.3%
+Blink Dog,Hippogriff,25.7%,74.3%
+Bugbear,Hunter Shark,25.7%,74.3%
+Camel,Giant Wolf Spider,25.7%,74.3%
+Crocodile,Death Dog,25.7%,74.3%
+Cultist,Magmin,25.7%,74.3%
+Earth Elemental,Roper,25.7%,74.3%
+Elk,Flying Sword,25.7%,74.3%
+Giant Badger,Skeleton,25.7%,74.3%
+Giant Sea Horse,Swarm of Rats,25.7%,74.3%
+Adult Silver Dragon,Remorhaz,25.6%,74.4%
+Balor,Pit Fiend,25.6%,74.4%
+Blink Dog,Giant Goat,25.6%,74.4%
+Crab,Sprite,25.6%,74.4%
+Cult Fanatic,Rust Monster,25.6%,74.4%
+Drow,Spy,25.6%,74.4%
+Guardian Naga,Young Brass Dragon,25.6%,74.4%
+Hell Hound,Hunter Shark,25.6%,74.4%
+Imp,Swarm of Bats,25.6%,74.4%
+Assassin,Gelatinous Cube,74.4%,25.6%
+Awakened Tree,Unicorn,74.4%,25.6%
+Blink Dog,Elk,74.4%,25.6%
+Crocodile,Giant Poisonous Snake,74.4%,25.6%
+Dire Wolf,Gargoyle,74.4%,25.6%
+Draft Horse,Giant Owl,74.4%,25.6%
+Drider,Gelatinous Cube,74.4%,25.6%
+Drow,Sahuagin,74.4%,25.6%
+Giant Goat,Giant Vulture,74.4%,25.6%
+Gold Dragon Wyrmling,Ogre,74.4%,25.6%
+Gorgon,Young Green Dragon,74.4%,25.6%
+Hawk,Quipper,74.4%,25.6%
+Hawk,Weasel,74.4%,25.6%
+Polar Bear,Will-o'-Wisp,74.4%,25.6%
+Quipper,Weasel,74.4%,25.6%
+Raven,Spider,74.4%,25.6%
+Bandit Captain,Giant Constrictor Snake,25.5%,74.5%
+Black Dragon Wyrmling,Ochre Jelly,74.5%,25.5%
+Boar,Wolf,25.5%,74.5%
+Drow,Giant Goat,25.5%,74.5%
+Giant Elk,Half-Red Dragon Veteran,25.5%,74.5%
+Gnoll,"Wererat, Human Form",25.5%,74.5%
+Grick,Warhorse,74.5%,25.5%
+Griffon,"Wereboar, Human Form",25.5%,74.5%
+Lion,Orc,74.5%,25.5%
+Phase Spider,Will-o'-Wisp,25.5%,74.5%
+Pony,Swarm of Bats,25.5%,74.5%
+"Werebear, Human Form",Xorn,25.5%,74.5%
+Crocodile,Cult Fanatic,74.6%,25.4%
+Death Dog,Ghoul,74.6%,25.4%
+Deep Gnome (Svirfneblin),Scout,74.6%,25.4%
+Drow,Guard,74.6%,25.4%
+Drow,Noble,74.6%,25.4%
+Ghoul,Giant Vulture,74.6%,25.4%
+Hell Hound,"Werewolf, Hybrid Form",74.6%,25.4%
+Hell Hound,"Werewolf, Wolf Form",74.6%,25.4%
+Minotaur Skeleton,"Weretiger, Hybrid Form",74.6%,25.4%
+Minotaur Skeleton,"Weretiger, Tiger Form",74.6%,25.4%
+Phase Spider,Swarm of Beetles,74.6%,25.4%
+Phase Spider,Swarm of Centipedes,74.6%,25.4%
+Phase Spider,Swarm of Insects,74.6%,25.4%
+Phase Spider,Swarm of Spiders,74.6%,25.4%
+Phase Spider,Swarm of Wasps,74.6%,25.4%
+Animated Armor,Giant Hyena,25.4%,74.6%
+Bandit,Skeleton,25.4%,74.6%
+Draft Horse,Phase Spider,25.4%,74.6%
+Green Dragon Wyrmling,Saber-Toothed Tiger,25.4%,74.6%
+Swarm of Bats,"Wererat, Hybrid Form",25.4%,74.6%
+Swarm of Bats,"Wererat, Rat Form",25.4%,74.6%
+Black Bear,Reef Shark,25.3%,74.7%
+Blink Dog,Ghoul,25.3%,74.7%
+Giant Elk,Medusa,25.3%,74.7%
+Blink Dog,Cockatrice,74.7%,25.3%
+Ghost,Giant Elk,74.7%,25.3%
+Giant Weasel,Quasit,74.7%,25.3%
+Orc,Swarm of Rats,74.7%,25.3%
+Adult Green Dragon,Behir,74.8%,25.2%
+Barbed Devil,Spirit Naga,74.8%,25.2%
+Blue Dragon Wyrmling,Griffon,74.8%,25.2%
+Chimera,Lamia,74.8%,25.2%
+Clay Golem,Shield Guardian,74.8%,25.2%
+Doppelganger,Green Dragon Wyrmling,74.8%,25.2%
+Elk,Pony,74.8%,25.2%
+Grick,Lion,74.8%,25.2%
+"Wererat, Human Form","Wererat, Hybrid Form",74.8%,25.2%
+"Wererat, Human Form","Wererat, Rat Form",74.8%,25.2%
+Animated Armor,Black Pudding,25.2%,74.8%
+Bandit,Dust Mephit,25.2%,74.8%
+Djinni,Stone Giant,25.2%,74.8%
+Harpy,Warhorse Skeleton,25.2%,74.8%
+Noble,Swarm of Rats,25.2%,74.8%
+Silver Dragon Wyrmling,Troll,25.2%,74.8%
+Baboon,Vulture,25.1%,74.9%
+Blue Dragon Wyrmling,Ogre Zombie,25.1%,74.9%
+Giant Badger,Sahuagin,25.1%,74.9%
+Jackal,Vulture,25.1%,74.9%
+Lizard,Poisonous Snake,25.1%,74.9%
+Plesiosaurus,Wyvern,25.1%,74.9%
+Polar Bear,Rhinoceros,25.1%,74.9%
+Ape,Cult Fanatic,74.9%,25.1%
+Deva,Minotaur,74.9%,25.1%
+Eagle,Goat,74.9%,25.1%
+Elk,Giant Weasel,74.9%,25.1%
+Giant Bat,Giant Poisonous Snake,74.9%,25.1%
+Giant Constrictor Snake,Manticore,74.9%,25.1%
+Gibbering Mouther,Succubus/Incubus,74.9%,25.1%
+Ogre Zombie,Spirit Naga,74.9%,25.1%
+Aboleth,Mummy Lord,75.0%,25.0%
+Adult Gold Dragon,Adult Silver Dragon,75.0%,25.0%
+Adult Red Dragon,Adult Silver Dragon,75.0%,25.0%
+Archmage,Green Dragon Wyrmling,75.0%,25.0%
+Archmage,Sea Hag,25.0%,75.0%
+Axe Beak,Wolf,75.0%,25.0%
+Djinni,Earth Elemental,75.0%,25.0%
+Doppelganger,Gibbering Mouther,25.0%,75.0%
+Gelatinous Cube,Green Dragon Wyrmling,75.0%,25.0%
+Giant Constrictor Snake,Troll,25.0%,75.0%
+Giant Crab,Giant Lizard,25.0%,75.0%
+Giant Poisonous Snake,Giant Sea Horse,75.0%,25.0%
+Giant Poisonous Snake,Swarm of Beetles,25.0%,75.0%
+Giant Poisonous Snake,Swarm of Centipedes,25.0%,75.0%
+Giant Poisonous Snake,Swarm of Insects,25.0%,75.0%
+Giant Poisonous Snake,Swarm of Spiders,25.0%,75.0%
+Giant Poisonous Snake,Swarm of Wasps,25.0%,75.0%
+Imp,Violet Fungus,75.0%,25.0%
+Shambling Mound,"Werebear, Bear Form",75.0%,25.0%
+Shambling Mound,"Werebear, Hybrid Form",75.0%,25.0%
+Spirit Naga,"Weretiger, Hybrid Form",25.0%,75.0%
+Spirit Naga,"Weretiger, Tiger Form",25.0%,75.0%
+Aboleth,Giant Crocodile,75.1%,24.9%
+Cloaker,Spirit Naga,75.1%,24.9%
+Copper Dragon Wyrmling,Harpy,75.1%,24.9%
+Giant Crab,Giant Wolf Spider,75.1%,24.9%
+Giant Crocodile,"Werebear, Bear Form",75.1%,24.9%
+Giant Crocodile,"Werebear, Hybrid Form",75.1%,24.9%
+Lion,Thug,75.1%,24.9%
+Shambling Mound,"Vampire, Vampire Form",75.1%,24.9%
+Swarm of Rats,Wolf,75.1%,24.9%
+Camel,Violet Fungus,24.9%,75.1%
+Copper Dragon Wyrmling,Ghast,24.9%,75.1%
+Dust Mephit,Giant Lizard,24.9%,75.1%
+Gelatinous Cube,Spirit Naga,24.9%,75.1%
+Giant Fire Beetle,Kobold,24.9%,75.1%
+Giant Poisonous Snake,"Wererat, Hybrid Form",24.9%,75.1%
+Giant Poisonous Snake,"Wererat, Rat Form",24.9%,75.1%
+Green Dragon Wyrmling,Hunter Shark,24.9%,75.1%
+Rhinoceros,Troll,24.9%,75.1%
+Bandit,Sahuagin,24.8%,75.2%
+Black Bear,Giant Goat,24.8%,75.2%
+Bugbear,Gibbering Mouther,24.8%,75.2%
+Cultist,Giant Wasp,24.8%,75.2%
+Cultist,Panther,24.8%,75.2%
+Druid,Hobgoblin,24.8%,75.2%
+Flesh Golem,Lamia,24.8%,75.2%
+Gibbering Mouther,Gold Dragon Wyrmling,24.8%,75.2%
+Kobold,Tribal Warrior,24.8%,75.2%
+Orc,Worg,24.8%,75.2%
+Red Dragon Wyrmling,"Werebear, Human Form",24.8%,75.2%
+Rhinoceros,Winter Wolf,24.8%,75.2%
+Swarm of Rats,"Wererat, Human Form",24.8%,75.2%
+Adult Brass Dragon,Frost Giant,75.2%,24.8%
+Basilisk,Bugbear,75.2%,24.8%
+Black Bear,Giant Frog,75.2%,24.8%
+Brass Dragon Wyrmling,Giant Lizard,75.2%,24.8%
+Cockatrice,Pony,75.2%,24.8%
+Fire Elemental,"Weretiger, Hybrid Form",75.2%,24.8%
+Fire Elemental,"Weretiger, Tiger Form",75.2%,24.8%
+Giant Fire Beetle,Homunculus,75.2%,24.8%
+Giant Sea Horse,Giant Wolf Spider,75.2%,24.8%
+Griffon,Polar Bear,75.2%,24.8%
+Gynosphinx,Young Copper Dragon,75.2%,24.8%
+Knight,Pegasus,75.2%,24.8%
+Lich,Young Copper Dragon,75.2%,24.8%
+Phase Spider,Satyr,75.2%,24.8%
+Bandit Captain,Bronze Dragon Wyrmling,75.3%,24.7%
+Bandit Captain,Hell Hound,75.3%,24.7%
+Basilisk,Swarm of Quippers,75.3%,24.7%
+Blink Dog,Dust Mephit,75.3%,24.7%
+Elk,Ice Mephit,75.3%,24.7%
+Giant Lizard,Scout,75.3%,24.7%
+Giant Wolf Spider,Steam Mephit,75.3%,24.7%
+Grick,Swarm of Beetles,75.3%,24.7%
+Grick,Swarm of Centipedes,75.3%,24.7%
+Grick,Swarm of Insects,75.3%,24.7%
+Grick,Swarm of Spiders,75.3%,24.7%
+Grick,Swarm of Wasps,75.3%,24.7%
+Minotaur Skeleton,Nightmare,75.3%,24.7%
+Adult Blue Dragon,Iron Golem,24.7%,75.3%
+Blue Dragon Wyrmling,Gold Dragon Wyrmling,24.7%,75.3%
+Dretch,Dust Mephit,24.7%,75.3%
+Dretch,Sahuagin,24.7%,75.3%
+Giant Goat,Giant Spider,24.7%,75.3%
+Giant Vulture,Satyr,24.7%,75.3%
+Homunculus,Stirge,24.7%,75.3%
+Kobold,Violet Fungus,24.7%,75.3%
+Polar Bear,Silver Dragon Wyrmling,24.7%,75.3%
+Ape,Lion,24.6%,75.4%
+Bat,Cat,24.6%,75.4%
+Berserker,Gold Dragon Wyrmling,24.6%,75.4%
+Bugbear,Manticore,24.6%,75.4%
+Drider,Ogre,24.6%,75.4%
+Elk,Giant Bat,24.6%,75.4%
+Elk,Lizardfolk,24.6%,75.4%
+Ettercap,Green Dragon Wyrmling,24.6%,75.4%
+Fire Giant,Iron Golem,24.6%,75.4%
+Ghast,Sea Hag,24.6%,75.4%
+Hill Giant,Young Black Dragon,24.6%,75.4%
+Lion,White Dragon Wyrmling,24.6%,75.4%
+Air Elemental,Minotaur,75.4%,24.6%
+Awakened Tree,Spirit Naga,75.4%,24.6%
+Axe Beak,Black Bear,75.4%,24.6%
+Baboon,Poisonous Snake,75.4%,24.6%
+Bandit Captain,Dire Wolf,75.4%,24.6%
+Giant Toad,Lion,75.4%,24.6%
+Gnoll,Scout,75.4%,24.6%
+Guard,Quasit,75.4%,24.6%
+Jackal,Poisonous Snake,75.4%,24.6%
+Shadow,Swarm of Bats,75.4%,24.6%
+"Werewolf, Hybrid Form",Worg,75.4%,24.6%
+"Werewolf, Wolf Form",Worg,75.4%,24.6%
+Bandit Captain,Merrow,75.5%,24.5%
+Basilisk,"Wereboar, Human Form",24.5%,75.5%
+Black Bear,Darkmantle,24.5%,75.5%
+Blood Hawk,Magmin,24.5%,75.5%
+Bugbear,Ettercap,75.5%,24.5%
+Centaur,Gelatinous Cube,24.5%,75.5%
+Copper Dragon Wyrmling,"Wererat, Human Form",75.5%,24.5%
+Cult Fanatic,Wolf,75.5%,24.5%
+Doppelganger,Ghast,75.5%,24.5%
+Flying Sword,Scout,75.5%,24.5%
+Gargoyle,Ochre Jelly,75.5%,24.5%
+Giant Boar,Sea Hag,24.5%,75.5%
+Giant Centipede,Tribal Warrior,24.5%,75.5%
+Giant Centipede,Violet Fungus,24.5%,75.5%
+Giant Rat,Magmin,24.5%,75.5%
+Giant Rat (Diseased),Magmin,24.5%,75.5%
+Griffon,Merrow,75.5%,24.5%
+Hezrou,Shield Guardian,75.5%,24.5%
+Hydra,Young Black Dragon,24.5%,75.5%
+Kraken,Solar,24.5%,75.5%
+Lemure,Stirge,75.5%,24.5%
+Owl,Scorpion,75.5%,24.5%
+Pony,Shadow,24.5%,75.5%
+Unicorn,"Wereboar, Boar Form",75.5%,24.5%
+Unicorn,"Wereboar, Hybrid Form",75.5%,24.5%
+Black Dragon Wyrmling,Brown Bear,75.6%,24.4%
+Doppelganger,Will-o'-Wisp,75.6%,24.4%
+Drow,Pony,75.6%,24.4%
+Giant Ape,Treant,75.6%,24.4%
+Gibbering Mouther,Green Dragon Wyrmling,75.6%,24.4%
+Animated Armor,Ankheg,24.4%,75.6%
+Ankheg,Rhinoceros,24.4%,75.6%
+Baboon,Deer,24.4%,75.6%
+Drider,Half-Red Dragon Veteran,24.4%,75.6%
+Drow,Rust Monster,24.4%,75.6%
+Swarm of Rats,Swarm of Spiders,24.4%,75.6%
+Swarm of Rats,Swarm of Wasps,24.4%,75.6%
+Aboleth,Roper,24.3%,75.7%
+Ape,Specter,24.3%,75.7%
+Azer,Mummy,24.3%,75.7%
+Boar,Gray Ooze,24.3%,75.7%
+Boar,Zombie,24.3%,75.7%
+Cultist,Wolf,24.3%,75.7%
+Deer,Kobold,24.3%,75.7%
+Ghoul,Warhorse Skeleton,24.3%,75.7%
+Giant Vulture,Warhorse,24.3%,75.7%
+Gnoll,Harpy,24.3%,75.7%
+Guard,Swarm of Bats,24.3%,75.7%
+Mimic,Saber-Toothed Tiger,24.3%,75.7%
+Succubus/Incubus,"Wereboar, Boar Form",24.3%,75.7%
+Succubus/Incubus,"Wereboar, Hybrid Form",24.3%,75.7%
+Boar,Merfolk,75.7%,24.3%
+Cat,Hawk,75.7%,24.3%
+Cat,Quipper,75.7%,24.3%
+Cat,Weasel,75.7%,24.3%
+Giant Frog,Giant Wolf Spider,75.7%,24.3%
+Gladiator,Minotaur,75.7%,24.3%
+Gold Dragon Wyrmling,"Weretiger, Human Form",75.7%,24.3%
+Knight,"Wereboar, Boar Form",75.7%,24.3%
+Knight,"Wereboar, Hybrid Form",75.7%,24.3%
+Triceratops,Young Brass Dragon,75.7%,24.3%
+Black Pudding,Gargoyle,75.8%,24.2%
+Blink Dog,Giant Sea Horse,75.8%,24.2%
+Clay Golem,Erinyes,75.8%,24.2%
+Giant Boar,White Dragon Wyrmling,75.8%,24.2%
+Black Dragon Wyrmling,Mummy,24.2%,75.8%
+Blue Dragon Wyrmling,Winter Wolf,24.2%,75.8%
+Camel,Dryad,24.2%,75.8%
+Constrictor Snake,Giant Lizard,24.2%,75.8%
+Dire Wolf,Ghost,24.2%,75.8%
+Duergar,Ghast,24.2%,75.8%
+Ettin,Xorn,24.2%,75.8%
+Ice Mephit,Priest,24.2%,75.8%
+Imp,Swarm of Rats,24.2%,75.8%
+Lamia,Xorn,24.2%,75.8%
+Swarm of Beetles,Wight,24.2%,75.8%
+Swarm of Centipedes,Wight,24.2%,75.8%
+Swarm of Insects,Wight,24.2%,75.8%
+Swarm of Spiders,Wight,24.2%,75.8%
+Swarm of Wasps,Wight,24.2%,75.8%
+Adult Black Dragon,Fire Giant,24.1%,75.9%
+Basilisk,Gibbering Mouther,24.1%,75.9%
+Brown Bear,Green Dragon Wyrmling,24.1%,75.9%
+Cult Fanatic,"Wererat, Hybrid Form",24.1%,75.9%
+Cult Fanatic,"Wererat, Rat Form",24.1%,75.9%
+Erinyes,Triceratops,24.1%,75.9%
+Gargoyle,Polar Bear,24.1%,75.9%
+Ghast,Saber-Toothed Tiger,24.1%,75.9%
+Giant Toad,Swarm of Quippers,24.1%,75.9%
+Red Dragon Wyrmling,Wyvern,24.1%,75.9%
+Basilisk,Giant Scorpion,75.9%,24.1%
+Chuul,Minotaur Skeleton,75.9%,24.1%
+Drow,Imp,75.9%,24.1%
+Eagle,Giant Fire Beetle,75.9%,24.1%
+Grimlock,Quasit,75.9%,24.1%
+Noble,Violet Fungus,75.9%,24.1%
+Warhorse,"Wererat, Human Form",75.9%,24.1%
+Animated Armor,Hell Hound,24.0%,76.0%
+Ape,Harpy,24.0%,76.0%
+Azer,Giant Elk,24.0%,76.0%
+Basilisk,Giant Boar,76.0%,24.0%
+Black Bear,Imp,76.0%,24.0%
+Black Dragon Wyrmling,Gelatinous Cube,24.0%,76.0%
+Boar,Giant Sea Horse,24.0%,76.0%
+Cult Fanatic,Swarm of Ravens,24.0%,76.0%
+Deep Gnome (Svirfneblin),Riding Horse,76.0%,24.0%
+Doppelganger,Rhinoceros,24.0%,76.0%
+Erinyes,"Vampire, Vampire Form",76.0%,24.0%
+Gnoll,Satyr,24.0%,76.0%
+Hippogriff,Swarm of Rats,76.0%,24.0%
+Marilith,Young Silver Dragon,24.0%,76.0%
+Red Dragon Wyrmling,Winter Wolf,76.0%,24.0%
+Scout,Spy,24.0%,76.0%
+Swarm of Rats,Warhorse,24.0%,76.0%
+Violet Fungus,Wolf,24.0%,76.0%
+Ape,Giant Poisonous Snake,76.1%,23.9%
+Bronze Dragon Wyrmling,Tiger,76.1%,23.9%
+Giant Constrictor Snake,Saber-Toothed Tiger,76.1%,23.9%
+Giant Wolf Spider,Mule,76.1%,23.9%
+Hippogriff,Hobgoblin,76.1%,23.9%
+Ogre,Rhinoceros,76.1%,23.9%
+Ogre Zombie,Unicorn,76.1%,23.9%
+Archmage,Saber-Toothed Tiger,23.9%,76.1%
+Bronze Dragon Wyrmling,Rhinoceros,23.9%,76.1%
+Cockatrice,Giant Lizard,23.9%,76.1%
+Doppelganger,Ghost,23.9%,76.1%
+Dryad,Magmin,23.9%,76.1%
+Ghoul,Giant Toad,23.9%,76.1%
+Giant Bat,Warhorse,23.9%,76.1%
+Lizardfolk,Warhorse,23.9%,76.1%
+Pegasus,Troll,23.9%,76.1%
+Drow,Gray Ooze,76.2%,23.8%
+Drow,Zombie,76.2%,23.8%
+Gargoyle,Grick,76.2%,23.8%
+Ghoul,Giant Poisonous Snake,76.2%,23.8%
+Giant Scorpion,Tiger,76.2%,23.8%
+Gold Dragon Wyrmling,Silver Dragon Wyrmling,76.2%,23.8%
+Minotaur Skeleton,Otyugh,23.8%,76.2%
+Mummy,Owlbear,23.8%,76.2%
+Reef Shark,Swarm of Bats,76.2%,23.8%
+Rust Monster,Swarm of Rats,76.2%,23.8%
+Shield Guardian,"Vampire, Vampire Form",76.2%,23.8%
+Animated Armor,Warhorse,76.3%,23.7%
+Barbed Devil,Half-Red Dragon Veteran,76.3%,23.7%
+Black Dragon Wyrmling,Wight,76.3%,23.7%
+Chuul,Red Dragon Wyrmling,76.3%,23.7%
+Draft Horse,Giant Goat,76.3%,23.7%
+Ettin,Fire Elemental,76.3%,23.7%
+Nightmare,Unicorn,76.3%,23.7%
+Priest,Zombie,76.3%,23.7%
+Young Black Dragon,Young Brass Dragon,76.3%,23.7%
+Black Dragon Wyrmling,Gibbering Mouther,23.7%,76.3%
+Blink Dog,Brass Dragon Wyrmling,23.7%,76.3%
+Centaur,Ghost,23.7%,76.3%
+Crocodile,Duergar,23.7%,76.3%
+Giant Boar,Hunter Shark,23.7%,76.3%
+Giant Lizard,Satyr,23.7%,76.3%
+Gynosphinx,Young Bronze Dragon,23.7%,76.3%
+Ice Mephit,Scout,23.7%,76.3%
+Mummy Lord,Young Green Dragon,23.7%,76.3%
+Noble,Swarm of Bats,23.7%,76.3%
+Air Elemental,Shambling Mound,23.6%,76.4%
+Ape,Copper Dragon Wyrmling,23.6%,76.4%
+Awakened Shrub,Mastiff,23.6%,76.4%
+Baboon,Goat,23.6%,76.4%
+Black Dragon Wyrmling,Doppelganger,23.6%,76.4%
+Centaur,Veteran,23.6%,76.4%
+Constrictor Snake,Swarm of Rats,23.6%,76.4%
+Drow,Swarm of Beetles,23.6%,76.4%
+Drow,Swarm of Centipedes,23.6%,76.4%
+Drow,Swarm of Insects,23.6%,76.4%
+Drow,Swarm of Spiders,23.6%,76.4%
+Drow,Swarm of Wasps,23.6%,76.4%
+Elk,Gnoll,23.6%,76.4%
+Gelatinous Cube,"Wereboar, Boar Form",23.6%,76.4%
+Gelatinous Cube,"Wereboar, Hybrid Form",23.6%,76.4%
+Giant Toad,"Werewolf, Hybrid Form",23.6%,76.4%
+Giant Toad,"Werewolf, Wolf Form",23.6%,76.4%
+Giant Wasp,Swarm of Rats,23.6%,76.4%
+Glabrezu,Horned Devil,23.6%,76.4%
+Iron Golem,Remorhaz,23.6%,76.4%
+Panther,Swarm of Rats,23.6%,76.4%
+Adult Black Dragon,Stone Golem,76.4%,23.6%
+Draft Horse,Gnoll,76.4%,23.6%
+Mummy,Will-o'-Wisp,76.4%,23.6%
+Octopus,Sprite,76.4%,23.6%
+Blink Dog,Spy,23.5%,76.5%
+Death Dog,Swarm of Ravens,76.5%,23.5%
+Draft Horse,Hobgoblin,76.5%,23.5%
+Dretch,Steam Mephit,76.5%,23.5%
+Duergar,Will-o'-Wisp,23.5%,76.5%
+Giant Elk,Knight,23.5%,76.5%
+Harpy,Worg,23.5%,76.5%
+Hezrou,Hill Giant,76.5%,23.5%
+Manticore,Medusa,23.5%,76.5%
+Quasit,Sahuagin,23.5%,76.5%
+Treant,Young Green Dragon,76.5%,23.5%
+Adult Gold Dragon,Iron Golem,76.6%,23.4%
+Adult Red Dragon,Iron Golem,76.6%,23.4%
+Dretch,Mule,76.6%,23.4%
+Giant Constrictor Snake,Giant Elk,76.6%,23.4%
+Nightmare,Spirit Naga,76.6%,23.4%
+"Vampire, Bat Form",Wraith,76.6%,23.4%
+Acolyte,Blood Hawk,23.4%,76.6%
+Acolyte,Giant Rat,23.4%,76.6%
+Acolyte,Giant Rat (Diseased),23.4%,76.6%
+Adult Brass Dragon,Cloud Giant,23.4%,76.6%
+Boar,Magma Mephit,23.4%,76.6%
+Doppelganger,Silver Dragon Wyrmling,23.4%,76.6%
+Elk,Giant Owl,23.4%,76.6%
+Fire Elemental,Minotaur,23.4%,76.6%
+Giant Bat,Lion,23.4%,76.6%
+Giant Constrictor Snake,Ogre Zombie,23.4%,76.6%
+Guard,Shadow,23.4%,76.6%
+Hobgoblin,Satyr,23.4%,76.6%
+Night Hag,Triceratops,23.4%,76.6%
+Bearded Devil,Doppelganger,23.3%,76.7%
+Blood Hawk,Pony,23.3%,76.7%
+Ettercap,Giant Scorpion,23.3%,76.7%
+Giant Bat,Satyr,23.3%,76.7%
+Giant Rat,Pony,23.3%,76.7%
+Giant Rat (Diseased),Pony,23.3%,76.7%
+Giant Scorpion,Griffon,23.3%,76.7%
+Green Hag,Guardian Naga,23.3%,76.7%
+Kobold,Noble,23.3%,76.7%
+Lizardfolk,Satyr,23.3%,76.7%
+Merfolk,Noble,23.3%,76.7%
+Azer,Warhorse Skeleton,76.7%,23.3%
+Bandit,Blood Hawk,76.7%,23.3%
+Bandit,Giant Rat,76.7%,23.3%
+Bandit,Giant Rat (Diseased),76.7%,23.3%
+Brass Dragon Wyrmling,Giant Vulture,76.7%,23.3%
+Bugbear,Warhorse Skeleton,76.7%,23.3%
+Dire Wolf,White Dragon Wyrmling,76.7%,23.3%
+Dryad,Giant Rat,76.7%,23.3%
+Dryad,Giant Rat (Diseased),76.7%,23.3%
+Elephant,Rakshasa,76.7%,23.3%
+Frost Giant,Roper,76.7%,23.3%
+Green Dragon Wyrmling,Tiger,76.7%,23.3%
+Unicorn,Vampire Spawn,76.7%,23.3%
+Assassin,Gold Dragon Wyrmling,23.2%,76.8%
+Axe Beak,Swarm of Beetles,23.2%,76.8%
+Axe Beak,Swarm of Centipedes,23.2%,76.8%
+Axe Beak,Swarm of Insects,23.2%,76.8%
+Axe Beak,Swarm of Spiders,23.2%,76.8%
+Axe Beak,Swarm of Wasps,23.2%,76.8%
+Azer,Ettercap,76.8%,23.2%
+Berserker,Succubus/Incubus,76.8%,23.2%
+Boar,Camel,76.8%,23.2%
+Brass Dragon Wyrmling,Hobgoblin,76.8%,23.2%
+Bulette,Djinni,76.8%,23.2%
+Centaur,Silver Dragon Wyrmling,23.2%,76.8%
+Cockatrice,Magma Mephit,76.8%,23.2%
+Drow,Swarm of Ravens,23.2%,76.8%
+Earth Elemental,Giant Shark,23.2%,76.8%
+Hobgoblin,Specter,23.2%,76.8%
+Killer Whale,Otyugh,76.8%,23.2%
+Mammoth,Treant,76.8%,23.2%
+Mummy,Polar Bear,76.8%,23.2%
+Adult Blue Dragon,Adult Silver Dragon,23.1%,76.9%
+Bugbear,Ghost,23.1%,76.9%
+Giant Crab,Giant Owl,23.1%,76.9%
+Giant Crab,Shadow,23.1%,76.9%
+Giant Octopus,Veteran,23.1%,76.9%
+Goblin,Riding Horse,23.1%,76.9%
+Hippogriff,Warhorse Skeleton,23.1%,76.9%
+Mimic,Sea Hag,23.1%,76.9%
+Priest,Shadow,23.1%,76.9%
+Shield Guardian,Young White Dragon,23.1%,76.9%
+Young Blue Dragon,Young Silver Dragon,23.1%,76.9%
+Animated Armor,Copper Dragon Wyrmling,76.9%,23.1%
+Axe Beak,Riding Horse,76.9%,23.1%
+Blink Dog,Constrictor Snake,76.9%,23.1%
+Blink Dog,Giant Wasp,76.9%,23.1%
+Blink Dog,Panther,76.9%,23.1%
+Doppelganger,Giant Scorpion,76.9%,23.1%
+Frost Giant,Glabrezu,76.9%,23.1%
+Giant Bat,Scout,76.9%,23.1%
+Giant Shark,Young Black Dragon,76.9%,23.1%
+Lizardfolk,Scout,76.9%,23.1%
+Red Dragon Wyrmling,Troll,76.9%,23.1%
+Adult Bronze Dragon,Adult Green Dragon,77.0%,23.0%
+Ankheg,Veteran,23.0%,77.0%
+Awakened Tree,Ettin,23.0%,77.0%
+Bugbear,Worg,77.0%,23.0%
+Copper Dragon Wyrmling,Swarm of Ravens,77.0%,23.0%
+Deva,"Vampire, Vampire Form",23.0%,77.0%
+Druid,Swarm of Bats,23.0%,77.0%
+Duergar,Harpy,77.0%,23.0%
+Giant Bat,Harpy,23.0%,77.0%
+Giant Centipede,Noble,23.0%,77.0%
+Giant Frog,Swarm of Bats,23.0%,77.0%
+Giant Lizard,Specter,23.0%,77.0%
+Giant Poisonous Snake,Wolf,77.0%,23.0%
+Gibbering Mouther,Saber-Toothed Tiger,77.0%,23.0%
+Hobgoblin,"Wererat, Human Form",23.0%,77.0%
+Imp,Quasit,77.0%,23.0%
+Knight,Medusa,77.0%,23.0%
+Lizard,Sprite,23.0%,77.0%
+Baboon,Flying Snake,22.9%,77.1%
+Deep Gnome (Svirfneblin),Duergar,22.9%,77.1%
+Deep Gnome (Svirfneblin),Mage,22.9%,77.1%
+Fire Elemental,Wraith,22.9%,77.1%
+Giant Eagle,Wight,22.9%,77.1%
+Rakshasa,Water Elemental,22.9%,77.1%
+Ancient Black Dragon,Ancient Copper Dragon,77.1%,22.9%
+Bandit Captain,Swarm of Quippers,77.1%,22.9%
+Basilisk,Ghast,77.1%,22.9%
+Bronze Dragon Wyrmling,White Dragon Wyrmling,77.1%,22.9%
+Crocodile,Drow,77.1%,22.9%
+Duergar,"Wererat, Human Form",77.1%,22.9%
+Ghost,Saber-Toothed Tiger,77.1%,22.9%
+Giant Poisonous Snake,Sahuagin,77.1%,22.9%
+Green Dragon Wyrmling,Warhorse Skeleton,77.1%,22.9%
+Hyena,Vulture,77.1%,22.9%
+Specter,Swarm of Ravens,77.1%,22.9%
+Berserker,Ogre Zombie,22.8%,77.2%
+Chuul,Gladiator,22.8%,77.2%
+Draft Horse,Worg,22.8%,77.2%
+Ghoul,Grick,22.8%,77.2%
+Night Hag,Young White Dragon,22.8%,77.2%
+Brass Dragon Wyrmling,Swarm of Rats,77.2%,22.8%
+Copper Dragon Wyrmling,Hippogriff,77.2%,22.8%
+Gorgon,Gynosphinx,77.2%,22.8%
+Silver Dragon Wyrmling,Succubus/Incubus,77.2%,22.8%
+Earth Elemental,Giant Crocodile,77.3%,22.7%
+Earth Elemental,Shield Guardian,77.3%,22.7%
+Giant Spider,Harpy,77.3%,22.7%
+Grick,Satyr,77.3%,22.7%
+Roper,Young Black Dragon,77.3%,22.7%
+Spirit Naga,"Wereboar, Human Form",77.3%,22.7%
+Bandit Captain,"Wereboar, Boar Form",22.7%,77.3%
+Bandit Captain,"Wereboar, Hybrid Form",22.7%,77.3%
+Dire Wolf,Gibbering Mouther,22.7%,77.3%
+Riding Horse,Rust Monster,22.7%,77.3%
+Sea Hag,Unicorn,22.7%,77.3%
+Ancient Blue Dragon,Ancient Silver Dragon,22.6%,77.4%
+Ankheg,Blue Dragon Wyrmling,22.6%,77.4%
+Archmage,Manticore,22.6%,77.4%
+Brass Dragon Wyrmling,Brown Bear,22.6%,77.4%
+Brown Bear,Giant Scorpion,22.6%,77.4%
+Couatl,Night Hag,22.6%,77.4%
+Fire Elemental,Oni,22.6%,77.4%
+Giant Lizard,Lion,22.6%,77.4%
+Mastiff,Violet Fungus,22.6%,77.4%
+Specter,Swarm of Quippers,22.6%,77.4%
+Vampire Spawn,Winter Wolf,22.6%,77.4%
+Giant Lizard,Wolf,77.4%,22.6%
+Giant Poisonous Snake,Giant Wasp,77.4%,22.6%
+Giant Poisonous Snake,Gray Ooze,77.4%,22.6%
+Giant Poisonous Snake,Panther,77.4%,22.6%
+Giant Poisonous Snake,Zombie,77.4%,22.6%
+Otyugh,"Werebear, Human Form",77.4%,22.6%
+Pony,Tribal Warrior,77.4%,22.6%
+Aboleth,Hill Giant,77.5%,22.5%
+Adult Brass Dragon,Horned Devil,77.5%,22.5%
+Adult Gold Dragon,Storm Giant,22.5%,77.5%
+Adult Red Dragon,Storm Giant,22.5%,77.5%
+Archmage,Bugbear,77.5%,22.5%
+Black Bear,Gray Ooze,77.5%,22.5%
+Black Bear,Zombie,77.5%,22.5%
+Black Dragon Wyrmling,Grick,77.5%,22.5%
+Blue Dragon Wyrmling,Gelatinous Cube,77.5%,22.5%
+Constrictor Snake,Deep Gnome (Svirfneblin),22.5%,77.5%
+Copper Dragon Wyrmling,Gargoyle,22.5%,77.5%
+Crocodile,Swarm of Bats,77.5%,22.5%
+Death Dog,Wight,22.5%,77.5%
+Draft Horse,Giant Bat,77.5%,22.5%
+Draft Horse,Lizardfolk,77.5%,22.5%
+Dretch,Giant Rat,77.5%,22.5%
+Dretch,Giant Rat (Diseased),77.5%,22.5%
+Giant Eagle,Shadow,77.5%,22.5%
+Horned Devil,Marilith,77.5%,22.5%
+Stirge,Wolf,22.5%,77.5%
+Water Elemental,Wraith,77.5%,22.5%
+Adult Black Dragon,Adult Bronze Dragon,22.4%,77.6%
+Air Elemental,Hill Giant,22.4%,77.6%
+Baboon,Eagle,22.4%,77.6%
+Berserker,Winter Wolf,22.4%,77.6%
+Chuul,Killer Whale,22.4%,77.6%
+Cultist,Giant Crab,22.4%,77.6%
+Drider,"Weretiger, Human Form",22.4%,77.6%
+Earth Elemental,Gorgon,22.4%,77.6%
+Elk,Orc,22.4%,77.6%
+Plesiosaurus,Rakshasa,22.4%,77.6%
+Shambling Mound,Young White Dragon,22.4%,77.6%
+Vrock,Xorn,22.4%,77.6%
+Bronze Dragon Wyrmling,Warhorse Skeleton,77.6%,22.4%
+Chain Devil,Invisible Stalker,77.6%,22.4%
+Death Dog,Rust Monster,77.6%,22.4%
+Flying Snake,Homunculus,77.6%,22.4%
+Gargoyle,Wight,77.6%,22.4%
+Giant Lizard,Priest,77.6%,22.4%
+Mule,Stirge,77.6%,22.4%
+Brass Dragon Wyrmling,Ochre Jelly,22.3%,77.7%
+Bronze Dragon Wyrmling,Ghost,22.3%,77.7%
+Cockatrice,Swarm of Rats,22.3%,77.7%
+Erinyes,Young White Dragon,22.3%,77.7%
+Giant Constrictor Snake,Winter Wolf,22.3%,77.7%
+Giant Lizard,Warhorse,22.3%,77.7%
+Gold Dragon Wyrmling,Invisible Stalker,22.3%,77.7%
+Guardian Naga,Mummy Lord,22.3%,77.7%
+Half-Red Dragon Veteran,Minotaur Skeleton,22.3%,77.7%
+Lion,Ochre Jelly,22.3%,77.7%
+Otyugh,"Werebear, Bear Form",22.3%,77.7%
+Otyugh,"Werebear, Hybrid Form",22.3%,77.7%
+Sea Hag,"Weretiger, Human Form",22.3%,77.7%
+Young Brass Dragon,Young Green Dragon,22.3%,77.7%
+Ankheg,"Werewolf, Hybrid Form",77.7%,22.3%
+Ankheg,"Werewolf, Wolf Form",77.7%,22.3%
+Ape,Blink Dog,77.7%,22.3%
+Blood Hawk,Mastiff,77.7%,22.3%
+Blue Dragon Wyrmling,Mummy,77.7%,22.3%
+Clay Golem,Hill Giant,77.7%,22.3%
+Ghoul,Swarm of Rats,77.7%,22.3%
+Giant Rat,Mastiff,77.7%,22.3%
+Giant Rat (Diseased),Mastiff,77.7%,22.3%
+Hobgoblin,Sahuagin,77.7%,22.3%
+Imp,Tribal Warrior,77.7%,22.3%
+Plesiosaurus,Troll,77.7%,22.3%
+Rhinoceros,Succubus/Incubus,77.7%,22.3%
+Scout,Zombie,77.7%,22.3%
+Adult Copper Dragon,Young Silver Dragon,77.8%,22.2%
+Animated Armor,Duergar,77.8%,22.2%
+Bandit,Merfolk,77.8%,22.2%
+Brown Bear,Warhorse,77.8%,22.2%
+Mimic,"Werewolf, Hybrid Form",77.8%,22.2%
+Mimic,"Werewolf, Wolf Form",77.8%,22.2%
+Mummy,Swarm of Quippers,77.8%,22.2%
+Blue Dragon Wyrmling,Cloaker,22.2%,77.8%
+Cloud Giant,Fire Giant,22.2%,77.8%
+Crocodile,Giant Spider,22.2%,77.8%
+Gargoyle,Giant Octopus,22.2%,77.8%
+Ghost,"Weretiger, Hybrid Form",22.2%,77.8%
+Ghost,"Weretiger, Tiger Form",22.2%,77.8%
+Giant Lizard,Harpy,22.2%,77.8%
+Lamia,Water Elemental,22.2%,77.8%
+Aboleth,Bulette,22.1%,77.9%
+Black Bear,Orc,22.1%,77.9%
+Boar,Elk,22.1%,77.9%
+Boar,Skeleton,22.1%,77.9%
+Chuul,Water Elemental,22.1%,77.9%
+Death Dog,Ettercap,22.1%,77.9%
+Ghoul,Worg,22.1%,77.9%
+Giant Octopus,Silver Dragon Wyrmling,22.1%,77.9%
+Giant Vulture,Harpy,22.1%,77.9%
+Gnoll,Specter,22.1%,77.9%
+Green Dragon Wyrmling,Manticore,22.1%,77.9%
+Invisible Stalker,Otyugh,22.1%,77.9%
+Mastiff,Tribal Warrior,22.1%,77.9%
+Merrow,Rhinoceros,22.1%,77.9%
+Owlbear,"Weretiger, Hybrid Form",22.1%,77.9%
+Owlbear,"Weretiger, Tiger Form",22.1%,77.9%
+Phase Spider,Swarm of Quippers,22.1%,77.9%
+Phase Spider,"Werewolf, Hybrid Form",22.1%,77.9%
+Phase Spider,"Werewolf, Wolf Form",22.1%,77.9%
+Shadow,Warhorse Skeleton,22.1%,77.9%
+Ankheg,Gargoyle,77.9%,22.1%
+Couatl,Rakshasa,77.9%,22.1%
+Dire Wolf,Swarm of Poisonous Snakes,77.9%,22.1%
+Griffon,Hell Hound,77.9%,22.1%
+Hobgoblin,Zombie,77.9%,22.1%
+Homunculus,Jackal,77.9%,22.1%
+Ogre Zombie,Silver Dragon Wyrmling,77.9%,22.1%
+Roper,Triceratops,77.9%,22.1%
+Animated Armor,Mimic,22.0%,78.0%
+Ape,Warhorse,22.0%,78.0%
+Blood Hawk,Guard,22.0%,78.0%
+Bulette,Young Silver Dragon,22.0%,78.0%
+Chimera,Salamander,78.0%,22.0%
+Flesh Golem,Minotaur,22.0%,78.0%
+Ghast,Grick,78.0%,22.0%
+Giant Crocodile,Guardian Naga,78.0%,22.0%
+Giant Rat,Guard,22.0%,78.0%
+Giant Rat (Diseased),Guard,22.0%,78.0%
+Gold Dragon Wyrmling,Vampire Spawn,78.0%,22.0%
+Griffon,Mimic,78.0%,22.0%
+Grimlock,Tribal Warrior,78.0%,22.0%
+Hill Giant,"Werebear, Bear Form",78.0%,22.0%
+Hill Giant,"Werebear, Hybrid Form",78.0%,22.0%
+Minotaur,"Werebear, Bear Form",22.0%,78.0%
+Minotaur,"Werebear, Hybrid Form",22.0%,78.0%
+Sahuagin,Swarm of Bats,22.0%,78.0%
+Ape,Mage,21.9%,78.1%
+Bone Devil,Young Black Dragon,21.9%,78.1%
+Darkmantle,Duergar,21.9%,78.1%
+Dire Wolf,Rhinoceros,21.9%,78.1%
+Giant Hyena,Rhinoceros,21.9%,78.1%
+Giant Octopus,Pegasus,21.9%,78.1%
+Gnoll,Warhorse,21.9%,78.1%
+Hell Hound,Manticore,21.9%,78.1%
+Lemure,Quasit,21.9%,78.1%
+Magmin,Spy,21.9%,78.1%
+Swarm of Beetles,Tiger,21.9%,78.1%
+Swarm of Centipedes,Tiger,21.9%,78.1%
+Swarm of Insects,Tiger,21.9%,78.1%
+Swarm of Spiders,Tiger,21.9%,78.1%
+Swarm of Wasps,Tiger,21.9%,78.1%
+Azer,Worg,78.1%,21.9%
+Ettercap,Specter,78.1%,21.9%
+Flying Sword,Riding Horse,78.1%,21.9%
+Giant Owl,Scout,78.1%,21.9%
+Half-Red Dragon Veteran,"Wereboar, Human Form",78.1%,21.9%
+Hobgoblin,Noble,78.1%,21.9%
+Succubus/Incubus,Swarm of Quippers,78.1%,21.9%
+Nightmare,Salamander,21.8%,78.2%
+Swarm of Ravens,Warhorse Skeleton,21.8%,78.2%
+Ape,Scout,78.2%,21.8%
+Berserker,Gelatinous Cube,78.2%,21.8%
+Black Pudding,White Dragon Wyrmling,78.2%,21.8%
+Chimera,"Werebear, Human Form",78.2%,21.8%
+Ghast,Wight,78.2%,21.8%
+Ghost,Succubus/Incubus,78.2%,21.8%
+Giant Elk,Hell Hound,78.2%,21.8%
+Hell Hound,White Dragon Wyrmling,78.2%,21.8%
+Azer,Ochre Jelly,78.3%,21.7%
+Death Dog,Hippogriff,78.3%,21.7%
+Fire Elemental,Gold Dragon Wyrmling,78.3%,21.7%
+Flesh Golem,Gold Dragon Wyrmling,78.3%,21.7%
+Goblin,Pseudodragon,78.3%,21.7%
+Blue Dragon Wyrmling,Nightmare,21.7%,78.3%
+Copper Dragon Wyrmling,Swarm of Quippers,21.7%,78.3%
+Copper Dragon Wyrmling,"Werewolf, Hybrid Form",21.7%,78.3%
+Copper Dragon Wyrmling,"Werewolf, Wolf Form",21.7%,78.3%
+Dretch,Druid,21.7%,78.3%
+Ettercap,Giant Boar,21.7%,78.3%
+Fire Elemental,"Werebear, Human Form",21.7%,78.3%
+Giant Boar,Manticore,21.7%,78.3%
+Nalfeshnee,Storm Giant,21.7%,78.3%
+Bandit,Riding Horse,21.6%,78.4%
+Basilisk,Owlbear,21.6%,78.4%
+Behir,Fire Giant,21.6%,78.4%
+Drow,"Wererat, Hybrid Form",21.6%,78.4%
+Drow,"Wererat, Rat Form",21.6%,78.4%
+Elephant,Hill Giant,21.6%,78.4%
+Adult Silver Dragon,Planetar,78.4%,21.6%
+Blood Hawk,Kobold,78.4%,21.6%
+Constrictor Snake,Giant Wolf Spider,78.4%,21.6%
+Djinni,Hezrou,78.4%,21.6%
+Drow,Magma Mephit,78.4%,21.6%
+Earth Elemental,Erinyes,78.4%,21.6%
+Giant Eagle,Reef Shark,78.4%,21.6%
+Giant Rat,Kobold,78.4%,21.6%
+Giant Rat (Diseased),Kobold,78.4%,21.6%
+Giant Wasp,Giant Wolf Spider,78.4%,21.6%
+"Vampire, Vampire Form",Xorn,78.4%,21.6%
+Bone Devil,Guardian Naga,78.5%,21.5%
+Bulette,Young Black Dragon,78.5%,21.5%
+Chimera,Vrock,78.5%,21.5%
+Chuul,Couatl,21.5%,78.5%
+Dryad,Guard,21.5%,78.5%
+Giant Bat,Specter,21.5%,78.5%
+Giant Hyena,"Werewolf, Hybrid Form",78.5%,21.5%
+Giant Hyena,"Werewolf, Wolf Form",78.5%,21.5%
+Giant Toad,Swarm of Beetles,78.5%,21.5%
+Giant Toad,Swarm of Centipedes,78.5%,21.5%
+Giant Toad,Swarm of Insects,78.5%,21.5%
+Giant Toad,Swarm of Spiders,78.5%,21.5%
+Giant Toad,Swarm of Wasps,78.5%,21.5%
+Gladiator,Shambling Mound,21.5%,78.5%
+Gynosphinx,Mummy Lord,78.5%,21.5%
+Lizard,Raven,78.5%,21.5%
+Lizard,Spider,78.5%,21.5%
+Lizardfolk,Specter,21.5%,78.5%
+Silver Dragon Wyrmling,"Weretiger, Hybrid Form",21.5%,78.5%
+Silver Dragon Wyrmling,"Weretiger, Tiger Form",21.5%,78.5%
+Swarm of Beetles,White Dragon Wyrmling,21.5%,78.5%
+Swarm of Centipedes,White Dragon Wyrmling,21.5%,78.5%
+Swarm of Insects,White Dragon Wyrmling,21.5%,78.5%
+Swarm of Spiders,White Dragon Wyrmling,21.5%,78.5%
+Swarm of Wasps,White Dragon Wyrmling,21.5%,78.5%
+Cloaker,Invisible Stalker,21.4%,78.6%
+Crocodile,Phase Spider,21.4%,78.6%
+Cultist,Ice Mephit,21.4%,78.6%
+Drider,Knight,21.4%,78.6%
+Ghast,Rhinoceros,21.4%,78.6%
+Giant Crocodile,Young Green Dragon,21.4%,78.6%
+Giant Spider,Swarm of Quippers,21.4%,78.6%
+Giant Weasel,Swarm of Rats,21.4%,78.6%
+Adult Black Dragon,Tyrannosaurus Rex,78.6%,21.4%
+Bearded Devil,Ettercap,78.6%,21.4%
+Cloaker,Owlbear,78.6%,21.4%
+Drow,Giant Weasel,78.6%,21.4%
+Gargoyle,"Werewolf, Human Form",78.6%,21.4%
+Ghast,Worg,78.6%,21.4%
+Giant Elk,Giant Hyena,78.6%,21.4%
+Ogre,Sea Hag,78.6%,21.4%
+Ape,Duergar,21.3%,78.7%
+Basilisk,Drider,21.3%,78.7%
+Blink Dog,Rust Monster,21.3%,78.7%
+Flying Sword,Giant Spider,21.3%,78.7%
+Mummy,"Wereboar, Boar Form",21.3%,78.7%
+Mummy,"Wereboar, Hybrid Form",21.3%,78.7%
+Archmage,Ghast,78.7%,21.3%
+Bearded Devil,Worg,78.7%,21.3%
+Deer,Homunculus,78.7%,21.3%
+Draft Horse,Shadow,78.7%,21.3%
+Giant Crocodile,"Vampire, Vampire Form",78.7%,21.3%
+Giant Eagle,Giant Goat,78.7%,21.3%
+Giant Spider,"Wererat, Human Form",78.7%,21.3%
+Medusa,Sea Hag,78.7%,21.3%
+Octopus,Poisonous Snake,78.7%,21.3%
+Swarm of Beetles,"Wererat, Hybrid Form",78.7%,21.3%
+Swarm of Beetles,"Wererat, Rat Form",78.7%,21.3%
+Swarm of Centipedes,"Wererat, Hybrid Form",78.7%,21.3%
+Swarm of Centipedes,"Wererat, Rat Form",78.7%,21.3%
+Swarm of Insects,"Wererat, Hybrid Form",78.7%,21.3%
+Swarm of Insects,"Wererat, Rat Form",78.7%,21.3%
+Swarm of Spiders,"Wererat, Hybrid Form",78.7%,21.3%
+Swarm of Spiders,"Wererat, Rat Form",78.7%,21.3%
+Swarm of Wasps,"Wererat, Hybrid Form",78.7%,21.3%
+Swarm of Wasps,"Wererat, Rat Form",78.7%,21.3%
+Berserker,Mummy,78.8%,21.2%
+Couatl,"Werebear, Human Form",78.8%,21.2%
+Dust Mephit,Goblin,78.8%,21.2%
+Elk,Grimlock,78.8%,21.2%
+Erinyes,Guardian Naga,78.8%,21.2%
+Ghost,Will-o'-Wisp,78.8%,21.2%
+Giant Eagle,Spy,78.8%,21.2%
+Giant Elk,Polar Bear,78.8%,21.2%
+Giant Poisonous Snake,Noble,78.8%,21.2%
+Half-Red Dragon Veteran,Hunter Shark,78.8%,21.2%
+Knight,Veteran,78.8%,21.2%
+Mummy Lord,"Werebear, Bear Form",78.8%,21.2%
+Mummy Lord,"Werebear, Hybrid Form",78.8%,21.2%
+Noble,Pseudodragon,78.8%,21.2%
+Troll,"Weretiger, Human Form",78.8%,21.2%
+Air Elemental,Shield Guardian,21.2%,78.8%
+Clay Golem,Giant Shark,21.2%,78.8%
+Couatl,"Vampire, Vampire Form",21.2%,78.8%
+Elephant,Mummy Lord,21.2%,78.8%
+Flesh Golem,Wraith,21.2%,78.8%
+Giant Centipede,Giant Wolf Spider,21.2%,78.8%
+Giant Vulture,Specter,21.2%,78.8%
+Kobold,Steam Mephit,21.2%,78.8%
+Riding Horse,"Wererat, Hybrid Form",21.2%,78.8%
+Riding Horse,"Wererat, Rat Form",21.2%,78.8%
+Stone Giant,Young Silver Dragon,21.2%,78.8%
+Air Elemental,Erinyes,21.1%,78.9%
+Awakened Tree,Lamia,21.1%,78.9%
+Bandit,Druid,21.1%,78.9%
+Chain Devil,"Vampire, Bat Form",21.1%,78.9%
+Constrictor Snake,Giant Owl,21.1%,78.9%
+Gelatinous Cube,Gibbering Mouther,21.1%,78.9%
+Giant Ape,Young Silver Dragon,21.1%,78.9%
+Giant Owl,Giant Spider,21.1%,78.9%
+Giant Weasel,Swarm of Bats,21.1%,78.9%
+Imp,Shadow,21.1%,78.9%
+Awakened Tree,Silver Dragon Wyrmling,78.9%,21.1%
+Bandit Captain,Giant Boar,78.9%,21.1%
+Copper Dragon Wyrmling,Ghoul,78.9%,21.1%
+Gnoll,Riding Horse,78.9%,21.1%
+Horned Devil,Mammoth,78.9%,21.1%
+Satyr,Spy,78.9%,21.1%
+Ankheg,Silver Dragon Wyrmling,21.0%,79.0%
+Archmage,Hunter Shark,21.0%,79.0%
+Awakened Tree,Wraith,21.0%,79.0%
+Blink Dog,Druid,79.0%,21.0%
+Bugbear,Wight,79.0%,21.0%
+Couatl,Wyvern,79.0%,21.0%
+Duergar,"Werewolf, Hybrid Form",21.0%,79.0%
+Duergar,"Werewolf, Wolf Form",21.0%,79.0%
+Ghast,Manticore,21.0%,79.0%
+Giant Crocodile,Killer Whale,79.0%,21.0%
+Giant Eagle,White Dragon Wyrmling,21.0%,79.0%
+Giant Wolf Spider,Hobgoblin,21.0%,79.0%
+Gray Ooze,Swarm of Bats,21.0%,79.0%
+Griffon,Swarm of Quippers,79.0%,21.0%
+Ice Mephit,Tribal Warrior,79.0%,21.0%
+Lamia,Plesiosaurus,79.0%,21.0%
+Merrow,"Werewolf, Hybrid Form",79.0%,21.0%
+Merrow,"Werewolf, Wolf Form",79.0%,21.0%
+Ogre,"Weretiger, Hybrid Form",21.0%,79.0%
+Ogre,"Weretiger, Tiger Form",21.0%,79.0%
+Pony,Swarm of Rats,21.0%,79.0%
+Riding Horse,Sahuagin,79.0%,21.0%
+Satyr,"Wererat, Hybrid Form",79.0%,21.0%
+Satyr,"Wererat, Rat Form",79.0%,21.0%
+Solar,Storm Giant,79.0%,21.0%
+Aboleth,Giant Shark,20.9%,79.1%
+Aboleth,Gorgon,20.9%,79.1%
+Black Bear,Hippogriff,20.9%,79.1%
+Constrictor Snake,Flying Sword,20.9%,79.1%
+Doppelganger,Pegasus,20.9%,79.1%
+Flesh Golem,Rakshasa,20.9%,79.1%
+Giant Scorpion,Sea Hag,20.9%,79.1%
+Griffon,"Wereboar, Boar Form",20.9%,79.1%
+Griffon,"Wereboar, Hybrid Form",20.9%,79.1%
+Roc,Solar,20.9%,79.1%
+Ape,Drow,79.1%,20.9%
+Berserker,Griffon,79.1%,20.9%
+Clay Golem,Night Hag,79.1%,20.9%
+Constrictor Snake,Dretch,79.1%,20.9%
+Cult Fanatic,Skeleton,79.1%,20.9%
+Earth Elemental,Hill Giant,79.1%,20.9%
+Giant Elk,Mimic,79.1%,20.9%
+Gorgon,Young Black Dragon,79.1%,20.9%
+Harpy,Spy,79.1%,20.9%
+Owlbear,Sea Hag,79.1%,20.9%
+Cultist,Skeleton,20.8%,79.2%
+Ghast,Succubus/Incubus,20.8%,79.2%
+Giant Centipede,Goblin,20.8%,79.2%
+Hell Hound,Rhinoceros,20.8%,79.2%
+Lich,Young Bronze Dragon,20.8%,79.2%
+Magmin,Rust Monster,20.8%,79.2%
+Pegasus,Winter Wolf,20.8%,79.2%
+Scout,Swarm of Ravens,20.8%,79.2%
+Darkmantle,Swarm of Bats,79.2%,20.8%
+Elk,Goblin,79.2%,20.8%
+Giant Boar,Swarm of Poisonous Snakes,79.2%,20.8%
+Giant Elk,Green Dragon Wyrmling,79.2%,20.8%
+Giant Lizard,Riding Horse,79.2%,20.8%
+Giant Toad,Satyr,79.2%,20.8%
+Killer Whale,Wraith,79.2%,20.8%
+Draft Horse,Giant Lizard,79.3%,20.7%
+Ghoul,Swarm of Bats,79.3%,20.7%
+Giant Scorpion,Warhorse Skeleton,79.3%,20.7%
+Giant Shark,Young White Dragon,79.3%,20.7%
+Axe Beak,"Wererat, Human Form",20.7%,79.3%
+Bronze Dragon Wyrmling,Veteran,20.7%,79.3%
+Camel,Noble,20.7%,79.3%
+Commoner,Mastiff,20.7%,79.3%
+Constrictor Snake,Shadow,20.7%,79.3%
+Druid,Giant Lizard,20.7%,79.3%
+Dust Mephit,Flying Sword,20.7%,79.3%
+Elephant,Shambling Mound,20.7%,79.3%
+Giant Wasp,Shadow,20.7%,79.3%
+Gibbering Mouther,Plesiosaurus,20.7%,79.3%
+Panther,Shadow,20.7%,79.3%
+Black Dragon Wyrmling,Giant Elk,20.6%,79.4%
+Black Dragon Wyrmling,Griffon,20.6%,79.4%
+Brown Bear,Dire Wolf,20.6%,79.4%
+Deep Gnome (Svirfneblin),Giant Spider,20.6%,79.4%
+Giant Poisonous Snake,Thug,20.6%,79.4%
+Giant Scorpion,Hunter Shark,20.6%,79.4%
+Gibbering Mouther,"Weretiger, Hybrid Form",20.6%,79.4%
+Gibbering Mouther,"Weretiger, Tiger Form",20.6%,79.4%
+Scout,"Wererat, Hybrid Form",20.6%,79.4%
+Scout,"Wererat, Rat Form",20.6%,79.4%
+Air Elemental,Chain Devil,79.4%,20.6%
+Bandit,Camel,79.4%,20.6%
+Bandit Captain,Mimic,79.4%,20.6%
+Bandit Captain,Will-o'-Wisp,79.4%,20.6%
+Blue Dragon Wyrmling,Doppelganger,79.4%,20.6%
+Copper Dragon Wyrmling,Rust Monster,79.4%,20.6%
+Giant Vulture,Scout,79.4%,20.6%
+Hezrou,Night Hag,79.4%,20.6%
+Magmin,Tribal Warrior,79.4%,20.6%
+Spirit Naga,Veteran,79.4%,20.6%
+"Werewolf, Hybrid Form",Wight,79.4%,20.6%
+"Werewolf, Wolf Form",Wight,79.4%,20.6%
+Ankheg,White Dragon Wyrmling,79.5%,20.5%
+Black Bear,Magma Mephit,79.5%,20.5%
+Blink Dog,Imp,79.5%,20.5%
+Brass Dragon Wyrmling,Ettercap,20.5%,79.5%
+Cloaker,Ogre,79.5%,20.5%
+Cockatrice,Grimlock,79.5%,20.5%
+Copper Dragon Wyrmling,Flying Sword,79.5%,20.5%
+Deep Gnome (Svirfneblin),Phase Spider,20.5%,79.5%
+Drider,Mummy,79.5%,20.5%
+Elephant,Erinyes,20.5%,79.5%
+Ettin,Plesiosaurus,79.5%,20.5%
+Giant Poisonous Snake,Guard,79.5%,20.5%
+Giant Spider,"Werewolf, Hybrid Form",20.5%,79.5%
+Giant Spider,"Werewolf, Wolf Form",20.5%,79.5%
+Goblin,Mule,79.5%,20.5%
+Minotaur,Minotaur Skeleton,79.5%,20.5%
+Satyr,Wight,20.5%,79.5%
+Swarm of Quippers,Veteran,20.5%,79.5%
+Camel,Giant Weasel,20.4%,79.6%
+Dryad,Ice Mephit,20.4%,79.6%
+Giant Constrictor Snake,Nightmare,20.4%,79.6%
+Giant Owl,Phase Spider,20.4%,79.6%
+Mage,Warhorse Skeleton,20.4%,79.6%
+Merrow,Silver Dragon Wyrmling,20.4%,79.6%
+Riding Horse,Swarm of Beetles,20.4%,79.6%
+Riding Horse,Swarm of Centipedes,20.4%,79.6%
+Riding Horse,Swarm of Insects,20.4%,79.6%
+Riding Horse,Swarm of Spiders,20.4%,79.6%
+Riding Horse,Swarm of Wasps,20.4%,79.6%
+Bugbear,Grick,79.6%,20.4%
+Hill Giant,"Vampire, Vampire Form",79.6%,20.4%
+Horned Devil,Young Blue Dragon,79.6%,20.4%
+Pony,Quasit,79.6%,20.4%
+Succubus/Incubus,Will-o'-Wisp,79.6%,20.4%
+Boar,Dust Mephit,20.3%,79.7%
+Couatl,Giant Crocodile,20.3%,79.7%
+Eagle,Giant Rat,20.3%,79.7%
+Eagle,Giant Rat (Diseased),20.3%,79.7%
+Giant Elk,Spirit Naga,20.3%,79.7%
+Giant Hyena,Veteran,20.3%,79.7%
+Swarm of Beetles,Swarm of Poisonous Snakes,20.3%,79.7%
+Swarm of Centipedes,Swarm of Poisonous Snakes,20.3%,79.7%
+Swarm of Insects,Swarm of Poisonous Snakes,20.3%,79.7%
+Aboleth,Bone Devil,79.7%,20.3%
+Behir,Young Silver Dragon,79.7%,20.3%
+Ghast,Warhorse Skeleton,79.7%,20.3%
+Giant Poisonous Snake,Giant Weasel,79.7%,20.3%
+Giant Poisonous Snake,Imp,79.7%,20.3%
+Gorgon,Lich,79.7%,20.3%
+Satyr,Shadow,79.7%,20.3%
+Swarm of Quippers,Tiger,79.7%,20.3%
+Air Elemental,Mummy Lord,20.2%,79.8%
+Ankheg,Berserker,20.2%,79.8%
+Black Bear,Spy,20.2%,79.8%
+Darkmantle,Giant Spider,20.2%,79.8%
+Elk,Giant Vulture,20.2%,79.8%
+Giant Centipede,Quasit,20.2%,79.8%
+Half-Red Dragon Veteran,Red Dragon Wyrmling,20.2%,79.8%
+Lion,Tiger,20.2%,79.8%
+Merrow,Veteran,20.2%,79.8%
+Air Elemental,Rakshasa,79.8%,20.2%
+Awakened Tree,Ogre,79.8%,20.2%
+Bulette,Gynosphinx,79.8%,20.2%
+Cockatrice,Giant Weasel,79.8%,20.2%
+Duergar,Hippogriff,79.8%,20.2%
+Acolyte,Merfolk,20.1%,79.9%
+Bronze Dragon Wyrmling,Silver Dragon Wyrmling,20.1%,79.9%
+Dire Wolf,Veteran,20.1%,79.9%
+Giant Goat,Phase Spider,20.1%,79.9%
+Giant Poisonous Snake,Specter,20.1%,79.9%
+Hippogriff,Worg,20.1%,79.9%
+Nightmare,Vrock,20.1%,79.9%
+Sea Hag,Spirit Naga,20.1%,79.9%
+Animated Armor,Specter,79.9%,20.1%
+Axe Beak,Magmin,79.9%,20.1%
+Blink Dog,Sahuagin,79.9%,20.1%
+Copper Dragon Wyrmling,Draft Horse,79.9%,20.1%
+Druid,Giant Wolf Spider,79.9%,20.1%
+Frost Giant,Stone Giant,79.9%,20.1%
+Gelatinous Cube,Giant Octopus,79.9%,20.1%
+Giant Goat,Giant Poisonous Snake,79.9%,20.1%
+Hawk,Raven,79.9%,20.1%
+Hawk,Spider,79.9%,20.1%
+Quipper,Raven,79.9%,20.1%
+Quipper,Spider,79.9%,20.1%
+Air Elemental,Bone Devil,20.0%,80.0%
+Awakened Tree,Vrock,20.0%,80.0%
+Azer,Brown Bear,80.0%,20.0%
+Basilisk,"Wereboar, Boar Form",20.0%,80.0%
+Basilisk,"Wereboar, Hybrid Form",20.0%,80.0%
+Black Dragon Wyrmling,"Werewolf, Human Form",80.0%,20.0%
+Boar,Sahuagin,20.0%,80.0%
+Crab,Raven,80.0%,20.0%
+Crab,Spider,80.0%,20.0%
+Cult Fanatic,Giant Crab,80.0%,20.0%
+Duergar,Gargoyle,20.0%,80.0%
+Ettercap,Warhorse,80.0%,20.0%
+Giant Spider,Orc,80.0%,20.0%
+Hyena,Merfolk,20.0%,80.0%
+Killer Whale,Young Copper Dragon,20.0%,80.0%
+Mage,Worg,20.0%,80.0%
+Magmin,Swarm of Ravens,20.0%,80.0%
+Night Hag,Water Elemental,80.0%,20.0%
+Owlbear,Plesiosaurus,20.0%,80.0%
+Saber-Toothed Tiger,Spirit Naga,20.0%,80.0%
+Shield Guardian,"Werebear, Bear Form",80.0%,20.0%
+Shield Guardian,"Werebear, Hybrid Form",80.0%,20.0%
+Unicorn,Veteran,80.0%,20.0%

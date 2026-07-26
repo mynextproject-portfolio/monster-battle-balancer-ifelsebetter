@@ -206,6 +206,7 @@ def _evaluate_pair_task(args):
     m1, m2, num_simulations, fast_screen_sims = args
     if fast_screen_sims > 0:
         s1_pct, s2_pct = run_monte_carlo(m1, m2, num_simulations=fast_screen_sims)
+        # If underdog is below 10% in fast screen, it won't clear 20% threshold
         if min(s1_pct, s2_pct) < 10.0:
             return None
 
@@ -223,7 +224,7 @@ def _evaluate_pair_task(args):
 def find_all_fun_matchups(
     monsters: list[Monster],
     num_simulations: int = 5000,
-    fast_screen_sims: int = 200,
+    fast_screen_sims: int = 50,
     max_workers: Optional[int] = None,
 ) -> list[dict]:
     """Scan all unique pairs of monsters and return all fun matchups.
@@ -234,7 +235,7 @@ def find_all_fun_matchups(
     Args:
         monsters: List of Monster objects to evaluate.
         num_simulations: Full Monte Carlo simulation count for potential fun fights.
-        fast_screen_sims: Initial screening simulation count (0 to disable).
+        fast_screen_sims: Initial screening simulation count (default 50).
         max_workers: Number of parallel worker processes (defaults to CPU count).
 
     Returns:
@@ -264,7 +265,7 @@ def find_all_fun_matchups(
     try:
         executor_cls = ProcessPoolExecutor
         with executor_cls(max_workers=max_workers) as executor:
-            results = executor.map(_evaluate_pair_task, pairs_tasks, chunksize=100)
+            results = executor.map(_evaluate_pair_task, pairs_tasks, chunksize=250)
             for r in results:
                 if r is not None:
                     fun_matchups.append(r)
@@ -276,5 +277,6 @@ def find_all_fun_matchups(
                     fun_matchups.append(r)
 
     return fun_matchups
+
 
 

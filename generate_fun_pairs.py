@@ -16,7 +16,7 @@ def generate_fun_pairs_csv(output_file: str = "fun_pairs.csv"):
     print(f"Loaded {len(monsters)} monsters.")
 
     print("Finding all fun matchups...")
-    fun_matchups = find_all_fun_matchups(monsters, num_simulations=5000, fast_screen_sims=200)
+    fun_matchups = find_all_fun_matchups(monsters, num_simulations=1000, fast_screen_sims=50)
     print(f"Found {len(fun_matchups)} fun matchups!")
 
     # Sort fun matchups by balance (closest to 50/50 first)
