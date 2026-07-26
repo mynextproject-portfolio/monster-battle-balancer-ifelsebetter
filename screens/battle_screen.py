@@ -1,6 +1,6 @@
 import flet as ft
 from dnd_api import get_monster_details
-from battle import simulate_battle
+from battle import simulate_battle, run_monte_carlo
 from ui_constants import (
     SPACING_SM, SPACING_LG, SPACING_XL,
     BUTTON_HEIGHT_LG, BUTTON_WIDTH_LG,
@@ -51,6 +51,9 @@ def battle_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_ba
 
     # Run fight using existing battle engine (simulate_battle)
     winner = simulate_battle(monster1, monster2)
+
+    # Monte Carlo win-chance percentages (5000 simulations)
+    m1_pct, m2_pct = run_monte_carlo(monster1, monster2)
 
     return ft.Container(
         content=ft.Column(
@@ -108,6 +111,83 @@ def battle_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_ba
                     ),
                     padding=SPACING_LG,
                     border=ft.border.all(3, ft.Colors.AMBER_400),
+                    border_radius=15,
+                    bgcolor=ft.Colors.GREY_800,
+                ),
+                ft.Container(height=SPACING_LG),
+
+                # Win-Chance Percentages
+                ft.Container(
+                    content=ft.Column(
+                        [
+                            ft.Text(
+                                t(page, "win_chance_label"),
+                                size=TEXT_SIZE_LG,
+                                color=ft.Colors.WHITE,
+                                weight=ft.FontWeight.BOLD,
+                            ),
+                            ft.Container(height=SPACING_SM),
+                            ft.Row(
+                                [
+                                    ft.Container(
+                                        content=ft.Column(
+                                            [
+                                                ft.Text(
+                                                    monster1.name,
+                                                    size=TEXT_SIZE_MD,
+                                                    color=ft.Colors.BLUE_200,
+                                                    weight=ft.FontWeight.BOLD,
+                                                    text_align=ft.TextAlign.CENTER,
+                                                ),
+                                                ft.Text(
+                                                    f"{m1_pct:.1f}%",
+                                                    size=36,
+                                                    color=ft.Colors.BLUE_300,
+                                                    weight=ft.FontWeight.BOLD,
+                                                    text_align=ft.TextAlign.CENTER,
+                                                ),
+                                            ],
+                                            horizontal_alignment=ft.CrossAxisAlignment.CENTER,
+                                        ),
+                                        expand=True,
+                                    ),
+                                    ft.Text(
+                                        "vs",
+                                        size=TEXT_SIZE_LG,
+                                        color=ft.Colors.GREY_500,
+                                        weight=ft.FontWeight.BOLD,
+                                    ),
+                                    ft.Container(
+                                        content=ft.Column(
+                                            [
+                                                ft.Text(
+                                                    monster2.name,
+                                                    size=TEXT_SIZE_MD,
+                                                    color=ft.Colors.RED_200,
+                                                    weight=ft.FontWeight.BOLD,
+                                                    text_align=ft.TextAlign.CENTER,
+                                                ),
+                                                ft.Text(
+                                                    f"{m2_pct:.1f}%",
+                                                    size=36,
+                                                    color=ft.Colors.RED_300,
+                                                    weight=ft.FontWeight.BOLD,
+                                                    text_align=ft.TextAlign.CENTER,
+                                                ),
+                                            ],
+                                            horizontal_alignment=ft.CrossAxisAlignment.CENTER,
+                                        ),
+                                        expand=True,
+                                    ),
+                                ],
+                                alignment=ft.MainAxisAlignment.CENTER,
+                                spacing=SPACING_LG,
+                            ),
+                        ],
+                        horizontal_alignment=ft.CrossAxisAlignment.CENTER,
+                    ),
+                    padding=SPACING_LG,
+                    border=ft.border.all(2, ft.Colors.GREY_600),
                     border_radius=15,
                     bgcolor=ft.Colors.GREY_800,
                 ),

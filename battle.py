@@ -100,3 +100,25 @@ def simulate_battle(
 
     # Round cap reached — higher remaining HP wins.
     return monster1 if m1_hp >= m2_hp else monster2
+
+
+def run_monte_carlo(
+    monster1: Monster, monster2: Monster, num_simulations: int = 5000
+) -> Tuple[float, float]:
+    """Run many simulated battles and return each monster's win percentage.
+
+    Args:
+        monster1: First combatant.
+        monster2: Second combatant.
+        num_simulations: Number of battles to simulate (default 5000).
+
+    Returns:
+        (monster1_win_pct, monster2_win_pct) as floats 0-100.
+    """
+    m1_wins = 0
+    for i in range(num_simulations):
+        winner = simulate_battle(monster1, monster2, seed=i)
+        if winner.name == monster1.name:
+            m1_wins += 1
+    m1_pct = (m1_wins / num_simulations) * 100
+    return m1_pct, 100 - m1_pct
