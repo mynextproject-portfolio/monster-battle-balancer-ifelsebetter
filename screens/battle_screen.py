@@ -1,6 +1,6 @@
 import flet as ft
 from dnd_api import get_monster_details
-from battle import simulate_battle, run_monte_carlo
+from battle import run_battle
 from ui_constants import (
     SPACING_SM, SPACING_LG, SPACING_XL,
     BUTTON_HEIGHT_LG, BUTTON_WIDTH_LG,
@@ -49,11 +49,11 @@ def battle_screen(page: ft.Page, monster1_index: str, monster2_index: str, on_ba
             alignment=ft.MainAxisAlignment.CENTER,
         )
 
-    # Run fight using existing battle engine (simulate_battle)
-    winner = simulate_battle(monster1, monster2)
-
-    # Monte Carlo win-chance percentages (5000 simulations)
-    m1_pct, m2_pct = run_monte_carlo(monster1, monster2)
+    # All simulation logic lives in battle.py — screen only displays results.
+    result = run_battle(monster1, monster2)
+    winner = result.winner
+    m1_pct = result.monster1_win_pct
+    m2_pct = result.monster2_win_pct
 
     return ft.Container(
         content=ft.Column(
