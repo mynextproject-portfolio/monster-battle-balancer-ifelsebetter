@@ -4,7 +4,7 @@ Tests for battle simulator module.
 
 import pytest
 from models.monster import Monster
-from battle import simulate_battle, parse_damage_dice, roll_damage, MAX_ROUNDS
+from battle import simulate_battle, parse_damage_dice, roll_damage, MAX_ROUNDS, run_monte_carlo, run_battle, BattleResult
 
 
 class TestDamageParsing:
@@ -64,3 +64,88 @@ class TestBattleSimulation:
         blob1 = Monster({"name": "Blob1", "hit_points": 100, "armor_class": [{"value": 10}], "strength": 5, "actions": []})
         blob2 = Monster({"name": "Blob2", "hit_points": 50, "armor_class": [{"value": 10}], "strength": 5, "actions": []})
         assert simulate_battle(blob1, blob2, seed=1).name == "Blob1"
+
+
+class TestMonteCarlo:
+    @pytest.fixture
+    def goblin(self):
+        return Monster({
+            "name": "Goblin",
+            "hit_points": 7,
+            "armor_class": [{"value": 15}],
+            "strength": 8,
+            "actions": [{"name": "Scimitar", "attack_bonus": 4, "damage": [{"damage_dice": "1d6+2"}]}]
+        })
+
+    @pytest.fixture
+    def orc(self):
+        return Monster({
+            "name": "Orc",
+            "hit_points": 15,
+            "armor_class": [{"value": 13}],
+            "strength": 16,
+            "actions": [{"name": "Greataxe", "attack_bonus": 5, "damage": [{"damage_dice": "1d12+3"}]}]
+        })
+
+    def test_percentages_sum_to_100(self, goblin, orc):
+        m1_pct, m2_pct = run_monte_carlo(goblin, orc, num_simulations=1000)
+        assert abs((m1_pct + m2_pct) - 100.0) < 0.01
+
+    def test_percentages_are_stable(self, goblin, orc):
+        """Same inputs always produce the same percentages (seeded per-sim)."""
+        pct_a = run_monte_carlo(goblin, orc, num_simulations=1000)
+        pct_b = run_monte_carlo(goblin, orc, num_simulations=1000)
+        assert pct_a == pct_b
+
+    def test_stronger_monster_wins_more(self):
+        """A high-HP high-attack monster should beat a weak one most of the time."""
+        weak = Monster({
+            "name": "Weak",
+            "hit_points": 5,
+            "armor_class": [{"value": 10}],
+            "strength": 6,
+            "actions": [{"name": "Slap", "attack_bonus": 1, "damage": [{"damage_dice": "1d4"}]}]
+        })
+        strong = Monster({
+            "name": "Strong",
+            "hit_points": 50,
+            "armor_class": [{"value": 18}],
+            "strength": 20,
+            "actions": [{"name": "Sword", "attack_bonus": 8, "damage": [{"damage_dice": "2d10+5"}]}]
+        })
+        m1_pct, m2_pct = run_monte_carlo(weak, strong, num_simulations=1000)
+        assert m2_pct > 90  # Strong should dominate
+
+
+class TestRunBattle:
+    @pytest.fixture
+    def goblin(self):
+        return Monster({
+            "name": "Goblin",
+            "hit_points": 7,
+            "armor_class": [{"value": 15}],
+            "strength": 8,
+            "actions": [{"name": "Scimitar", "attack_bonus": 4, "damage": [{"damage_dice": "1d6+2"}]}]
+        })
+
+    @pytest.fixture
+    def orc(self):
+        return Monster({
+            "name": "Orc",
+            "hit_points": 15,
+            "armor_class": [{"value": 13}],
+            "strength": 16,
+            "actions": [{"name": "Greataxe", "attack_bonus": 5, "damage": [{"damage_dice": "1d12+3"}]}]
+        })
+
+    def test_returns_battle_result(self, goblin, orc):
+        result = run_battle(goblin, orc, num_simulations=100)
+        assert isinstance(result, BattleResult)
+
+    def test_result_has_winner(self, goblin, orc):
+        result = run_battle(goblin, orc, num_simulations=100)
+        assert result.winner.name in ("Goblin", "Orc")
+
+    def test_result_percentages_sum_to_100(self, goblin, orc):
+        result = run_battle(goblin, orc, num_simulations=100)
+        assert abs((result.monster1_win_pct + result.monster2_win_pct) - 100.0) < 0.01

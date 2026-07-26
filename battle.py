@@ -12,9 +12,24 @@ Rules:
 
 import random
 import re
+from dataclasses import dataclass
 from typing import Optional, Tuple
 
 from models.monster import Monster
+
+
+@dataclass
+class BattleResult:
+    """Immutable container for a complete battle outcome.
+
+    Attributes:
+        winner: The Monster that won the single fight.
+        monster1_win_pct: Monster 1's win chance from Monte Carlo simulation.
+        monster2_win_pct: Monster 2's win chance from Monte Carlo simulation.
+    """
+    winner: Monster
+    monster1_win_pct: float
+    monster2_win_pct: float
 
 # Hard cap on rounds so a fight always terminates.
 MAX_ROUNDS = 100
@@ -122,3 +137,28 @@ def run_monte_carlo(
             m1_wins += 1
     m1_pct = (m1_wins / num_simulations) * 100
     return m1_pct, 100 - m1_pct
+
+
+def run_battle(
+    monster1: Monster, monster2: Monster, num_simulations: int = 5000
+) -> BattleResult:
+    """Run a single battle and compute Monte Carlo win percentages.
+
+    This is the single entry-point the UI should call — it bundles
+    the fight result and the win-chance statistics into one object.
+
+    Args:
+        monster1: First combatant.
+        monster2: Second combatant.
+        num_simulations: Number of Monte Carlo simulations.
+
+    Returns:
+        A BattleResult with winner and win percentages.
+    """
+    winner = simulate_battle(monster1, monster2)
+    m1_pct, m2_pct = run_monte_carlo(monster1, monster2, num_simulations)
+    return BattleResult(
+        winner=winner,
+        monster1_win_pct=m1_pct,
+        monster2_win_pct=m2_pct,
+    )
